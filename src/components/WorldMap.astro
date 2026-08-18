@@ -1,0 +1,881 @@
+---
+import "maplibre-gl/dist/maplibre-gl.css";
+import { locations } from "../lib/locations";
+
+const apiKey = import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY ?? "";
+const base = import.meta.env.BASE_URL;
+---
+
+<section
+  class="map-workspace"
+  id="map-workspace"
+  data-api-key={apiKey}
+  data-base={base}
+  aria-label="图寻世界地图"
+>
+  <div id="world-map" class="world-map" aria-label="可拖拽和缩放的世界地图"></div>
+
+  <div class="map-toolbar" aria-label="地图摘要">
+    <div>
+      <span class="map-toolbar__eyebrow">WORLD INDEX</span>
+      <strong>{locations.length} 个示例点位</strong>
+    </div>
+    <a href={`${base}united_states/`} class="map-toolbar__country">
+      <span class="country-dot" aria-hidden="true"></span>
+      美国资料
+    </a>
+  </div>
+
+  <div class="map-mode-switcher" role="group" aria-label="地图显示模式">
+    <button type="button" data-map-mode="simple" aria-pressed="false">
+      简洁
+    </button>
+    <button type="button" data-map-mode="terrain" aria-pressed="true">
+      地形
+    </button>
+  </div>
+
+  <div class="preview-source-switcher" role="group" aria-label="街景缩略图来源">
+    <button type="button" data-preview-source="google" aria-pressed="true">
+      谷歌
+    </button>
+    <button type="button" data-preview-source="local" aria-pressed="false">
+      國內
+    </button>
+  </div>
+
+  <div class="map-legend" aria-label="地图图例">
+    <span><i class="legend-swatch legend-swatch--location"></i>街景点位</span>
+  </div>
+
+  <aside
+    id="location-panel"
+    class="location-panel"
+    aria-live="polite"
+    aria-label="地点街景信息"
+    hidden
+  >
+    <button
+      class="location-panel__close"
+      id="location-panel-close"
+      type="button"
+      aria-label="关闭地点信息"
+      title="关闭"
+    >
+      ×
+    </button>
+    <div id="location-panel-content"></div>
+  </aside>
+
+  <div class="map-loading" id="map-loading" role="status">
+    <span></span>
+    正在载入地图
+  </div>
+
+  <noscript>
+    <div class="map-fallback">地图需要启用 JavaScript。</div>
+  </noscript>
+
+  <script
+    is:inline
+    id="geo-pub-location-data"
+    type="application/json"
+    set:html={JSON.stringify(locations)}
+  ></script>
+</section>
+
+<script>
+  import {
+    AttributionControl,
+    Map as MapLibreMap,
+    NavigationControl,
+    setWorkerUrl,
+    type MapGeoJSONFeature,
+    type MapLayerMouseEvent,
+    type MapMouseEvent,
+  } from "maplibre-gl";
+  import mapLibreWorkerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
+  import { feature as topojsonFeature } from "topojson-client";
+  import worldTopology from "world-atlas/countries-110m.json";
+  import type {
+    FeatureCollection,
+    GeoJsonProperties,
+    Geometry,
+    Point,
+  } from "geojson";
+  import type {
+    GeometryCollection,
+    Topology,
+  } from "topojson-specification";
+  import type { GeoLocation, StreetView } from "../lib/locations";
+
+  const workspace = document.querySelector<HTMLElement>("#map-workspace");
+  const mapElement = document.querySelector<HTMLElement>("#world-map");
+  const loadingElement = document.querySelector<HTMLElement>("#map-loading");
+  const panel = document.querySelector<HTMLElement>("#location-panel");
+  const panelContent = document.querySelector<HTMLElement>(
+    "#location-panel-content",
+  );
+  const panelClose = document.querySelector<HTMLButtonElement>(
+    "#location-panel-close",
+  );
+  const dataElement = document.querySelector<HTMLScriptElement>(
+    "#geo-pub-location-data",
+  );
+  const modeButtons = Array.from(
+    document.querySelectorAll<HTMLButtonElement>("[data-map-mode]"),
+  );
+  const previewSourceButtons = Array.from(
+    document.querySelectorAll<HTMLButtonElement>("[data-preview-source]"),
+  );
+
+  if (
+    !workspace ||
+    !mapElement ||
+    !loadingElement ||
+    !panel ||
+    !panelContent ||
+    !panelClose ||
+    !dataElement ||
+    modeButtons.length !== 2 ||
+    previewSourceButtons.length !== 2
+  ) {
+    throw new Error("Geo Pub map markup is incomplete.");
+  }
+
+  setWorkerUrl(mapLibreWorkerUrl);
+
+  const apiKey = workspace.dataset.apiKey ?? "";
+  const baseUrl = workspace.dataset.base ?? "/geo_pub/";
+  const locationList = JSON.parse(dataElement.textContent ?? "[]") as GeoLocation[];
+  const locationById = new Map(
+    locationList.map((location) => [location.id, location]),
+  );
+
+  const countryPages: Record<
+    string,
+    { slug: string; label: string; center: [number, number] }
+  > = {
+    "840": {
+      slug: "united_states",
+      label: "美国",
+      center: [-98.5, 39.5],
+    },
+  };
+
+  const topology = worldTopology as unknown as Topology<{
+    countries: GeometryCollection<GeoJsonProperties>;
+  }>;
+  const worldCountries = topojsonFeature(
+    topology,
+    topology.objects.countries,
+  ) as unknown as FeatureCollection<Geometry, GeoJsonProperties>;
+
+  for (const country of worldCountries.features) {
+    const numericId = String(country.id ?? "").padStart(3, "0");
+    const page = countryPages[numericId];
+    country.properties = {
+      ...(country.properties ?? {}),
+      numericId,
+      pageSlug: page?.slug ?? "",
+      pageLabel: page?.label ?? "",
+    };
+  }
+
+  const publishedCountryLabels: FeatureCollection<Point> = {
+    type: "FeatureCollection",
+    features: Object.entries(countryPages).map(([numericId, country]) => ({
+      type: "Feature",
+      geometry: { type: "Point", coordinates: country.center },
+      properties: {
+        numericId,
+        pageSlug: country.slug,
+        pageLabel: country.label,
+      },
+    })),
+  };
+
+  const locationGeoJson: FeatureCollection<Point> = {
+    type: "FeatureCollection",
+    features: locationList.map((location) => ({
+      type: "Feature",
+      geometry: { type: "Point", coordinates: location.coordinates },
+      properties: {
+        id: location.id,
+        title: location.title,
+        countrySlug: location.countrySlug,
+        minZoom: location.minZoom,
+      },
+    })),
+  };
+
+  const map = new MapLibreMap({
+    container: mapElement,
+    style: "https://tiles.openfreemap.org/styles/positron",
+    center: [8, 24],
+    zoom: 1.35,
+    minZoom: 1,
+    maxZoom: 14,
+    renderWorldCopies: true,
+    attributionControl: false,
+  });
+
+  map.addControl(
+    new NavigationControl({ showCompass: false }),
+    "bottom-right",
+  );
+  map.addControl(
+    new AttributionControl({ compact: true }),
+    "bottom-right",
+  );
+
+  let activeLocationId: string | null = null;
+  let panelPinned = false;
+  let showTimer: number | undefined;
+  let closeTimer: number | undefined;
+  let lastPointerPoint = { x: 120, y: 160 };
+  let currentMapMode: "simple" | "terrain" = "terrain";
+  let currentPreviewSource: "google" | "local" = "google";
+
+  const terrainLayerIds = [
+    "terrain-natural-earth",
+    "terrain-landcover",
+    "terrain-landuse",
+    "terrain-water",
+    "terrain-waterways",
+    "terrain-mountain-peaks",
+    "terrain-mountain-labels",
+  ];
+
+  const setMapMode = (mode: "simple" | "terrain") => {
+    currentMapMode = mode;
+    const visibility = mode === "terrain" ? "visible" : "none";
+
+    for (const layerId of terrainLayerIds) {
+      if (map.getLayer(layerId)) {
+        map.setLayoutProperty(layerId, "visibility", visibility);
+      }
+    }
+
+    for (const layerId of ["park", "landcover_wood"]) {
+      if (map.getLayer(layerId)) {
+        map.setLayoutProperty(
+          layerId,
+          "visibility",
+          mode === "terrain" ? "none" : "visible",
+        );
+      }
+    }
+
+    workspace.dataset.mapMode = mode;
+    for (const button of modeButtons) {
+      button.setAttribute(
+        "aria-pressed",
+        String(button.dataset.mapMode === mode),
+      );
+    }
+  };
+
+  for (const button of modeButtons) {
+    button.addEventListener("click", () => {
+      const mode = button.dataset.mapMode;
+      if (mode === "simple" || mode === "terrain") setMapMode(mode);
+    });
+  }
+
+  const cancelTimers = () => {
+    if (showTimer) window.clearTimeout(showTimer);
+    if (closeTimer) window.clearTimeout(closeTimer);
+    showTimer = undefined;
+    closeTimer = undefined;
+  };
+
+  const joinBase = (path: string) =>
+    `${baseUrl.replace(/\/$/, "")}/${path.replace(/^\//, "")}`;
+
+  const getViewpoint = (
+    location: GeoLocation,
+    streetView: StreetView,
+  ): [number, number] => streetView.viewpoint ?? location.coordinates;
+
+  const buildStaticImageUrl = (
+    location: GeoLocation,
+    streetView: StreetView,
+  ) => {
+    const [lng, lat] = getViewpoint(location, streetView);
+    const parameters = new URLSearchParams({
+      size: "480x270",
+      heading: String(streetView.heading),
+      pitch: String(streetView.pitch),
+      fov: String(streetView.fov),
+      source: "outdoor",
+      return_error_code: "true",
+      key: apiKey,
+    });
+
+    if (streetView.panoId) {
+      parameters.set("pano", streetView.panoId);
+    } else {
+      parameters.set("location", `${lat},${lng}`);
+    }
+
+    return `https://maps.googleapis.com/maps/api/streetview?${parameters.toString()}`;
+  };
+
+  const buildGoogleMapsUrl = (
+    location: GeoLocation,
+    streetView: StreetView,
+  ) => {
+    if (streetView.google_map_url) return streetView.google_map_url;
+
+    const [lng, lat] = getViewpoint(location, streetView);
+    const parameters = new URLSearchParams({
+      api: "1",
+      map_action: "pano",
+      viewpoint: `${lat},${lng}`,
+      heading: String(streetView.heading),
+      pitch: String(streetView.pitch),
+      fov: String(Math.min(streetView.fov, 100)),
+      utm_source: "geo_pub",
+      utm_campaign: "street_view_preview",
+    });
+    if (streetView.panoId) parameters.set("pano", streetView.panoId);
+    return `https://www.google.com/maps/@?${parameters.toString()}`;
+  };
+
+  const createTextElement = (
+    tagName: keyof HTMLElementTagNameMap,
+    className: string,
+    text: string,
+  ) => {
+    const element = document.createElement(tagName);
+    element.className = className;
+    element.textContent = text;
+    return element;
+  };
+
+  const loadPreview = (
+    card: HTMLAnchorElement,
+    location: GeoLocation,
+    streetView: StreetView,
+  ) => {
+    if (card.dataset.loaded === "true") return;
+
+    const imageUrl =
+      currentPreviewSource === "google"
+        ? apiKey
+          ? buildStaticImageUrl(location, streetView)
+          : ""
+        : streetView.local_image_path
+          ? joinBase(streetView.local_image_path)
+          : "";
+    if (!imageUrl) return;
+
+    card.dataset.loaded = "true";
+    card.classList.add("is-loading");
+
+    const image = new Image();
+    image.alt = streetView.alt;
+    image.width = 480;
+    image.height = 270;
+    image.decoding = "async";
+    image.referrerPolicy = "strict-origin-when-cross-origin";
+    image.addEventListener("load", () => {
+      card.classList.remove("is-loading");
+      card.classList.add("is-loaded");
+    });
+    image.addEventListener("error", () => {
+      image.remove();
+      card.classList.remove("is-loading");
+      card.classList.add("has-error");
+      const state = card.querySelector<HTMLElement>(".street-view-card__state");
+      if (state) {
+        state.textContent =
+          currentPreviewSource === "google"
+            ? "街景预览暂时不可用"
+            : "本地缩略图载入失败";
+      }
+    });
+    image.src = imageUrl;
+    card.prepend(image);
+  };
+
+  const renderLocation = (location: GeoLocation) => {
+    panelContent.replaceChildren();
+
+    const heading = document.createElement("header");
+    heading.className = "location-panel__header";
+    heading.append(createTextElement("h2", "location-panel__title", location.title));
+
+    const mediaRail = document.createElement("div");
+    mediaRail.className = "street-view-rail";
+    mediaRail.classList.toggle(
+      "street-view-rail--single",
+      location.streetViews.length === 1,
+    );
+    mediaRail.setAttribute("aria-label", "街景预览");
+
+    location.streetViews.forEach((streetView, index) => {
+      const card = document.createElement("a");
+      card.className = "street-view-card";
+      card.href = buildGoogleMapsUrl(location, streetView);
+      card.target = "_blank";
+      card.rel = "noopener noreferrer";
+      card.setAttribute("aria-label", `${streetView.caption}，在 Google Maps 中打开`);
+
+      const hasPreview =
+        currentPreviewSource === "google"
+          ? Boolean(apiKey)
+          : Boolean(streetView.local_image_path);
+
+      const state = createTextElement(
+        "span",
+        "street-view-card__state",
+        currentPreviewSource === "google"
+          ? apiKey
+            ? "载入街景"
+            : "街景预览待连接"
+          : streetView.local_image_path
+            ? "载入本地缩略图"
+            : "本地缩略图待添加",
+      );
+      card.classList.toggle("has-no-preview", !hasPreview);
+      card.append(state);
+
+      const requestLoad = () => loadPreview(card, location, streetView);
+      card.addEventListener("mouseenter", requestLoad, { once: true });
+      card.addEventListener("focus", requestLoad, { once: true });
+      mediaRail.append(card);
+
+      if (index === 0 && hasPreview) requestLoad();
+    });
+
+    const body = document.createElement("div");
+    body.className = "location-panel__body";
+    body.append(createTextElement("p", "location-panel__summary", location.summary));
+
+    panelContent.append(heading, mediaRail, body);
+  };
+
+  const setPreviewSource = (source: "google" | "local") => {
+    if (currentPreviewSource === source) return;
+    currentPreviewSource = source;
+    workspace.dataset.previewSource = source;
+
+    for (const button of previewSourceButtons) {
+      button.setAttribute(
+        "aria-pressed",
+        String(button.dataset.previewSource === source),
+      );
+    }
+
+    const activeLocation = activeLocationId
+      ? locationById.get(activeLocationId)
+      : undefined;
+    if (activeLocation && !panel.hidden) {
+      renderLocation(activeLocation);
+      requestAnimationFrame(() => positionPanel());
+    }
+  };
+
+  for (const button of previewSourceButtons) {
+    button.addEventListener("click", () => {
+      const source = button.dataset.previewSource;
+      if (source === "google" || source === "local") {
+        setPreviewSource(source);
+      }
+    });
+  }
+
+  const positionPanel = (point = lastPointerPoint) => {
+    if (window.matchMedia("(max-width: 720px)").matches) {
+      panel.style.removeProperty("left");
+      panel.style.removeProperty("top");
+      return;
+    }
+
+    const workspaceRect = workspace.getBoundingClientRect();
+    const panelRect = panel.getBoundingClientRect();
+    const gap = 18;
+    const padding = 12;
+    let left = point.x + gap;
+    let top = point.y + gap;
+
+    if (left + panelRect.width > workspaceRect.width - padding) {
+      left = point.x - panelRect.width - gap;
+    }
+    if (top + panelRect.height > workspaceRect.height - padding) {
+      top = point.y - panelRect.height - gap;
+    }
+
+    panel.style.left = `${Math.max(padding, left)}px`;
+    panel.style.top = `${Math.max(padding, top)}px`;
+  };
+
+  const showLocation = (
+    location: GeoLocation,
+    point = lastPointerPoint,
+    pinned = false,
+  ) => {
+    cancelTimers();
+    activeLocationId = location.id;
+    panelPinned = pinned;
+    renderLocation(location);
+    panel.hidden = false;
+    panel.classList.toggle("is-pinned", panelPinned);
+    requestAnimationFrame(() => positionPanel(point));
+  };
+
+  const hidePanel = (force = false) => {
+    if (panelPinned && !force) return;
+    cancelTimers();
+    panel.hidden = true;
+    panelPinned = false;
+    activeLocationId = null;
+  };
+
+  const scheduleLocation = (location: GeoLocation, point: { x: number; y: number }) => {
+    lastPointerPoint = point;
+    if (activeLocationId === location.id && !panel.hidden) {
+      positionPanel(point);
+      return;
+    }
+    if (showTimer) window.clearTimeout(showTimer);
+    showTimer = window.setTimeout(() => showLocation(location, point), 250);
+  };
+
+  const scheduleClose = () => {
+    if (showTimer) window.clearTimeout(showTimer);
+    if (panelPinned) return;
+    closeTimer = window.setTimeout(() => hidePanel(), 180);
+  };
+
+  const getLocationFromFeatures = (features?: MapGeoJSONFeature[]) => {
+    const id = features?.[0]?.properties?.id;
+    return typeof id === "string" ? locationById.get(id) : undefined;
+  };
+
+  map.on("load", () => {
+    loadingElement.hidden = true;
+
+    map.addLayer(
+      {
+        id: "terrain-natural-earth",
+        type: "raster",
+        source: "ne2_shaded",
+        maxzoom: 7,
+        layout: { visibility: "none" },
+        paint: {
+          "raster-opacity": 0.48,
+          "raster-saturation": 0.18,
+          "raster-contrast": 0.12,
+        },
+      },
+      "park",
+    );
+    map.addLayer(
+      {
+        id: "terrain-landcover",
+        type: "fill",
+        source: "openmaptiles",
+        "source-layer": "landcover",
+        minzoom: 1,
+        filter: [
+          "match",
+          ["get", "class"],
+          ["wood", "grass", "sand", "rock", "wetland", "ice"],
+          true,
+          false,
+        ],
+        layout: { visibility: "none" },
+        paint: {
+          "fill-color": [
+            "match",
+            ["get", "class"],
+            "wood",
+            "#72966f",
+            "grass",
+            "#b4c58a",
+            "sand",
+            "#d8c78d",
+            "rock",
+            "#aaa39a",
+            "wetland",
+            "#86aaa0",
+            "ice",
+            "#dce9e8",
+            "#c9c6a9",
+          ],
+          "fill-opacity": [
+            "interpolate",
+            ["linear"],
+            ["zoom"],
+            1,
+            0.48,
+            6,
+            0.66,
+            12,
+            0.56,
+          ],
+        },
+      },
+      "park",
+    );
+    map.addLayer(
+      {
+        id: "terrain-landuse",
+        type: "fill",
+        source: "openmaptiles",
+        "source-layer": "landuse",
+        minzoom: 4,
+        filter: [
+          "match",
+          ["get", "class"],
+          [
+            "farmland",
+            "farmyard",
+            "orchard",
+            "vineyard",
+            "allotments",
+            "meadow",
+            "grass",
+            "recreation_ground",
+            "quarry",
+          ],
+          true,
+          false,
+        ],
+        layout: { visibility: "none" },
+        paint: {
+          "fill-color": [
+            "match",
+            ["get", "class"],
+            ["farmland", "farmyard"],
+            "#cfc58d",
+            ["orchard", "vineyard", "allotments"],
+            "#9eb47c",
+            ["meadow", "grass", "recreation_ground"],
+            "#b9ca91",
+            "quarry",
+            "#aaa29a",
+            "#c5c1a8",
+          ],
+          "fill-opacity": 0.56,
+        },
+      },
+      "park",
+    );
+    map.addLayer(
+      {
+        id: "terrain-water",
+        type: "fill",
+        source: "openmaptiles",
+        "source-layer": "water",
+        filter: ["!=", ["get", "brunnel"], "tunnel"],
+        layout: { visibility: "none" },
+        paint: {
+          "fill-color": "#8dbbc5",
+          "fill-opacity": 0.92,
+        },
+      },
+      "landcover_ice_shelf",
+    );
+    map.addLayer(
+      {
+        id: "terrain-waterways",
+        type: "line",
+        source: "openmaptiles",
+        "source-layer": "waterway",
+        layout: { visibility: "none" },
+        paint: {
+          "line-color": "#6fabb9",
+          "line-width": ["interpolate", ["linear"], ["zoom"], 4, 0.6, 12, 1.8],
+          "line-opacity": 0.9,
+        },
+      },
+      "building",
+    );
+    map.addLayer(
+      {
+        id: "terrain-mountain-peaks",
+        type: "circle",
+        source: "openmaptiles",
+        "source-layer": "mountain_peak",
+        minzoom: 7,
+        filter: ["<=", ["coalesce", ["get", "rank"], 99], 12],
+        layout: { visibility: "none" },
+        paint: {
+          "circle-color": "#665d55",
+          "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 2, 12, 3.5],
+          "circle-stroke-color": "#f8f5ea",
+          "circle-stroke-width": 1,
+        },
+      },
+      "waterway_line_label",
+    );
+    map.addLayer(
+      {
+        id: "terrain-mountain-labels",
+        type: "symbol",
+        source: "openmaptiles",
+        "source-layer": "mountain_peak",
+        minzoom: 8,
+        filter: ["<=", ["coalesce", ["get", "rank"], 99], 12],
+        layout: {
+          visibility: "none",
+          "text-field": [
+            "coalesce",
+            ["get", "name:zh-Hans"],
+            ["get", "name:zh"],
+            ["get", "name"],
+            "",
+          ],
+          "text-font": ["Noto Sans Regular"],
+          "text-size": 11,
+          "text-offset": [0, 0.85],
+          "text-anchor": "top",
+          "text-optional": true,
+        },
+        paint: {
+          "text-color": "#554d47",
+          "text-halo-color": "rgba(248, 245, 234, 0.9)",
+          "text-halo-width": 1.4,
+        },
+      },
+      "waterway_line_label",
+    );
+
+    setMapMode(currentMapMode);
+
+    map.addSource("world-countries", {
+      type: "geojson",
+      data: worldCountries,
+      generateId: true,
+    });
+    map.addLayer({
+      id: "country-page-hit-area",
+      type: "fill",
+      source: "world-countries",
+      filter: ["!=", ["get", "pageSlug"], ""],
+      paint: {
+        "fill-color": "rgba(0, 0, 0, 0)",
+        "fill-opacity": 0,
+      },
+    });
+
+    map.addSource("published-country-labels", {
+      type: "geojson",
+      data: publishedCountryLabels,
+    });
+    map.addLayer({
+      id: "published-country-label",
+      type: "symbol",
+      source: "published-country-labels",
+      layout: {
+        "text-field": ["get", "pageLabel"],
+        "text-size": ["interpolate", ["linear"], ["zoom"], 1, 13, 5, 18],
+        "text-font": ["Noto Sans Regular"],
+        "text-allow-overlap": true,
+      },
+      paint: {
+        "text-color": "#244a39",
+        "text-halo-color": "#fffdf7",
+        "text-halo-width": 1.6,
+      },
+    });
+
+    map.addSource("locations", {
+      type: "geojson",
+      data: locationGeoJson,
+    });
+    map.addLayer({
+      id: "location-points",
+      type: "circle",
+      source: "locations",
+      paint: {
+        "circle-color": "#e6523c",
+        "circle-radius": ["interpolate", ["linear"], ["zoom"], 1, 5.5, 8, 11],
+        "circle-stroke-color": "#fffdf7",
+        "circle-stroke-width": 3,
+      },
+    });
+
+    const initialId = new URLSearchParams(window.location.search).get("location");
+    const initialLocation = initialId ? locationById.get(initialId) : undefined;
+    if (initialLocation) {
+      map.flyTo({ center: initialLocation.coordinates, zoom: 6, duration: 0 });
+      window.setTimeout(() => {
+        showLocation(
+          initialLocation,
+          { x: mapElement.clientWidth / 2, y: mapElement.clientHeight / 2 },
+          true,
+        );
+      }, 80);
+    }
+  });
+
+  map.on("error", () => {
+    loadingElement.hidden = false;
+    loadingElement.textContent = "地图资源载入失败";
+    loadingElement.classList.add("has-error");
+  });
+
+  map.on("mouseenter", "location-points", (event: MapLayerMouseEvent) => {
+    map.getCanvas().style.cursor = "pointer";
+    const location = getLocationFromFeatures(event.features);
+    if (location) scheduleLocation(location, event.point);
+  });
+  map.on("mousemove", "location-points", (event: MapLayerMouseEvent) => {
+    const location = getLocationFromFeatures(event.features);
+    if (location) scheduleLocation(location, event.point);
+  });
+  map.on("mouseleave", "location-points", () => {
+    map.getCanvas().style.cursor = "";
+    scheduleClose();
+  });
+
+  map.on("mouseenter", "country-page-hit-area", () => {
+    map.getCanvas().style.cursor = "pointer";
+  });
+  map.on("mouseleave", "country-page-hit-area", () => {
+    map.getCanvas().style.cursor = "";
+  });
+  map.on("mouseenter", "published-country-label", () => {
+    map.getCanvas().style.cursor = "pointer";
+  });
+  map.on("mouseleave", "published-country-label", () => {
+    map.getCanvas().style.cursor = "";
+  });
+
+  map.on("click", (event: MapMouseEvent) => {
+    const locationFeatures = map.queryRenderedFeatures(event.point, {
+      layers: ["location-points"],
+    });
+    const location = getLocationFromFeatures(locationFeatures);
+    if (location) {
+      showLocation(location, event.point, true);
+      return;
+    }
+
+    const countryFeatures = map.queryRenderedFeatures(event.point, {
+      layers: ["published-country-label", "country-page-hit-area"],
+    });
+    const countrySlug = countryFeatures[0]?.properties?.pageSlug;
+    if (typeof countrySlug === "string" && countrySlug) {
+      window.location.href = joinBase(`${countrySlug}/`);
+      return;
+    }
+
+    hidePanel(true);
+  });
+
+  panel.addEventListener("mouseenter", cancelTimers);
+  panel.addEventListener("mouseleave", scheduleClose);
+  panelClose.addEventListener("click", () => hidePanel(true));
+  window.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") hidePanel(true);
+  });
+  window.addEventListener("resize", () => {
+    if (!panel.hidden) positionPanel();
+  });
+</script>

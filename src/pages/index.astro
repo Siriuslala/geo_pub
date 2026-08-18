@@ -1,0 +1,16 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import WorldMap from "../components/WorldMap.astro";
+---
+
+<BaseLayout
+  title="Geo Pub · 图寻资料库"
+  description="从世界地图进入国家与街景位置笔记。"
+  fullBleed
+>
+  <SiteHeader />
+  <main class="map-page">
+    <WorldMap />
+  </main>
+</BaseLayout>

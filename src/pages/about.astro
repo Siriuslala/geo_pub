@@ -1,0 +1,23 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+---
+
+<BaseLayout title="关于 · Geo Pub">
+  <SiteHeader />
+  <main class="simple-page prose">
+    <p class="page-kicker">ABOUT</p>
+    <h1>关于 Geo Pub</h1>
+    <p class="page-lead">
+      Geo Pub 是个人图寻学习资料库，以世界地图组织国家笔记和具体街景位置。
+    </p>
+
+    <h2>街景与来源</h2>
+    <p>
+      Google Street View 预览由 Google 官方 Street View Static API 在线提供。本站不会下载、复制或重新托管 Google 街景图片。点击预览图会打开 Google Maps 官方街景查看器。
+    </p>
+    <p>
+      本站与 Google、GeoGuessr 及地图供应商没有隶属关系。所有文字为个人学习笔记，不保证完整、准确或实时。
+    </p>
+  </main>
+</BaseLayout>

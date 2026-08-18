@@ -1,0 +1,37 @@
+{
+  "id": "us_arizona_saguaro_001",
+  "countrySlug": "united_states",
+  "slug": "arizona_saguaro",
+  "title": "Arizona · Saguaro country",
+  "coordinates": [-111.753, 32.247],
+  "summary": "索诺兰沙漠常见高大的柱状仙人掌。观察道路两侧植被密度、山体轮廓和干燥路肩。",
+  "minZoom": 4,
+  "tags": ["植被", "干旱地区", "仙人掌"],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "az_saguaro_view_01",
+      "google_map_url": "",
+      "local_image_path": "",
+      "viewpoint": [-111.753, 32.247],
+      "panoId": null,
+      "heading": 145,
+      "pitch": 0,
+      "fov": 85,
+      "caption": "柱状仙人掌与开阔的荒漠道路",
+      "alt": "亚利桑那州荒漠道路附近的 Google Street View 预览"
+    },
+    {
+      "id": "az_saguaro_view_02",
+      "google_map_url": "",
+      "local_image_path": "",
+      "viewpoint": [-111.753, 32.247],
+      "panoId": null,
+      "heading": 305,
+      "pitch": 2,
+      "fov": 70,
+      "caption": "反方向观察山体与路肩植被",
+      "alt": "从反方向观察亚利桑那州荒漠道路的 Google Street View 预览"
+    }
+  ]
+}

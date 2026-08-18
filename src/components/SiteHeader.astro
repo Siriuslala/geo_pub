@@ -1,0 +1,18 @@
+---
+const base = import.meta.env.BASE_URL;
+---
+
+<header class="site-header">
+  <a class="site-brand" href={base} aria-label="返回 Geo Pub 世界地图">
+    <span class="site-brand__mark" aria-hidden="true"></span>
+    <span>
+      <strong>Geo Pub</strong>
+      <small>图寻资料库</small>
+    </span>
+  </a>
+  <nav class="site-nav" aria-label="主要导航">
+    <a href={base}>世界地图</a>
+    <a href={`${base}united_states/`}>美国</a>
+    <a href={`${base}about/`}>关于</a>
+  </nav>
+</header>
