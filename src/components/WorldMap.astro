@@ -301,6 +301,7 @@ const base = import.meta.env.BASE_URL;
   const buildStaticImageUrl = (
     location: GeoLocation,
     streetView: StreetView,
+    usePanoId = true,
   ) => {
     const [lng, lat] = getViewpoint(location, streetView);
     const parameters = new URLSearchParams({
@@ -313,7 +314,7 @@ const base = import.meta.env.BASE_URL;
       key: apiKey,
     });
 
-    if (streetView.panoId) {
+    if (usePanoId && streetView.panoId) {
       parameters.set("pano", streetView.panoId);
     } else {
       parameters.set("location", `${lat},${lng}`);
@@ -380,11 +381,22 @@ const base = import.meta.env.BASE_URL;
     image.height = 270;
     image.decoding = "async";
     image.referrerPolicy = "strict-origin-when-cross-origin";
+    let attemptedCoordinateFallback = false;
     image.addEventListener("load", () => {
       card.classList.remove("is-loading");
       card.classList.add("is-loaded");
     });
     image.addEventListener("error", () => {
+      if (
+        currentPreviewSource === "google" &&
+        streetView.panoId &&
+        !attemptedCoordinateFallback
+      ) {
+        attemptedCoordinateFallback = true;
+        image.src = buildStaticImageUrl(location, streetView, false);
+        return;
+      }
+
       image.remove();
       card.classList.remove("is-loading");
       card.classList.add("has-error");
