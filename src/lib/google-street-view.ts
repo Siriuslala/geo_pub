@@ -121,9 +121,13 @@ export const parseGoogleStreetViewUrl = (
 
   const embeddedPitch = decodedUrl.match(pitchPattern)?.[1];
   const cameraTilt = camera[5];
-  const pitch = Number(
+  // Maps URLs use an inverted vertical axis: 90t is the horizon, larger t
+  // looks up, smaller t looks down. Thumbnail `pitch=` is `90 - t`. Street
+  // View Static API is the opposite sign (positive looks up).
+  const mapsPitch = Number(
     embeddedPitch ?? (cameraTilt === undefined ? 0 : 90 - Number(cameraTilt)),
   );
+  const pitch = -mapsPitch;
   if (!Number.isFinite(pitch) || pitch < -90 || pitch > 90) {
     throw new Error("链接中的俯仰角超出有效范围");
   }
