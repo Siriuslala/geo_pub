@@ -72,7 +72,7 @@ const countryMapPages = loadCountryMapPages();
 
   <div class="map-loading" id="map-loading" role="status">
     <span></span>
-    正在载入地图
+    正在加载中
   </div>
 
   <noscript>
@@ -95,7 +95,9 @@ const countryMapPages = loadCountryMapPages();
 
 <script>
   import {
+    AJAXError,
     AttributionControl,
+    GPUInitializationError,
     Map as MapLibreMap,
     NavigationControl,
     setWorkerUrl,
@@ -219,9 +221,66 @@ const countryMapPages = loadCountryMapPages();
     })),
   };
 
+  const STYLE_URL = "https://tiles.openfreemap.org/styles/positron";
+  const LOADING_TIMEOUT_MS = 20_000;
+  let mapReady = false;
+  let loadingTimeout: number | undefined;
+
+  const clearLoadingTimeout = () => {
+    if (!loadingTimeout) return;
+    window.clearTimeout(loadingTimeout);
+    loadingTimeout = undefined;
+  };
+
+  const hideLoading = () => {
+    loadingElement.hidden = true;
+    loadingElement.classList.remove("has-error");
+    clearLoadingTimeout();
+  };
+
+  const showFatalError = (message: string) => {
+    if (mapReady) return;
+    clearLoadingTimeout();
+
+    const label = document.createElement("span");
+    label.className = "map-loading__message";
+    label.textContent = message;
+
+    const retry = document.createElement("button");
+    retry.type = "button";
+    retry.className = "map-loading__retry";
+    retry.textContent = "重试";
+    retry.addEventListener("click", () => {
+      window.location.reload();
+    });
+
+    loadingElement.hidden = false;
+    loadingElement.classList.add("has-error");
+    loadingElement.replaceChildren(label, retry);
+  };
+
+  const armLoadingTimeout = () => {
+    clearLoadingTimeout();
+    loadingTimeout = window.setTimeout(() => {
+      if (!mapReady) showFatalError("地图加载超时，请检查网络后重试");
+    }, LOADING_TIMEOUT_MS);
+  };
+
+  const isFatalMapError = (error: unknown) => {
+    if (error instanceof GPUInitializationError) return true;
+    if (!(error instanceof AJAXError) || !error.url) return false;
+
+    try {
+      const { hostname, pathname } = new URL(error.url);
+      return hostname === "tiles.openfreemap.org" && pathname.startsWith("/styles/");
+    } catch {
+      return false;
+    }
+  };
+
   const map = new MapLibreMap({
     container: mapElement,
-    style: "https://tiles.openfreemap.org/styles/positron",
+    style: STYLE_URL,
     center: [8, 24],
     zoom: 1.35,
     minZoom: 1,
@@ -229,6 +288,8 @@ const countryMapPages = loadCountryMapPages();
     renderWorldCopies: true,
     attributionControl: false,
   });
+
+  armLoadingTimeout();
 
   map.addControl(
     new NavigationControl({ showCompass: false }),
@@ -578,7 +639,8 @@ const countryMapPages = loadCountryMapPages();
   };
 
   map.on("load", () => {
-    loadingElement.hidden = true;
+    mapReady = true;
+    hideLoading();
 
     map.addLayer(
       {
@@ -870,10 +932,10 @@ const countryMapPages = loadCountryMapPages();
     }
   });
 
-  map.on("error", () => {
-    loadingElement.hidden = false;
-    loadingElement.textContent = "地图资源载入失败";
-    loadingElement.classList.add("has-error");
+  map.on("error", (event) => {
+    if (isFatalMapError(event.error)) {
+      showFatalError("地图资源载入失败");
+    }
   });
 
   map.on("mouseenter", "location-points", (event: MapLayerMouseEvent) => {

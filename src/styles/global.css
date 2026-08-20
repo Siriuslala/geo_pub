@@ -504,7 +504,7 @@ a {
   display: none;
 }
 
-.map-loading span {
+.map-loading > span:not(.map-loading__message) {
   width: 16px;
   height: 16px;
   border: 2px solid #c7d2cd;
@@ -516,6 +516,20 @@ a {
 .map-loading.has-error {
   color: #7c2a20;
   border-color: rgba(230, 82, 60, 0.35);
+}
+
+.map-loading__retry {
+  padding: 1px 8px;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.map-loading__retry:hover,
+.map-loading__retry:focus-visible {
+  background: rgba(230, 82, 60, 0.08);
 }
 
 .maplibregl-ctrl-group {

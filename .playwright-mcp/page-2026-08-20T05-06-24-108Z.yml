@@ -1,0 +1,28 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - link "返回 Geo Pub 世界地图" [ref=f8e3] [cursor=pointer]:
+      - /url: /geo_pub/
+      - generic [ref=f8e5]:
+        - strong [ref=f8e6]: Geo Pub
+        - generic [ref=f8e7]: 图寻资料库
+    - navigation "主要导航" [ref=f8e8]:
+      - link "世界地图" [ref=f8e9] [cursor=pointer]:
+        - /url: /geo_pub/
+      - link "美国" [ref=f8e10] [cursor=pointer]:
+        - /url: /geo_pub/united_states/
+      - link "中国" [ref=f8e11] [cursor=pointer]:
+        - /url: /geo_pub/china/
+      - link "关于" [ref=f8e12] [cursor=pointer]:
+        - /url: /geo_pub/about/
+  - main [ref=f8e13]:
+    - paragraph [ref=f8e14]: ABOUT
+    - heading "关于 Geo Pub" [level=1] [ref=f8e15]
+    - paragraph [ref=f8e16]: Geo Pub 是个人图寻学习资料库，以世界地图组织国家笔记和具体街景位置。
+    - heading "街景与来源" [level=2] [ref=f8e17]
+    - paragraph [ref=f8e18]: Google Street View 预览由 Google 官方 Street View Static API 在线提供。本站不会下载、复制或重新托管 Google 街景图片。点击预览图会打开 Google Maps 官方街景查看器。
+    - paragraph [ref=f8e19]: 本站与 Google、GeoGuessr 及地图供应商没有隶属关系。所有文字为个人学习笔记，不保证完整、准确或实时。
+  - generic [ref=f8e22]:
+    - button [ref=f8e23]
+    - button [ref=f8e29]
+    - button [ref=f8e33]
+    - button [ref=f8e38]
