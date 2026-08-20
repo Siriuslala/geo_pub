@@ -380,7 +380,6 @@ const countryMapPages = loadCountryMapPages();
       heading: String(streetView.heading),
       pitch: String(streetView.pitch),
       fov: String(streetView.fov),
-      source: "outdoor",
       return_error_code: "true",
       key: apiKey,
     });
@@ -389,6 +388,11 @@ const countryMapPages = loadCountryMapPages();
       parameters.set("pano", streetView.panoId);
     } else {
       parameters.set("location", `${lat},${lng}`);
+    }
+
+    // source=outdoor drops user Photo Spheres during location search.
+    if (!streetView.panoId?.startsWith("CAoS")) {
+      parameters.set("source", "outdoor");
     }
 
     return `https://maps.googleapis.com/maps/api/streetview?${parameters.toString()}`;

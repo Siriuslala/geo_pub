@@ -1,7 +1,8 @@
 const NUMBER_PATTERN = "-?\\d+(?:\\.\\d+)?";
 
+// @lat,lng,Na,... — Na is camera height in metres (2a, 3a, ...), not a Street View mode flag.
 const cameraPattern = new RegExp(
-  `/@(${NUMBER_PATTERN}),(${NUMBER_PATTERN}),3a(?:,(${NUMBER_PATTERN})y)?(?:,(${NUMBER_PATTERN})h)?(?:,(${NUMBER_PATTERN})t)?`,
+  `/@(${NUMBER_PATTERN}),(${NUMBER_PATTERN}),(?:${NUMBER_PATTERN})a(?:,(${NUMBER_PATTERN})y)?(?:,(${NUMBER_PATTERN})h)?(?:,(${NUMBER_PATTERN})t)?`,
   "i",
 );
 const pitchPattern = new RegExp(`[?&]pitch=(${NUMBER_PATTERN})`, "i");
@@ -32,6 +33,44 @@ const decodeNestedUrl = (value: string) => {
 };
 
 const normalizeHeading = (heading: number) => ((heading % 360) + 360) % 360;
+
+const encodeVarint = (value: number, bytes: number[]) => {
+  let remaining = value;
+  while (remaining > 0x7f) {
+    bytes.push((remaining & 0x7f) | 0x80);
+    remaining >>>= 7;
+  }
+  bytes.push(remaining);
+};
+
+// User Photo Spheres use !2e10 and a short id (CIHM..., CIAB..., AF1Qip...).
+// Street View Static API expects the protobuf ImageKey {type:10, id} as unpadded base64.
+const encodeUserPanoId = (shortId: string, type = 10) => {
+  const idBytes = Buffer.from(shortId, "utf8");
+  const bytes: number[] = [0x08];
+  encodeVarint(type, bytes);
+  bytes.push(0x12);
+  encodeVarint(idBytes.length, bytes);
+  return Buffer.concat([Buffer.from(bytes), idBytes])
+    .toString("base64")
+    .replace(/=+$/, "");
+};
+
+const looksLikeEncodedPanoId = (panoId: string) => /^CAoS/i.test(panoId);
+const looksLikeUserPanoId = (panoId: string) =>
+  /^(CIHM|CIAB|AF1Qip)/i.test(panoId);
+
+const normalizePanoId = (
+  rawPanoId: string | null,
+  panoType: number | null,
+): string | null => {
+  if (!rawPanoId) return null;
+  if (looksLikeEncodedPanoId(rawPanoId)) return rawPanoId;
+  if (panoType === 10 || looksLikeUserPanoId(rawPanoId)) {
+    return encodeUserPanoId(rawPanoId, panoType && panoType > 0 ? panoType : 10);
+  }
+  return rawPanoId;
+};
 
 export const parseGoogleStreetViewUrl = (
   rawUrl: string,
@@ -70,8 +109,11 @@ export const parseGoogleStreetViewUrl = (
   }
 
   const embeddedPanoId = decodedUrl.match(/[?&]panoid=([^&!?#]+)/i)?.[1];
-  const dataPanoId = decodedUrl.match(/!1s([^!/?#]+)!2e/i)?.[1];
-  const panoId = embeddedPanoId ?? dataPanoId ?? null;
+  const dataPano = decodedUrl.match(/!1s([^!/?#]+)!2e(\d+)/i);
+  const panoId = normalizePanoId(
+    embeddedPanoId ?? dataPano?.[1] ?? null,
+    dataPano?.[2] ? Number(dataPano[2]) : null,
+  );
 
   const yaw = decodedUrl.match(yawPattern)?.[1];
   const cameraHeading = camera[4];
