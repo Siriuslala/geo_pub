@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Middle of Argentina, Buenos Aires", 
+  "coordinates": null,
+  "summary": "阿根廷中部（布利诺斯艾利斯省），加纳利海枣树（南美阿根廷、乌拉圭城市行道树）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "buenos_aires_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-36.2297417,-61.1129192,3a,70.1y,181.91h,92.09t/data=!3m7!1e1!3m5!1sco6P-GKr8DlowbVTCTeQcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0866882300617675%26panoid%3Dco6P-GKr8DlowbVTCTeQcA%26yaw%3D181.9087372373826!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

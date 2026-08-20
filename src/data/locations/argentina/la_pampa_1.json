@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Middle of Argentina, La Pampa", 
+  "coordinates": null,
+  "summary": "阿根廷中部（拉潘帕省），道路中间双黄线，两侧白线",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "la_pampa_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%86%85%E6%A0%BC%E7%BD%97%E6%B2%B3%E7%9C%81/@-36.7133985,-67.3484086,3a,54.7y,221.37h,87.2t/data=!3m7!1e1!3m5!1sAXFmixUVLJCoetAkR7qiMg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.7991890800115726%26panoid%3DAXFmixUVLJCoetAkR7qiMg%26yaw%3D221.37273088350597!7i13312!8i6656!4m6!3m5!1s0x95e282c4b0a6530b:0xc2dfc6ff33b0aedb!8m2!3d-40.7344343!4d-66.6176455!16zL20vMDF0cnc2!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North East of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士：东北部地区，没有红土；植被茂盛且鲜绿色。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_east_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Bybera+Rd,+Queensland+4387%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-29.8539391,151.1169381,3a,90y,182.4h,99.28t/data=!3m7!1e1!3m5!1sA4MqX9DXGtSTwdni3cL0yw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.284562191305511%26panoid%3DA4MqX9DXGtSTwdni3cL0yw%26yaw%3D182.39507279722818!7i16384!8i8192!4m6!3m5!1s0x6ba2ca476651b3d3:0x86390bfbef2eb27f!8m2!3d-28.3376638!4d150.9285661!16s%2Fg%2F1v2gdyhj!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

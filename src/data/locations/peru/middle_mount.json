@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Mountain in the north of Peru",
+  "coordinates": null,
+  "summary": "秘鲁中部，普纳（Puna）高原峡谷地貌。靠近内陆一点的山脉湿润一些",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_mount_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-9.6891029,-77.2551345,3a,75y,122.29h,86.18t/data=!3m8!1e1!3m6!1sCIABIhDMeCFUsRv_yfSvRQFNmNuU!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcOpuraDy_Mz7Er9XwkTkXnr7nPA0PMeDpaIEzkk8R_-LvyPV8jEbNaBbpGoInCMFudYFTs51Lkjywx5ofz8BhZoe2lyg8KlwxJqUnSCgu7FQlB11mjF7b4f3hgzGyccGkm6bsErPpUue14%3Dw900-h600-k-no-pi3.8197451717754376-ya357.02100998476993-ro0-fo100!7i7680!8i3840!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

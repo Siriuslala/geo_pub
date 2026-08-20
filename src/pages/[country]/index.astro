@@ -1,41 +1,47 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import SiteHeader from "../../components/SiteHeader.astro";
-import UnitedStatesNote, {
-  frontmatter,
-} from "../../content/countries/united_states.md";
-import { locations } from "../../lib/locations";
+import { getCountryNote, loadCountryNotes } from "../../lib/countries";
+import { loadLocations } from "../../lib/locations";
+
+export function getStaticPaths() {
+  return loadCountryNotes().map((country) => ({
+    params: { country: country.slug },
+  }));
+}
+
+const countrySlug = Astro.params.country ?? "";
+const country = getCountryNote(countrySlug);
+if (!country) throw new Error(`Unknown country route: ${countrySlug}`);
 
 const base = import.meta.env.BASE_URL;
-const countryLocations = locations.filter(
-  (location) => location.countrySlug === "united_states",
+const countryLocations = loadLocations().filter(
+  (location) => location.countrySlug === country.slug,
 );
 ---
 
 <BaseLayout
-  title={`${frontmatter.nameZh} · Geo Pub`}
-  description={frontmatter.summary}
+  title={`${country.nameZh} · Geo Pub`}
+  description={country.summary}
 >
   <SiteHeader />
   <main class="country-page">
     <header class="country-hero">
       <div class="country-hero__inner">
         <a class="back-link" href={base}>← 返回世界地图</a>
-        <p class="country-kicker">COUNTRY NOTE · {frontmatter.iso2}</p>
-        <h1>{frontmatter.nameZh}</h1>
-        <p class="country-name-en">{frontmatter.title}</p>
-        <p class="country-summary">{frontmatter.summary}</p>
+        <p class="country-kicker">COUNTRY NOTE · {country.iso2}</p>
+        <h1>{country.nameZh}</h1>
+        <p class="country-name-en">{country.title}</p>
+        <p class="country-summary">{country.summary}</p>
         <div class="country-meta">
           <span>{countryLocations.length} 个点位</span>
-          <span>更新于 {frontmatter.updatedAt}</span>
+          <span>更新于 {country.updatedAt}</span>
         </div>
       </div>
     </header>
 
     <div class="country-layout">
-      <article class="country-article prose">
-        <UnitedStatesNote />
-      </article>
+      <article class="country-article prose" set:html={country.html} />
 
       <aside class="country-locations" aria-labelledby="location-index-title">
         <div class="section-heading">

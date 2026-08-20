@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Perth City", 
+  "coordinates": null,
+  "summary": "西澳：珀斯城区：白松行道树",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_perth_city_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/7+Barnston+Way,+Langford+WA+6147%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-32.0568106,115.8654922,3a,90y,291.73h,96.34t/data=!3m7!1e1!3m5!1s6ZVvYDVahtSLavEdNhOI0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.342768054306205%26panoid%3D6ZVvYDVahtSLavEdNhOI0w%26yaw%3D291.73229279088116!7i13312!8i6656!4m6!3m5!1s0x2a32bddd337bbc23:0xff3cdde691f2506f!8m2!3d-32.0433356!4d115.9351269!16s%2Fg%2F11c1j4qbqw!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

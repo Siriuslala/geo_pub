@@ -99,6 +99,31 @@ Key 会进入浏览器发出的 Google 图片请求，因此“把 Key 放入 Gi
 src/data/locations/united_states/arizona_saguaro.json
 ```
 
+空白模板位于：
+
+```text
+src/data/templates/location.template.json
+```
+
+模板特意放在 `src/data/locations/` 之外，避免被当成真实点位载入。新增点位时，
+先建立国家目录并复制模板，例如：
+
+```bash
+mkdir -p src/data/locations/japan
+cp src/data/templates/location.template.json src/data/locations/japan/hokkaido.json
+```
+
+文件路径会自动补全以下字段，因此可以让它们保持 `""`：
+
+```text
+countrySlug = 国家目录名，例如 japan
+slug        = JSON 文件名，例如 hokkaido
+id          = countrySlug + "_" + slug，例如 japan_hokkaido
+```
+
+每条 streetView 的空 `id` 也会自动生成。空 `caption` 和 `alt` 会回退到
+location 的 `title`，再回退到文件名。
+
 基本结构：
 
 ```json
@@ -151,6 +176,32 @@ npm run check
 ```
 
 Zod schema 会检查坐标范围、slug、状态、镜头参数和必填内容。发布状态设为 `draft` 时，点位不会进入生产地图。
+
+草稿允许使用以下空值：
+
+```text
+普通文字                              "" 或 null
+coordinates / viewpoint / panoId     null
+minZoom / heading / pitch / fov       null
+tags                                  [] 或 null
+streetViews                           [] 或 null
+status                                "" 或 null（自动按 draft 处理）
+```
+
+数值字段为空时使用这些默认值：
+
+```text
+minZoom = 4
+heading = 0
+pitch   = 0
+fov     = 80
+```
+
+模板默认使用 `"status": "draft"`。草稿可以完全空着而不阻断开发服务器和
+生产构建，也不会显示在地图上。准备发布时，把 status 改成 `published`；此时
+必须具有非空的 `title`、`summary`、至少一条 streetView，以及可从顶层
+`coordinates`、`viewpoint` 或 `google_map_url` 得到的有效坐标。发布校验失败
+会明确指出缺少的字段。
 
 ## 国家资料
 

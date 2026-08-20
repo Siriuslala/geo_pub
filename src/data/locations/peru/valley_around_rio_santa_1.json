@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Valley around Santa River, north of Lima",
+  "coordinates": null,
+  "summary": "利马往北，稍微远离海岸线一些的高原河谷。奇特的黑色柱状植物是凤梨科普亚属的 普亚雷蒙迪（Puya raimondii），俗称安第斯巨普亚、女王普亚，一生只开一次花，开花之后植株就死亡。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "valley_around_rio_santa_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-9.887322,-77.329746,3a,89.9y,17.82h,88.79t/data=!3m7!1e1!3m5!1sjGwKmxcFB469qNtKixQgBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.2110264207705939%26panoid%3DjGwKmxcFB469qNtKixQgBg%26yaw%3D17.81904586646921!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,19 +1,25 @@
 {
-  "id": "argentina_san_cruz_province_001",
+  "id": "",
   "countrySlug": "argentina",
-  "slug": "san_cruz_province",
-  "title": "Santa Cruz Province · Southern Patagonia",
+  "slug": "",
+  "title": "Santa Cruz, Southern Patagonia",
+  "coordinates": null,
   "summary": "阿根廷南部，植被稀少",
   "minZoom": 4,
   "tags": [],
   "status": "published",
   "streetViews": [
     {
-      "id": "san_cruz_province_view_01",
+      "id": "san_cruz_01",
       "google_map_url": "https://www.google.com.hk/maps/@-51.9811966,-71.2139505,3a,75y,232.25h,79.42t/data=!3m7!1e1!3m5!1sgFVro2MAhO0-Ar8PFkDaeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.576359730089138%26panoid%3DgFVro2MAhO0-Ar8PFkDaeg%26yaw%3D232.25087985778168!7i16384!8i8192!5m1!1e4?entry=ttu",
       "local_image_path": "",
-      "caption": "阿根廷南部，植被稀少",
-      "alt": "阿根廷圣克鲁斯省植被稀少的 Google Street View 预览"
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
     }
   ]
 }

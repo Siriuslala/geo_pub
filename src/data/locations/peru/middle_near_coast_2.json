@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road in the middle of Peru, near the coast",
+  "coordinates": null,
+  "summary": "秘鲁中部（利马以北的三角形陆地再往北走一段，Casma 附近），靠近海岸线的荒漠。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_near_coast_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-9.56788,-78.2575042,3a,75y,72.82h,86.76t/data=!3m7!1e1!3m5!1suDeSNV7aisNS7Q8ZBXs_fA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.2352432988876245%26panoid%3DuDeSNV7aisNS7Q8ZBXs_fA%26yaw%3D72.81768742137585!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

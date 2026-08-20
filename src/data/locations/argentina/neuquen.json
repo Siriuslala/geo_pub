@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Middle of Argentina, Neuquén", 
+  "coordinates": null,
+  "summary": "阿根廷中部（内务肯省），有绿色灌木",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "neuquen_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-39.3395535,-67.1038624,3a,84.7y,210.12h,92.82t/data=!3m7!1e1!3m5!1s7cINJmiRDMkRY4P1PNXRrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.822935148685289%26panoid%3D7cINJmiRDMkRY4P1PNXRrg%26yaw%3D210.12081705401118!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

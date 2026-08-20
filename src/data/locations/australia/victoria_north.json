@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of Victoria", 
+  "coordinates": null,
+  "summary": "维多利亚：北部，有点像阿根廷，但远处能看到桉树，天更蓝一些；没有红土。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "victoria_north_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%96%B0%E5%8D%97%E5%A8%81%E5%B0%94%E5%A3%AB%E5%B7%9E%E5%BE%B7%E5%B0%BC%E5%88%A9%E6%98%86%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+2710/@-35.3257073,144.6561779,3a,80.6y,299.57h,89.51t/data=!3m7!1e1!3m5!1sKkr8OLjSB9-QBEii9degig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.48938328665971653%26panoid%3DKkr8OLjSB9-QBEii9degig%26yaw%3D299.57170742416423!7i16384!8i8192!4m6!3m5!1s0x6adf2ed987c5d8ad:0x40609b49043ca70!8m2!3d-35.5347037!4d144.9487606!16zL20vMDV3azRk!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

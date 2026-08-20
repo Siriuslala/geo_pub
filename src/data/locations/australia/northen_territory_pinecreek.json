@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Pine Creek", 
+  "coordinates": null,
+  "summary": "北领地：National Highway 1，派恩克里克（Pine Creek）南边一点点的荒漠",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "northen_territory_pinecreek_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/State+Route+36,+Northern+Territory,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-14.0007632,131.9287116,3a,75y,345.05h,95.12t/data=!3m7!1e1!3m5!1s9tpwGJJJ78GQ6v-nxojc4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.11633558422821%26panoid%3D9tpwGJJJ78GQ6v-nxojc4w%26yaw%3D345.0478467575535!7i13312!8i6656!4m6!3m5!1s0x2cb85e2027450269:0x39ab2e75b178de9!8m2!3d-12.821946!4d131.969624!16s%2Fg%2F1twt3zgc!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

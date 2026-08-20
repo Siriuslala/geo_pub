@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Adelaide Mountains", 
+  "coordinates": null,
+  "summary": "南澳：阿德莱德山区。地中海气候，有落叶树。松树；山区建房，屋顶灰绿/浅灰色。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_au_adelaide_mount_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Barrier+Hwy,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-34.8220142,138.8866607,3a,84.1y,90.31h,99.35t/data=!3m7!1e1!3m5!1sRfKaALwbwaErmwnhe39Y4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.34988677509854%26panoid%3DRfKaALwbwaErmwnhe39Y4g%26yaw%3D90.31231250493194!7i13312!8i6656!4m6!3m5!1s0x6ab986e1a454a383:0xa11a1a4972543721!8m2!3d-31.7220528!4d142.7012767!16zL20vMDJ3cGRn!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

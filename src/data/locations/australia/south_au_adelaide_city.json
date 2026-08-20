@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Adelaide City", 
+  "coordinates": null,
+  "summary": "南澳：阿德莱德市区。地中海气候，有落叶树；黄褐色土；老式建筑较多，铁艺雕花门廊、栅栏常见。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_au_adelaide_city_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/34%C2%B059'35.1%22S+138%C2%B044'54.4%22E/@-34.9754734,138.5825706,3a,80.4y,211.74h,95.14t/data=!3m7!1e1!3m5!1sQihpguZI_2oZMFP7pp0QxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.144728092632235%26panoid%3DQihpguZI_2oZMFP7pp0QxQ%26yaw%3D211.74413250112946!7i16384!8i8192!4m4!3m3!8m2!3d-34.993076!4d138.7484358!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

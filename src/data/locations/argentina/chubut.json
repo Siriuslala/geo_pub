@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Chubut, Patagonian steppe",
+  "coordinates": null,
+  "summary": "阿根廷南部（丘布特省），针茅（Stipa / Jarava，俗称羽毛草、普纳丛草）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "chubut_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-45.071302,-69.4375619,3a,75y,17.8h,87.63t/data=!3m7!1e1!3m5!1stHhDKyjM_DBIixNCq4aKwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.372861241217862%26panoid%3DtHhDKyjM_DBIixNCq4aKwA%26yaw%3D17.80227479454075!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "images/locations/argentina/chubut_province_view_01.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

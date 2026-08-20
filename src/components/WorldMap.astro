@@ -1,9 +1,12 @@
 ---
 import "maplibre-gl/dist/maplibre-gl.css";
-import { locations } from "../lib/locations";
+import { loadCountryMapPages } from "../lib/countries";
+import { loadLocations } from "../lib/locations";
 
 const apiKey = import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY ?? "";
 const base = import.meta.env.BASE_URL;
+const locations = loadLocations();
+const countryMapPages = loadCountryMapPages();
 ---
 
 <section
@@ -20,10 +23,10 @@ const base = import.meta.env.BASE_URL;
       <span class="map-toolbar__eyebrow">WORLD INDEX</span>
       <strong>{locations.length} 个示例点位</strong>
     </div>
-    <a href={`${base}united_states/`} class="map-toolbar__country">
+    <span class="map-toolbar__country">
       <span class="country-dot" aria-hidden="true"></span>
-      美国资料
-    </a>
+      {countryMapPages.length} 个国家资料
+    </span>
   </div>
 
   <div class="map-mode-switcher" role="group" aria-label="地图显示模式">
@@ -82,6 +85,12 @@ const base = import.meta.env.BASE_URL;
     type="application/json"
     set:html={JSON.stringify(locations)}
   ></script>
+  <script
+    is:inline
+    id="geo-pub-country-data"
+    type="application/json"
+    set:html={JSON.stringify(countryMapPages)}
+  ></script>
 </section>
 
 <script>
@@ -90,9 +99,11 @@ const base = import.meta.env.BASE_URL;
     Map as MapLibreMap,
     NavigationControl,
     setWorkerUrl,
+    type DataDrivenPropertyValueSpecification,
     type MapGeoJSONFeature,
     type MapLayerMouseEvent,
     type MapMouseEvent,
+    type PointLike,
   } from "maplibre-gl";
   import mapLibreWorkerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
   import { feature as topojsonFeature } from "topojson-client";
@@ -122,6 +133,9 @@ const base = import.meta.env.BASE_URL;
   const dataElement = document.querySelector<HTMLScriptElement>(
     "#geo-pub-location-data",
   );
+  const countryDataElement = document.querySelector<HTMLScriptElement>(
+    "#geo-pub-country-data",
+  );
   const modeButtons = Array.from(
     document.querySelectorAll<HTMLButtonElement>("[data-map-mode]"),
   );
@@ -137,6 +151,7 @@ const base = import.meta.env.BASE_URL;
     !panelContent ||
     !panelClose ||
     !dataElement ||
+    !countryDataElement ||
     modeButtons.length !== 2 ||
     previewSourceButtons.length !== 2
   ) {
@@ -151,17 +166,19 @@ const base = import.meta.env.BASE_URL;
   const locationById = new Map(
     locationList.map((location) => [location.id, location]),
   );
-
-  const countryPages: Record<
-    string,
-    { slug: string; label: string; center: [number, number] }
-  > = {
-    "840": {
-      slug: "united_states",
-      label: "美国",
-      center: [-98.5, 39.5],
-    },
-  };
+  const countryPages = JSON.parse(countryDataElement.textContent ?? "[]") as Array<{
+    slug: string;
+    iso2: string;
+    isoNumeric: string;
+    title: string;
+    nameZh: string;
+  }>;
+  const countryPagesByIso2 = Object.fromEntries(
+    countryPages.map((country) => [country.iso2, country]),
+  );
+  const countryPagesByIsoNumeric = Object.fromEntries(
+    countryPages.map((country) => [country.isoNumeric, country]),
+  );
 
   const topology = worldTopology as unknown as Topology<{
     countries: GeometryCollection<GeoJsonProperties>;
@@ -173,27 +190,20 @@ const base = import.meta.env.BASE_URL;
 
   for (const country of worldCountries.features) {
     const numericId = String(country.id ?? "").padStart(3, "0");
-    const page = countryPages[numericId];
+    const page = countryPagesByIsoNumeric[numericId];
     country.properties = {
       ...(country.properties ?? {}),
       numericId,
       pageSlug: page?.slug ?? "",
-      pageLabel: page?.label ?? "",
     };
   }
 
-  const publishedCountryLabels: FeatureCollection<Point> = {
-    type: "FeatureCollection",
-    features: Object.entries(countryPages).map(([numericId, country]) => ({
-      type: "Feature",
-      geometry: { type: "Point", coordinates: country.center },
-      properties: {
-        numericId,
-        pageSlug: country.slug,
-        pageLabel: country.label,
-      },
-    })),
-  };
+  const countryLabelLayerIds = [
+    "label_country_1",
+    "label_country_2",
+    "label_country_3",
+  ];
+  const publishedCountryColor = "#176f72";
 
   const locationGeoJson: FeatureCollection<Point> = {
     type: "FeatureCollection",
@@ -757,6 +767,56 @@ const base = import.meta.env.BASE_URL;
       "waterway_line_label",
     );
 
+    map.addLayer(
+      {
+        id: "country-subdivision-boundaries",
+        type: "line",
+        source: "openmaptiles",
+        "source-layer": "boundary",
+        minzoom: 3,
+        maxzoom: 8,
+        filter: [
+          "all",
+          [">=", ["get", "admin_level"], 3],
+          ["<=", ["get", "admin_level"], 4],
+          ["!=", ["get", "maritime"], 1],
+          ["!=", ["get", "disputed"], 1],
+          ["!", ["has", "claimed_by"]],
+        ],
+        layout: {
+          "line-cap": "round",
+          "line-join": "round",
+        },
+        paint: {
+          "line-color": "#6f7775",
+          "line-dasharray": [2, 1.5],
+          "line-opacity": [
+            "interpolate",
+            ["linear"],
+            ["zoom"],
+            3,
+            0.34,
+            5,
+            0.54,
+            8,
+            0.72,
+          ],
+          "line-width": [
+            "interpolate",
+            ["linear"],
+            ["zoom"],
+            3,
+            0.45,
+            5,
+            0.7,
+            8,
+            1,
+          ],
+        },
+      },
+      map.getLayer("boundary_2") ? "boundary_2" : undefined,
+    );
+
     setMapMode(currentMapMode);
 
     map.addSource("world-countries", {
@@ -775,26 +835,10 @@ const base = import.meta.env.BASE_URL;
       },
     });
 
-    map.addSource("published-country-labels", {
-      type: "geojson",
-      data: publishedCountryLabels,
-    });
-    map.addLayer({
-      id: "published-country-label",
-      type: "symbol",
-      source: "published-country-labels",
-      layout: {
-        "text-field": ["get", "pageLabel"],
-        "text-size": ["interpolate", ["linear"], ["zoom"], 1, 13, 5, 18],
-        "text-font": ["Noto Sans Regular"],
-        "text-allow-overlap": true,
-      },
-      paint: {
-        "text-color": "#244a39",
-        "text-halo-color": "#fffdf7",
-        "text-halo-width": 1.6,
-      },
-    });
+    for (const layerId of countryLabelLayerIds) {
+      if (!map.getLayer(layerId)) continue;
+      map.setPaintProperty(layerId, "text-color", "#000000");
+    }
 
     map.addSource("locations", {
       type: "geojson",
@@ -846,17 +890,122 @@ const base = import.meta.env.BASE_URL;
     scheduleClose();
   });
 
-  map.on("mouseenter", "country-page-hit-area", () => {
-    map.getCanvas().style.cursor = "pointer";
+  const getCountrySlugFromIso2 = (iso2: unknown) => {
+    if (typeof iso2 !== "string" || !iso2) return undefined;
+    return countryPagesByIso2[iso2.toUpperCase()]?.slug;
+  };
+
+  const getCountrySlugFromLabelName = (properties?: GeoJsonProperties) => {
+    if (!properties) return undefined;
+    const names = [
+      properties.iso_a2,
+      properties.name,
+      properties.name_en,
+      properties["name:latin"],
+      properties["name:nonlatin"],
+    ]
+      .filter((value): value is string => typeof value === "string" && value.length > 0)
+      .map((value) => value.trim().toLowerCase());
+    if (!names.length) return undefined;
+
+    const match = countryPages.find((country) => {
+      const aliases = [country.iso2, country.title, country.nameZh].map((value) =>
+        value.trim().toLowerCase(),
+      );
+      return aliases.some((alias) => names.includes(alias));
+    });
+    return match?.slug;
+  };
+
+  const getCountrySlugFromFeatures = (features?: MapGeoJSONFeature[]) => {
+    for (const feature of features ?? []) {
+      const fromPageSlug = feature.properties?.pageSlug;
+      if (typeof fromPageSlug === "string" && fromPageSlug) return fromPageSlug;
+      const fromIso2 = getCountrySlugFromIso2(feature.properties?.iso_a2);
+      if (fromIso2) return fromIso2;
+      const fromName = getCountrySlugFromLabelName(feature.properties);
+      if (fromName) return fromName;
+    }
+    return undefined;
+  };
+
+  const queryCountryLabelLayers = () =>
+    countryLabelLayerIds.filter((layerId) => Boolean(map.getLayer(layerId)));
+
+  const setCountryLabelHover = (iso2: string | null, names: string[] = []) => {
+    const normalizedNames = names.map((name) => name.trim().toLowerCase());
+    const nameMatches = normalizedNames.flatMap((name) => [
+      ["==", ["downcase", ["coalesce", ["get", "name_en"], ""]], name],
+      ["==", ["downcase", ["coalesce", ["get", "name"], ""]], name],
+      ["==", ["downcase", ["coalesce", ["get", "name:latin"], ""]], name],
+    ]);
+    const matchers = [
+      ...(iso2
+        ? [["==", ["upcase", ["coalesce", ["get", "iso_a2"], ""]], iso2]]
+        : []),
+      ...nameMatches,
+    ];
+    const colorExpression = (
+      matchers.length > 0
+        ? ["case", ["any", ...matchers], publishedCountryColor, "#000000"]
+        : "#000000"
+    ) as DataDrivenPropertyValueSpecification<string>;
+
+    for (const layerId of queryCountryLabelLayers()) {
+      map.setPaintProperty(layerId, "text-color", colorExpression);
+    }
+  };
+
+  let hoveredCountryIso2: string | null = null;
+
+  const updateCountryHoverFromPoint = (point: PointLike) => {
+    const labelLayers = queryCountryLabelLayers();
+    const labelFeatures = labelLayers.length
+      ? map.queryRenderedFeatures(point, { layers: labelLayers })
+      : [];
+    const hoveredIso2 =
+      typeof labelFeatures[0]?.properties?.iso_a2 === "string"
+        ? String(labelFeatures[0].properties.iso_a2).toUpperCase()
+        : null;
+    const slugFromLabel = getCountrySlugFromFeatures(labelFeatures);
+    const fillFeatures = map.getLayer("country-page-hit-area")
+      ? map.queryRenderedFeatures(point, { layers: ["country-page-hit-area"] })
+      : [];
+    const slugFromFill = getCountrySlugFromFeatures(fillFeatures);
+    const slug = slugFromLabel ?? slugFromFill;
+    const hoverKey = slugFromLabel ? (hoveredIso2 ?? slugFromLabel) : null;
+
+    if (hoveredCountryIso2 === hoverKey) {
+      map.getCanvas().style.cursor = slug ? "pointer" : "";
+      return;
+    }
+
+    hoveredCountryIso2 = hoverKey;
+    const hoveredPage = countryPages.find((country) => country.slug === slugFromLabel);
+    setCountryLabelHover(
+      hoveredIso2 && slugFromLabel ? hoveredIso2 : null,
+      hoveredPage ? [hoveredPage.title, hoveredPage.nameZh] : [],
+    );
+    map.getCanvas().style.cursor = slug ? "pointer" : "";
+  };
+
+  map.on("mousemove", (event: MapMouseEvent) => {
+    const locationFeatures = map.queryRenderedFeatures(event.point, {
+      layers: ["location-points"],
+    });
+    if (locationFeatures.length) {
+      if (hoveredCountryIso2) {
+        hoveredCountryIso2 = null;
+        setCountryLabelHover(null, []);
+      }
+      return;
+    }
+    updateCountryHoverFromPoint(event.point);
   });
-  map.on("mouseleave", "country-page-hit-area", () => {
-    map.getCanvas().style.cursor = "";
-  });
-  map.on("mouseenter", "published-country-label", () => {
-    map.getCanvas().style.cursor = "pointer";
-  });
-  map.on("mouseleave", "published-country-label", () => {
-    map.getCanvas().style.cursor = "";
+
+  map.on("mouseout", () => {
+    hoveredCountryIso2 = null;
+    setCountryLabelHover(null, []);
   });
 
   map.on("click", (event: MapMouseEvent) => {
@@ -869,11 +1018,15 @@ const base = import.meta.env.BASE_URL;
       return;
     }
 
-    const countryFeatures = map.queryRenderedFeatures(event.point, {
-      layers: ["published-country-label", "country-page-hit-area"],
-    });
-    const countrySlug = countryFeatures[0]?.properties?.pageSlug;
-    if (typeof countrySlug === "string" && countrySlug) {
+    const countryLayers = [
+      ...queryCountryLabelLayers(),
+      "country-page-hit-area",
+    ].filter((layerId) => Boolean(map.getLayer(layerId)));
+    const countryFeatures = countryLayers.length
+      ? map.queryRenderedFeatures(event.point, { layers: countryLayers })
+      : [];
+    const countrySlug = getCountrySlugFromFeatures(countryFeatures);
+    if (countrySlug) {
       window.location.href = joinBase(`${countrySlug}/`);
       return;
     }

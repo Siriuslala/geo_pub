@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road in the middle of Peru, near the coast",
+  "coordinates": null,
+  "summary": "秘鲁中部，靠近海岸线的山脉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_near_coast_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-10.2507798,-78.0364047,3a,75y,182.49h,90.53t/data=!3m7!1e1!3m5!1sySQ1nnsoPhM9H7pjtN7x3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.5299145728491936%26panoid%3DySQ1nnsoPhM9H7pjtN7x3g%26yaw%3D182.48772478349895!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

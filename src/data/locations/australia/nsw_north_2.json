@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士：北部，马利松树，但比维多利亚的要高大一些，墨绿一些。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Bourke-Milparinka+Rd,+New+South+Wales+2840%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-32.5994865,147.4400719,3a,75y,150.44h,91.22t/data=!3m7!1e1!3m5!1s6xhG3VLzvYs-MyoXFBuJEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2173168267307943%26panoid%3D6xhG3VLzvYs-MyoXFBuJEA%26yaw%3D150.43509811838328!7i16384!8i8192!4m6!3m5!1s0x6affaca5b844865b:0xf3d7a3de190fc04c!8m2!3d-29.9343467!4d144.8616251!16s%2Fg%2F11cjgg_jwh!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

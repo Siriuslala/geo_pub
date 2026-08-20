@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Village in the north of Peru",
+  "coordinates": null,
+  "summary": "秘鲁北部，村镇，诺福克南洋杉；当地人多为印第安人或印欧混血，会佩戴巴拿马帽（帽檐宽大且外翻），女性会穿百褶裙。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_village_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-6.7238318,-78.2825881,3a,76.4y,91.35h,97.02t/data=!3m7!1e1!3m5!1s07Y2Xc5YSeVIm1QHV17rVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.0212218161244095%26panoid%3D07Y2Xc5YSeVIm1QHV17rVQ%26yaw%3D91.34526210773296!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

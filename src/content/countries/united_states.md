@@ -1,7 +1,9 @@
 ---
 title: United States
-nameZh: 美国
+nameZh: United States
 iso2: US
+isoNumeric: "840"
+mapCenter: [-98.5, 39.5]
 summary: 广阔且线索密度很高的图寻区域，不同州在气候、道路与街景覆盖上差异明显。
 updatedAt: 2026-08-17
 ---

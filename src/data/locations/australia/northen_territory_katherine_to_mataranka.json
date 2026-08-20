@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Katherine to Mataranka", 
+  "coordinates": null,
+  "summary": "北领地：凯瑟琳到马塔兰卡之间；路面泛白，磨砂感；路边有黄色枯草",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "northen_territory_katherine_to_mataranka_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-14.7066519,132.7711531,3a,86.5y,284.65h,97.08t/data=!3m7!1e1!3m5!1sc9EGb43QsiJUIiTmz0-dzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.079999999999998%26panoid%3Dc9EGb43QsiJUIiTmz0-dzQ%26yaw%3D284.65!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

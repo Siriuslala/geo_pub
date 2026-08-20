@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road near Palta",
+  "coordinates": null,
+  "summary": "秘鲁北端，派塔（Palta）附近的公路，十分干旱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "palta_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-5.1700217,-81.0744112,3a,90y,186.4h,84.76t/data=!3m7!1e1!3m5!1sR5ZlkjoRhALeBSoS6L2BBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.241694764873415%26panoid%3DR5ZlkjoRhALeBSoS6L2BBg%26yaw%3D186.40318701851112!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

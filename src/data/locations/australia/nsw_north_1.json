@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士：北部，马利桉（Mallee Eucalyptus，多种桉树统称）：多主干矮桉树；浓密深绿色灌木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-29.9732769,144.9667742,3a,75y,123.06h,84.49t/data=!3m7!1e1!3m5!1s7pKiej2YVZy7rrLEa6u7xg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.511233873639256%26panoid%3D7pKiej2YVZy7rrLEa6u7xg%26yaw%3D123.0605275677465!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

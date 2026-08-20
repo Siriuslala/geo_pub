@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "chile",
+  "slug": "",
+  "title": "North of Chile", 
+  "coordinates": null,
+  "summary": "阿根廷西北部 / 智利北部的盐沼（salina /salar）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/26%C2%B050'21.8%22S+69%C2%B004'06.2%22W/@-26.9073947,-69.0256847,3a,75y,1.19h,91.63t/data=!3m7!1e1!3m5!1symZXZ0700rbNA7RKeIcmlw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.6324817979156308%26panoid%3DymZXZ0700rbNA7RKeIcmlw%26yaw%3D1.190963581965578!7i16384!8i8192!4m4!3m3!8m2!3d-26.8393943!4d-69.0683989!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

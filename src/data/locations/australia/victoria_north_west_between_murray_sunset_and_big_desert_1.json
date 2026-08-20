@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Victoria North West, Between Murray Sunset and Big Desert", 
+  "coordinates": null,
+  "summary": "维多利亚之观：矮冠的马利桉树 (Mallee)",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "victoria_north_west_between_murray_sunset_and_big_desert_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/2830+Mallee+Hwy,+Tutye+VIC+3506%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-35.3290917,141.1872952,3a,75y,354.27h,91.35t/data=!3m7!1e1!3m5!1sHZTmdD0t6yEBL-hprrORCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.348514127254731%26panoid%3DHZTmdD0t6yEBL-hprrORCw%26yaw%3D354.26959800538276!7i16384!8i8192!4m6!3m5!1s0x6ac5d1d4f1471d17:0x8ddccdb238f8ce9!8m2!3d-35.2097944!4d141.5114688!16s%2Fg%2F11ksnvdn60!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

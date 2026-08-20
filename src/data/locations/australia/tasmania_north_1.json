@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of Tasmania", 
+  "coordinates": null,
+  "summary": "塔斯马尼亚：北部，意大利白杨；中部耕地牧场。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "tasmania_north_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-41.6799023,147.2711387,3a,82.2y,140.24h,95.09t/data=!3m7!1e1!3m5!1seVRbGlho1zET2s7CVoqlsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.088548658259668%26panoid%3DeVRbGlho1zET2s7CVoqlsg%26yaw%3D140.23649546393233!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

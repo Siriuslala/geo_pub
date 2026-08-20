@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Mountain in the north of Peru",
+  "coordinates": null,
+  "summary": "秘鲁北部山区：当地常见校服为红头巾，黑裙子。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_mount_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-7.557801,-78.7194329,3a,77.5y,3.33h,70.15t/data=!3m7!1e1!3m5!1s7_RPwx5D9RyAfAQ5MBNmxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D19.847297853894148%26panoid%3D7_RPwx5D9RyAfAQ5MBNmxQ%26yaw%3D3.33153459067261!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

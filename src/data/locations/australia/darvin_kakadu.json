@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Kakadu", 
+  "coordinates": null,
+  "summary": "达尔文：State Route 36，卡卡杜国家公园附近。植被茂盛，有成片树林",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "darvin_kakadu_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-12.7837816,132.2140555,3a,90y,251.95h,95.73t/data=!3m7!1e1!3m5!1sJtuYOrIdA8HY_dEgGN3nxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.734093926969891%26panoid%3DJtuYOrIdA8HY_dEgGN3nxg%26yaw%3D251.94893030644332!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

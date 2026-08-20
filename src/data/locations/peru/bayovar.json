@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road near Bayóvar",
+  "coordinates": null,
+  "summary": "秘鲁北部海岸荒漠，浅灰白色沙质荒漠，路面蒙一层白色盐尘。受秘鲁寒流降温减湿，虽然在赤道，但极度干旱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "bayovar_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-5.890284,-80.9233472,3a,87.6y,297.06h,95.94t/data=!3m7!1e1!3m5!1sjjysTupDQoY3Zl4UC-xKCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.944690639259164%26panoid%3DjjysTupDQoY3Zl4UC-xKCw%26yaw%3D297.0585524668119!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

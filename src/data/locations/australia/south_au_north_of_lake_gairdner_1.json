@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of Lake Gairdner", 
+  "coordinates": null,
+  "summary": "南澳南部：斯图尔特公路，盖尔德纳湖北边挨着水比较近的公路，金合欢树（Mulga）较多",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_of_lake_gairdner_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Stuart+Hwy,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-31.1955676,136.2797454,3a,90y,291.55h,90.99t/data=!3m7!1e1!3m5!1sbXKs4XlERa335_w4baYQvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.9854903738560807%26panoid%3DbXKs4XlERa335_w4baYQvg%26yaw%3D291.54915953703795!7i16384!8i8192!4m6!3m5!1s0x6a82e5977a6c435f:0x385ff8c6f7d88da8!8m2!3d-22.273426!4d133.4222369!16zL20vMDNfZngy!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+import { readdirSync, readFileSync } from "node:fs";
+import { relative, resolve, sep } from "node:path";
 import { z } from "zod";
 import { parseGoogleStreetViewUrl } from "./google-street-view";
 
@@ -6,12 +8,32 @@ const coordinatesSchema = z.tuple([
   z.number().min(-90).max(90),
 ]);
 
+const emptyStringSchema = z.preprocess(
+  (value) => (value === null || value === undefined ? "" : value),
+  z.string().trim(),
+);
+
+const optionalCoordinatesSchema = z.preprocess(
+  (value) => (value === null || value === "" ? undefined : value),
+  coordinatesSchema.optional(),
+);
+
+const numberWithDefault = (fallback: number, schema: z.ZodNumber) =>
+  z.preprocess(
+    (value) =>
+      value === null || value === undefined || value === "" ? fallback : value,
+    schema,
+  );
+
+const slugSchema = emptyStringSchema.refine(
+  (value) => !value || /^[a-z0-9]+(?:_[a-z0-9]+)*$/.test(value),
+  "只能包含小写字母、数字和下划线",
+);
+
 const rawStreetViewSchema = z.object({
-  id: z.string().min(1),
-  google_map_url: z.string().trim().default(""),
-  local_image_path: z
-    .string()
-    .trim()
+  id: emptyStringSchema,
+  google_map_url: emptyStringSchema,
+  local_image_path: emptyStringSchema
     .refine(
       (path) =>
         !path ||
@@ -19,15 +41,17 @@ const rawStreetViewSchema = z.object({
           !path.includes("..") &&
           !/^[a-z][a-z\d+.-]*:/i.test(path)),
       "local_image_path 必须是 public 目录下的相对路径",
-    )
-    .default(""),
-  viewpoint: coordinatesSchema.optional(),
-  panoId: z.string().min(1).nullable().optional(),
-  heading: z.number().min(0).max(360).default(0),
-  pitch: z.number().min(-90).max(90).default(0),
-  fov: z.number().min(10).max(120).default(80),
-  caption: z.string().min(1),
-  alt: z.string().min(1),
+    ),
+  viewpoint: optionalCoordinatesSchema,
+  panoId: z.preprocess(
+    (value) => (value === null || value === undefined || value === "" ? null : value),
+    z.string().min(1).nullable(),
+  ),
+  heading: numberWithDefault(0, z.number().min(0).max(360)),
+  pitch: numberWithDefault(0, z.number().min(-90).max(90)),
+  fov: numberWithDefault(80, z.number().min(10).max(120)),
+  caption: emptyStringSchema,
+  alt: emptyStringSchema,
 });
 
 export const streetViewSchema = rawStreetViewSchema.transform(
@@ -59,16 +83,26 @@ export const streetViewSchema = rawStreetViewSchema.transform(
 );
 
 const rawLocationSchema = z.object({
-  id: z.string().min(1),
-  countrySlug: z.string().regex(/^[a-z0-9]+(?:_[a-z0-9]+)*$/),
-  slug: z.string().regex(/^[a-z0-9]+(?:_[a-z0-9]+)*$/),
-  title: z.string().min(1),
-  coordinates: coordinatesSchema.optional(),
-  summary: z.string().min(1),
-  minZoom: z.number().min(0).max(22).default(4),
-  tags: z.array(z.string().min(1)).default([]),
-  status: z.enum(["draft", "published", "archived"]).default("draft"),
-  streetViews: z.array(streetViewSchema).min(1),
+  id: emptyStringSchema,
+  countrySlug: slugSchema,
+  slug: slugSchema,
+  title: emptyStringSchema,
+  coordinates: optionalCoordinatesSchema,
+  summary: emptyStringSchema,
+  minZoom: numberWithDefault(4, z.number().min(0).max(22)),
+  tags: z.preprocess(
+    (value) => (value === null || value === undefined ? [] : value),
+    z.array(z.string().trim().min(1)),
+  ),
+  status: z.preprocess(
+    (value) =>
+      value === null || value === undefined || value === "" ? "draft" : value,
+    z.enum(["draft", "published", "archived"]),
+  ),
+  streetViews: z.preprocess(
+    (value) => (value === null || value === undefined ? [] : value),
+    z.array(streetViewSchema),
+  ),
 });
 
 export const locationSchema = rawLocationSchema.transform(
@@ -80,7 +114,51 @@ export const locationSchema = rawLocationSchema.transform(
     const coordinates =
       urlCoordinates ?? location.coordinates ?? firstStreetView?.viewpoint;
 
-    if (!coordinates) {
+    if (location.status === "published") {
+      const requiredTextFields = [
+        ["id", location.id, "id"],
+        ["countrySlug", location.countrySlug, "countrySlug"],
+        ["slug", location.slug, "slug"],
+        ["title", location.title, "title"],
+        ["summary", location.summary, "summary"],
+      ] as const;
+
+      for (const [path, value, label] of requiredTextFields) {
+        if (!value) {
+          context.addIssue({
+            code: "custom",
+            path: [path],
+            message: `published location 必须填写 ${label}`,
+          });
+        }
+      }
+
+      if (location.streetViews.length === 0) {
+        context.addIssue({
+          code: "custom",
+          path: ["streetViews"],
+          message: "published location 至少需要一条 streetViews",
+        });
+      }
+
+      location.streetViews.forEach((streetView, index) => {
+        for (const [field, value] of [
+          ["id", streetView.id],
+          ["caption", streetView.caption],
+          ["alt", streetView.alt],
+        ] as const) {
+          if (!value) {
+            context.addIssue({
+              code: "custom",
+              path: ["streetViews", index, field],
+              message: `published streetView 必须填写 ${field}`,
+            });
+          }
+        }
+      });
+    }
+
+    if (!coordinates && location.status === "published") {
       context.addIssue({
         code: "custom",
         path: ["coordinates"],
@@ -90,42 +168,102 @@ export const locationSchema = rawLocationSchema.transform(
       return z.NEVER;
     }
 
-    return { ...location, coordinates };
+    return { ...location, coordinates: coordinates ?? ([0, 0] as [number, number]) };
   },
 );
 
 export type GeoLocation = z.output<typeof locationSchema>;
 export type StreetView = z.output<typeof streetViewSchema>;
 
-const modules = import.meta.glob("../data/locations/**/*.json", {
-  eager: true,
-  import: "default",
-});
+const locationsDirectory = resolve(process.cwd(), "src/data/locations");
 
-const parsedLocations = Object.entries(modules).map(([path, value]) => {
-  const result = locationSchema.safeParse(value);
+const listLocationFiles = (directory: string): string[] =>
+  readdirSync(directory, { withFileTypes: true })
+    .flatMap((entry) => {
+      const entryPath = resolve(directory, entry.name);
+      if (entry.isDirectory()) return listLocationFiles(entryPath);
+      return entry.isFile() && entry.name.endsWith(".json") ? [entryPath] : [];
+    })
+    .sort();
+
+const parseLocation = (filePath: string): GeoLocation => {
+  const relativePath = relative(locationsDirectory, filePath).split(sep).join("/");
+  const pathMatch = relativePath.match(/^([^/]+)\/([^/]+)\.json$/);
+  if (!pathMatch) {
+    throw new Error(
+      `Invalid location file path: src/data/locations/${relativePath}`,
+    );
+  }
+
+  const [, pathCountrySlug, pathSlug] = pathMatch;
+  let value: unknown;
+  try {
+    value = JSON.parse(readFileSync(filePath, "utf8"));
+  } catch (error) {
+    const message = error instanceof Error ? error.message : "无法解析 JSON";
+    throw new Error(`Invalid JSON in src/data/locations/${relativePath}: ${message}`);
+  }
+
+  const rawValue =
+    value && typeof value === "object" && !Array.isArray(value)
+      ? (value as Record<string, unknown>)
+      : {};
+  const textOrEmpty = (field: unknown) =>
+    typeof field === "string" ? field.trim() : "";
+  const countrySlug = textOrEmpty(rawValue.countrySlug) || pathCountrySlug;
+  const slug = textOrEmpty(rawValue.slug) || pathSlug;
+  const id = textOrEmpty(rawValue.id) || `${countrySlug}_${slug}`;
+  const title = textOrEmpty(rawValue.title);
+  const streetViews = Array.isArray(rawValue.streetViews)
+    ? rawValue.streetViews.map((streetView, index) => {
+        const rawStreetView =
+          streetView && typeof streetView === "object" && !Array.isArray(streetView)
+            ? (streetView as Record<string, unknown>)
+            : {};
+        const fallbackLabel = title || slug;
+        return {
+          ...rawStreetView,
+          id:
+            textOrEmpty(rawStreetView.id) ||
+            `${id}_view_${String(index + 1).padStart(2, "0")}`,
+          caption: textOrEmpty(rawStreetView.caption) || fallbackLabel,
+          alt: textOrEmpty(rawStreetView.alt) || fallbackLabel,
+        };
+      })
+    : rawValue.streetViews;
+
+  const result = locationSchema.safeParse({
+    ...rawValue,
+    id,
+    countrySlug,
+    slug,
+    streetViews,
+  });
   if (!result.success) {
-    throw new Error(`Invalid location data in ${path}: ${result.error.message}`);
+    throw new Error(
+      `Invalid location data in src/data/locations/${relativePath}: ${result.error.message}`,
+    );
   }
   return result.data;
-});
+};
 
-const ids = new Set<string>();
-const slugs = new Set<string>();
+export const loadLocations = (): GeoLocation[] => {
+  const parsedLocations = listLocationFiles(locationsDirectory).map(parseLocation);
+  const ids = new Set<string>();
+  const slugs = new Set<string>();
 
-for (const location of parsedLocations) {
-  if (ids.has(location.id)) {
-    throw new Error(`Duplicate location id: ${location.id}`);
+  for (const location of parsedLocations) {
+    if (location.id && ids.has(location.id)) {
+      throw new Error(`Duplicate location id: ${location.id}`);
+    }
+    if (location.id) ids.add(location.id);
+
+    const scopedSlug = `${location.countrySlug}/${location.slug}`;
+    if (location.countrySlug && location.slug && slugs.has(scopedSlug)) {
+      throw new Error(`Duplicate location slug: ${scopedSlug}`);
+    }
+    if (location.countrySlug && location.slug) slugs.add(scopedSlug);
   }
-  ids.add(location.id);
 
-  const scopedSlug = `${location.countrySlug}/${location.slug}`;
-  if (slugs.has(scopedSlug)) {
-    throw new Error(`Duplicate location slug: ${scopedSlug}`);
-  }
-  slugs.add(scopedSlug);
-}
-
-export const locations = parsedLocations.filter(
-  (location) => location.status === "published",
-);
+  return parsedLocations.filter((location) => location.status === "published");
+};

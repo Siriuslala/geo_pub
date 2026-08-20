@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Mount foot of Alicepring", 
+  "coordinates": null,
+  "summary": "北领地：Alice Springs北边山区与平地的交界路口，Burt Plain，远处可见山地",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "northen_territory_alicespring_mount_foot_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8C%97%E9%A2%86%E5%9C%B0/@-23.5353566,133.8577251,3a,75y,88.42h,96.11t/data=!3m7!1e1!3m5!1sHI1-UyBH0GtB3ajcnbe5LQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.106570037223648%26panoid%3DHI1-UyBH0GtB3ajcnbe5LQ%26yaw%3D88.41965956793712!7i16384!8i8192!4m6!3m5!1s0x2b5172c2e6f3190f:0x2775!8m2!3d-19.4914108!4d132.5509603!16zL20vMDVmZjY!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

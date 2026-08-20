@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Mountains of Alicepring", 
+  "coordinates": null,
+  "summary": "北领地：Alice Springs北边一点点，山区内。三齿稃（Triodia，也叫 Spinifex，刺茅 / 旋刺草）和黄棕色碎石块。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "northen_territory_alicespring_mount_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8C%97%E9%A2%86%E5%9C%B0/@-23.6480204,133.8635019,3a,90y,283.72h,89.15t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDqq-LDiAE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcOB92oqSDeDdytvpn0GBC48btloDUZU1CffAZ0vl3MXEy7r35zZWc8jgUqcCwqu5DyWNSXQ063vF6FKtq-KHMlDsM088Nc9u2pUm_1MCOe-NytIWpAIZzVaOs2Go7akzDUEdT54aA%3Dw900-h600-k-no-pi0.8467861820254541-ya243.7193326897832-ro0-fo100!7i8704!8i4352!4m7!3m6!1s0x2b5172c2e6f3190f:0x2775!8m2!3d-19.4914108!4d132.5509603!10e5!16zL20vMDVmZjY!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

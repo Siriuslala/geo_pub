@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road in the middle of Peru, near the coast",
+  "coordinates": null,
+  "summary": "秘鲁中部（利马往北走一段，三角形陆地以北，巴兰卡附近），道路旁的甘蔗地和夹竹桃，黑白相间的路桩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_near_coast_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-10.6500233,-77.8476148,3a,87.9y,277.16h,74.01t/data=!3m7!1e1!3m5!1sTDFQd6iu3FoympDkeP_3KQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D15.987906345577102%26panoid%3DTDFQd6iu3FoympDkeP_3KQ%26yaw%3D277.1646797569485!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

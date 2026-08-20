@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "North West of Argentina", 
+  "coordinates": null,
+  "summary": "阿根廷西北部，裂纹墙面教堂",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-24.58995,-67.3967,3a,75y,159.23h,88.62t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDOqJ9D!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcNMIgQ8_EuQzeR3Up6m8wlUSzJoTHtj8ziP0Dyx5IjaKPNzow9LeynAR3tuaYFH3u-uMMDS64bieOOUYXJNet4njJcMn0vX5pxmnX08tIo2Fw4Mj47U977YRTCXZUhROjXzDA%3Dw900-h600-k-no-pi1.3808528840173864-ya16.16690142350501-ro0-fo100!7i5760!8i2880!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "images/locations/argentina/north_west_01.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

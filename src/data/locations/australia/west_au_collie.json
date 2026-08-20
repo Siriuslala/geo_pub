@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Collie Forest", 
+  "coordinates": null,
+  "summary": "西澳：珀斯（Perth）以南的柯利（Collie）地区，Jarrah 森林。树干深棕色或黑色。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_collie_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/32%C2%B021'56.2%22S+116%C2%B015'13.3%22E/@-33.3546304,116.1698096,3a,83.4y,325.95h,92.33t/data=!3m7!1e1!3m5!1sLEmuvvcB4fx1ZGWUM1IoKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3268116036706914%26panoid%3DLEmuvvcB4fx1ZGWUM1IoKA%26yaw%3D325.9477359845463!7i16384!8i8192!4m4!3m3!8m2!3d-32.3656114!4d116.253698!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

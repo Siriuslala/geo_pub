@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Middle of Argentina, La Pampa", 
+  "coordinates": null,
+  "summary": "阿根廷中部（拉潘帕省）：农田",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "la_pampa_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/National+Highway+1,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-35.0928833,-65.068389,3a,75y,272.76h,100.24t/data=!3m7!1e1!3m5!1s_QwRyFOK-ZU2-TpoNuKCvQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.244100096360043%26panoid%3D_QwRyFOK-ZU2-TpoNuKCvQ%26yaw%3D272.75576012177095!7i16384!8i8192!4m6!3m5!1s0x2a51d18fa0ede14f:0xfe005ed464065793!8m2!3d-18.7634797!4d126.0522264!16s%2Fm%2F0rytyx9!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

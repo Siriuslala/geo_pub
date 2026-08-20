@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Bon Bon", 
+  "coordinates": null,
+  "summary": "南澳南部：斯图尔特公路，邦邦（Bon Bon）地区，有金合欢树（Mulga）和高一点的灌木",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_au_bon_bon_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Glendambo+Access+Rd,+South+Australia+5719%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-30.6770835,135.4399273,3a,75y,111.51h,89.55t/data=!3m7!1e1!3m5!1sNeYTw186eZCSnFFByKKemg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.44997109144716774%26panoid%3DNeYTw186eZCSnFFByKKemg%26yaw%3D111.50589295696348!7i16384!8i8192!4m6!3m5!1s0x6a9f7d344feaf391:0xa32a9b232a5efdf!8m2!3d-30.9688998!4d135.7495446!16s%2Fg%2F11cjg9521x!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

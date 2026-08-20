@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Cobber Pedy", 
+  "coordinates": null,
+  "summary": "南澳中部：斯图尔特公路，Cobber Pedy往南走一段，很平很秃，没什么树",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_au_cobber_pedy_south_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/National+Highway+A87,+South+Australia,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-29.322696,134.9774635,3a,90y,163.4h,92.12t/data=!3m7!1e1!3m5!1syiRqh_NlOqbU8BHQ6T8bGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1229903502779166%26panoid%3DyiRqh_NlOqbU8BHQ6T8bGA%26yaw%3D163.3968214395864!7i16384!8i8192!4m6!3m5!1s0x6a9dafdd913df1e1:0x7a4b989b7200fb07!8m2!3d-29.3425293!4d134.9845417!16s%2Fg%2F11cjgf95rm!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

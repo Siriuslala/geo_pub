@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Near Cobber Pedy", 
+  "coordinates": null,
+  "summary": "南澳中部：斯图尔特公路，靠近库博佩地（Cobber Pedy）市中心的郊外公路，路面偏红色。很平，没什么树，路边草呈现绿色。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_au_near_cobber_pedy_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/National+Highway+A87,+South+Australia,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-29.060177,134.8171136,3a,75y,309.33h,95.18t/data=!3m7!1e1!3m5!1sldT1gqNgpFnmK-WQFYPKwg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.182131280271278%26panoid%3DldT1gqNgpFnmK-WQFYPKwg%26yaw%3D309.3330707471172!7i13312!8i6656!4m6!3m5!1s0x6a9dafdd913df1e1:0x7a4b989b7200fb07!8m2!3d-29.3425293!4d134.9845417!16s%2Fg%2F11cjgf95rm!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

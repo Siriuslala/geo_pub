@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Middle of Australia", 
+  "coordinates": null,
+  "summary": "澳洲中部：红土，穆尔加金合欢（Mulga）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "northen_territory_south_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/National+Route+83,+Queensland,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-25.9659319,133.2211619,3a,90y,227.92h,87.51t/data=!3m7!1e1!3m5!1sMLkygnT6gRMCrhTSXLR3sg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.485971279613409%26panoid%3DMLkygnT6gRMCrhTSXLR3sg%26yaw%3D227.92088836003586!7i16384!8i8192!4m6!3m5!1s0x6a3e1f4aa82a59bb:0x9709632091239a48!8m2!3d-21.8238162!4d139.5825395!16s%2Fg%2F1tgn4w4m!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

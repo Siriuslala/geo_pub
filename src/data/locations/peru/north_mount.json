@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Mountain in the north of Peru",
+  "coordinates": null,
+  "summary": "秘鲁北部，山区，岩石裸露。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_mount_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-5.7878195,-79.4361241,3a,75y,244.87h,96.44t/data=!3m7!1e1!3m5!1sD3m0Eee9K3cUe-8BzwLYNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.441650052594795%26panoid%3DD3m0Eee9K3cUe-8BzwLYNA%26yaw%3D244.86996168207628!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

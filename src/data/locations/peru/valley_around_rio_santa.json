@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Valley around Santa River",
+  "coordinates": null,
+  "summary": "湿润的河谷（桑塔河）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "valley_around_rio_santa_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/FL-2,+Florida/@-9.9879462,-77.3421594,3a,90y,40.11h,88.08t/data=!3m7!1e1!3m5!1s44LOe9wwaPCdo8r91-KVyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9203834201681218%26panoid%3D44LOe9wwaPCdo8r91-KVyg%26yaw%3D40.10976367676744!7i16384!8i8192!4m6!3m5!1s0x88ef7d93601fa247:0x56c03bed022069b9!8m2!3d30.5467114!4d-82.3506443!16s%2Fg%2F11byclvzkd!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

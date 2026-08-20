@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Santa Cruz, Southern Patagonia",
+  "coordinates": null,
+  "summary": "阿根廷南部（圣克鲁斯省）：裸露的岩石，Junellia tridens （当地叫 Mata Negra（黑丛），黑垫灌木）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "san_cruz_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-48.1735385,-69.6315344,3a,51.6y,281.82h,85.75t/data=!3m7!1e1!3m5!1stnltBIghBOQPraawUM8Wtg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.246295047795911%26panoid%3DtnltBIghBOQPraawUM8Wtg%26yaw%3D281.81537940078374!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road on the triangle land, north of Lima",
+  "coordinates": null,
+  "summary": "利马往北走一段，沿海的三角形陆地上的公路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "triangle_land_north_of_lima_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E7%A7%98%E9%B2%81%E5%AE%89%E5%8D%A1%E4%BB%80%E7%9C%81/@-11.2296421,-77.5439506,3a,75y,152.27h,95.83t/data=!3m7!1e1!3m5!1sziXA0sFelDuG4vh3bCC5hg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.834175885190859%26panoid%3DziXA0sFelDuG4vh3bCC5hg%26yaw%3D152.27239101427563!7i16384!8i8192!4m6!3m5!1s0x91a968e71c2b62cf:0x9df6bbc58a7f9fae!8m2!3d-9.3250497!4d-77.5619419!16zL20vMDFuMTk0!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

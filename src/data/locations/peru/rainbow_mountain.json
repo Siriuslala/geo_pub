@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Rainbow Mountain",
+  "coordinates": null,
+  "summary": "彩虹山。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "rainbow_mountain_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Vinicunca/@-13.8703167,-71.3059868,3a,90y,202.17h,95.74t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICurpqYZQ!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcPfS1YSF2v-e-VbGLgTVVYuWhZwUH8hKU1wnN6zrlGp5YsQ8CQMkx6zwzyGdNG0X2OmwSOxZC4gVGZytyLPXrXhDoxyH7vIcWvNusRCbkvUsGCbGVlXRFH6DAGhpY79o3x3g-jo%3Dw900-h600-k-no-pi-5.743209060466427-ya120.16598544286305-ro0-fo100!7i4608!8i2304!4m6!3m5!1s0x916ee6d8f2a9511b:0x1999fa34ef3c2636!8m2!3d-13.8701658!4d-71.3029901!16s%2Fg%2F11c7hgcd6f!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "images/locations/peru/rainbow_mountain_01.jpg",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
