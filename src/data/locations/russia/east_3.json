@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "东西伯利亚，大量的枯树是被火烧之后的遗迹；高大的树是西伯利亚红松（雪松，Pinus sibirica）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_3_01",
+      "google_map_url": "https://www.google.com.hk/maps/@62.4634068,125.7823708,3a,75.5y,303.8h,93.23t/data=!3m7!1e1!3m5!1sGuul4KWKs8J45NOfmcE-bw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.227420288691164%26panoid%3DGuul4KWKs8J45NOfmcE-bw%26yaw%3D303.79936746252565!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

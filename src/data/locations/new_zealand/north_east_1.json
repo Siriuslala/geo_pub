@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，东北角的牧场，路边种植玉米；翠绿色草甸，。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/1880+East+Cape+Road,+Te+Araroa+4087%E6%96%B0%E8%A5%BF%E5%85%B0/@-37.6861284,178.5432546,3a,89y,359.66h,97.05t/data=!3m7!1e1!3m5!1sDHCbIpcaHdlnnsM0igjCbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.054296579453748%26panoid%3DDHCbIpcaHdlnnsM0igjCbA%26yaw%3D359.6610318305794!7i13312!8i6656!4m6!3m5!1s0x6d649430c75fa16b:0x6628e928694c7954!8m2!3d-37.6815647!4d178.5428697!16s%2Fg%2F11h0_nx5j1!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

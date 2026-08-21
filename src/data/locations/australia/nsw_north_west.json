@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North West of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士：西北部，荒地枯草",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_west_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Barrier+Hwy,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-29.0184837,141.9158092,3a,90y,15.59h,96.92t/data=!3m7!1e1!3m5!1sxbvHmSAX4s1u5ZD2rfSAuA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.9150249353142215%26panoid%3DxbvHmSAX4s1u5ZD2rfSAuA%26yaw%3D15.594890832249305!7i16384!8i8192!4m6!3m5!1s0x6ab986e1a454a383:0xa11a1a4972543721!8m2!3d-31.7220528!4d142.7012767!16zL20vMDJ3cGRn!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "South of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西南，南方低地，地表有成簇的灌木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_of_ulaanbaatar_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Ulaanshiveet,+%E5%B8%83%E5%B0%94%E5%B9%B2%E7%9C%81%E8%92%99%E5%8F%A4/@47.2463163,103.1340939,2a,75y,55.3h,94.53t/data=!3m7!1e1!3m5!1sSiVI9OiZYaAHpdWXB8Tp8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.525027081071357%26panoid%3DSiVI9OiZYaAHpdWXB8Tp8Q%26yaw%3D55.30066165108161!7i13312!8i6656!4m6!3m5!1s0x5d9ba347f82ad4b7:0x2b9cd7d6f0f76b8d!8m2!3d47.3735048!4d103.9491709!16s%2Fm%2F02rq5q4!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

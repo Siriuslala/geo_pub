@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西，一望无际的半草原-半荒漠。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_of_ulaanbaatar_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/47%C2%B020'22.2%22N+104%C2%B028'46.4%22E/@47.8820625,103.7269229,3a,90y,278.93h,96.23t/data=!3m7!1e1!3m5!1sOpKyoJHGgRDQpG9ZjB-W2g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.2251371646849805%26panoid%3DOpKyoJHGgRDQpG9ZjB-W2g%26yaw%3D278.92982406745693!7i13312!8i6656!4m4!3m3!8m2!3d47.3395121!4d104.4795423!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

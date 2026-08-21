@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "bolivia",
+  "slug": "",
+  "title": "National Road 3, around North Yungas Road", 
+  "coordinates": null,
+  "summary": "第三国道，死亡公路附近，山谷景观壮丽",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "national_road_3_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-16.2868114,-67.8324052,3a,90y,194.68h,95.87t/data=!3m7!1e1!3m5!1smDwwg43ng8F5j_l8_L4OlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.868491431792492%26panoid%3DmDwwg43ng8F5j_l8_L4OlQ%26yaw%3D194.68229709917364!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

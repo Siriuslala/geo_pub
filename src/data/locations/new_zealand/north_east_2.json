@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，红白相间的小路桩；路边有麦卢卡灌木（Manuka，桃金娘科，新西兰特有，产蜂蜜）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/990+East+Cape+Road,+Te+Araroa+4087%E6%96%B0%E8%A5%BF%E5%85%B0/@-37.5923078,178.1522298,3a,90y,158.55h,89.38t/data=!3m7!1e1!3m5!1sjCfH0NKXLL3q7Phlztii1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.6178338439616624%26panoid%3DjCfH0NKXLL3q7Phlztii1A%26yaw%3D158.551135211782!7i13312!8i6656!4m6!3m5!1s0x6d64eaa552e6b815:0xb4de4f3619b37070!8m2!3d-37.6393118!4d178.4689773!16s%2Fg%2F11s7zr426k!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

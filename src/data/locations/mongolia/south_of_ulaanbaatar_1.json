@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "South of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以南。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_of_ulaanbaatar_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/47%C2%B011'12.2%22N+106%C2%B037'57.6%22E/@44.4976313,106.0396724,3a,90y,259.97h,96.74t/data=!3m8!1e1!3m6!1sCIABIhA5ulZTC5EWd0FnZJzP4IsV!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcMhV5FVLWIu8v-G48l3UglCWYCOoIu3882nqERwWdVFzb9I9bwCDjUTdMFzXaO2GgkMTc3r4WXz-K8ITxWsM5S6RIfSbbcpafyydkwVhwY3YMXfXlQRqCe6j8IBryQ6dLyD_LaurpoxxSs%3Dw900-h600-k-no-pi-6.738311006724345-ya62.222170284010815-ro0-fo100!7i7680!8i3840!4m4!3m3!8m2!3d47.1867141!4d106.6326714!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

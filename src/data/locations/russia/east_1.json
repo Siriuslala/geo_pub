@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "俄罗斯东部，东西伯利亚；达乌尔落叶松为主，嫩绿色，枝条向外向上散开，比较高挑；云杉，圣诞树形，比达乌尔落叶松更矮，下端枝条下垂。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@56.8252869,124.901566,3a,79.8y,337.68h,90.18t/data=!3m7!1e1!3m5!1sbNrh-_3qj8at8btZR0C2vw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.17798298635860021%26panoid%3DbNrh-_3qj8at8btZR0C2vw%26yaw%3D337.68312484874474!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

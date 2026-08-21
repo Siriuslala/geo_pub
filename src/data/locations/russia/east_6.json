@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "东西伯利亚，这一段是土路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_6_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/A331+Vilyuy,+Respublika+Sakha+(Yakutiya),+%E4%BF%84%E7%BD%97%E6%96%AF/@62.4254838,114.6106784,3a,90y,276.13h,93.93t/data=!3m7!1e1!3m5!1ss81yt25PC1XQyPhgIz7M9w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9268182538567658%26panoid%3Ds81yt25PC1XQyPhgIz7M9w%26yaw%3D276.1258397673356!7i16384!8i8192!4m6!3m5!1s0x5c7a950f092c8d8f:0x5ba860cbeccc2a55!8m2!3d62.2067946!4d116.9331855!16s%2Fg%2F11fm1w2n7c!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

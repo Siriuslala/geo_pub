@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "North West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西北，高山草原，海拔偏高，夏季牧场。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_of_ulaanbaatar_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/48%C2%B028'54.5%22N+102%C2%B013'02.0%22E/@49.653426,100.5023227,2a,90y,287.51h,97.27t/data=!3m7!1e1!3m5!1s-0sGQ2fduYOpQtc0doRNIA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.273021270079084%26panoid%3D-0sGQ2fduYOpQtc0doRNIA%26yaw%3D287.5061301780647!7i13312!8i6656!4m4!3m3!8m2!3d48.4818107!4d102.2172096!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

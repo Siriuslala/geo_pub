@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "bolivia",
+  "slug": "",
+  "title": "National Road 3, Túnel San Rafael", 
+  "coordinates": null,
+  "summary": "第三国道上的 Túnel San Rafael 及其漂亮的指示路牌；护栏上有政治宣传涂鸦。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "national_road_3_tunnel_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E6%8B%89%E5%B7%B4%E6%96%AF/@-16.2587592,-67.8360575,3a,90y,205.95h,93.17t/data=!3m7!1e1!3m5!1sqhaBpdSXkph1AgGzuumi7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.1741638655108773%26panoid%3DqhaBpdSXkph1AgGzuumi7w%26yaw%3D205.94974044352688!7i13312!8i6656!4m6!3m5!1s0x915edf0a04f5a40f:0x57dbfc76b4458ab3!8m2!3d-16.494359!4d-68.1212091!16zL20vMGJycTQ!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

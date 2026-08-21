@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "kyrgyzstan",
+  "slug": "",
+  "title": "Tien‑shan of Kyrgyzstan", 
+  "coordinates": null,
+  "summary": "吉尔吉斯斯坦，纳伦附近的天山山区，近处山麓低山，远处高海拔主山脉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "tien_shan_near_nalun_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/A365,+%E5%90%89%E5%B0%94%E5%90%89%E6%96%AF%E6%96%AF%E5%9D%A6/@41.4621371,75.9753497,3a,75y,139.28h,97.11t/data=!3m7!1e1!3m5!1sFEbDEnXo6gk-HWbifcKOQA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.107934164784297%26panoid%3DFEbDEnXo6gk-HWbifcKOQA%26yaw%3D139.28202079960633!7i13312!8i6656!4m7!3m6!1s0x389079830dedf4fb:0x718a52c44c120972!8m2!3d41.8007278!4d75.7580997!10e5!16s%2Fg%2F1tp1x5q3!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

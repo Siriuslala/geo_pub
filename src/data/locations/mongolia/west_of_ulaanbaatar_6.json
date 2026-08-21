@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西，半草地-半荒漠。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_of_ulaanbaatar_6_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Khankhukhii+-+Khyargas+Lake+Hwy,+%E8%92%99%E5%8F%A4/@49.1009545,94.2261804,3a,90y,283.81h,94.27t/data=!3m7!1e1!3m5!1s7Ga8upkOInoax0GkDDeHIg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.265533196232724%26panoid%3D7Ga8upkOInoax0GkDDeHIg%26yaw%3D283.8074627663346!7i16384!8i8192!4m6!3m5!1s0x5d46c54f3a47e46b:0x23d627aa2369dcde!8m2!3d49.0339031!4d94.8294877!16s%2Fg%2F11b6g8pmq1!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

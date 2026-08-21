@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "kyrgyzstan",
+  "slug": "",
+  "title": "Tombs in Tien‑shan of Kyrgyzstan", 
+  "coordinates": null,
+  "summary": "吉尔吉斯斯坦，天山山区的穆斯林游牧风格墓地（Köpkör(көпкөр) 风格陵园）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "tien_shan_tomb_01",
+      "google_map_url": "https://www.google.com.hk/maps/@41.6472075,75.8331488,3a,85.3y,296.73h,96.84t/data=!3m7!1e1!3m5!1s1AKQPccXIlaxfyKKSLlVzQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.835449660410887%26panoid%3D1AKQPccXIlaxfyKKSLlVzQ%26yaw%3D296.73110270334655!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

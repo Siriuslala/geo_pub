@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "East of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以东，绿草丰润，牧场上可见牛群。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_east_of_ulaanbaatar_9_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Eastern+Hwy,+%E8%92%99%E5%8F%A4/@47.6919563,107.8611815,3a,75y,116.22h,93.78t/data=!3m7!1e1!3m5!1sSe1f1YtiUlT0V9S8RUcFyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7805073809167453%26panoid%3DSe1f1YtiUlT0V9S8RUcFyA%26yaw%3D116.21942013352037!7i16384!8i8192!4m6!3m5!1s0x5d945884ac733705:0x90803e88ab9c3dad!8m2!3d47.540758!4d109.3907351!16s%2Fg%2F12vtqc5tw!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

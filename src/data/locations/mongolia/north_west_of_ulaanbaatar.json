@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "North West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以北",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_of_ulaanbaatar_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E8%90%A8%E5%93%88%E5%85%B1%E5%92%8C%E5%9B%BD/@48.7999226,106.0980768,2a,75y,352.91h,92.13t/data=!3m7!1e1!3m5!1sV79qTVlMc9GkV0Eq05FRrw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1305796153070418%26panoid%3DV79qTVlMc9GkV0Eq05FRrw%26yaw%3D352.9120403188093!7i13312!8i6656!4m6!3m5!1s0x5beb1a032f51336b:0x32e00a48a227d58e!8m2!3d66.7613451!4d124.123753!16zL20vMGZ3ZDg!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

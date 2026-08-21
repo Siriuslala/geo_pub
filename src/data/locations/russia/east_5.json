@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "东西伯利亚，这一段是土路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_5_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/A-331,+Respublika+Sakha+(Yakutiya),+%E4%BF%84%E7%BD%97%E6%96%AF/@62.2150208,116.5244431,3a,75y,221.95h,90.12t/data=!3m7!1e1!3m5!1sWrzkZ5YMzerN0bLYnHAnAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.11578277330359299%26panoid%3DWrzkZ5YMzerN0bLYnHAnAg%26yaw%3D221.9488731382516!7i16384!8i8192!4m6!3m5!1s0x5bf649e390e610af:0x21e70e245c3a2736!8m2!3d62.9061185!4d124.2158694!16s%2Fg%2F12z84p_6j!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "East of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以东，肯特山脚下，有一片西伯利亚落叶松森林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_of_ulaanbaatar_01",
+      "google_map_url": "https://www.google.com.hk/maps/@48.1616534,109.4289331,2a,90y,347.8h,97.38t/data=!3m7!1e1!3m5!1sHD2KUOlmZsC3NAEliK43rw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.375305655882727%26panoid%3DHD2KUOlmZsC3NAEliK43rw%26yaw%3D347.79568114743665!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

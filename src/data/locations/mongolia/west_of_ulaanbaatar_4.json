@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西，有淡淡的草地，周围山脉较多。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_of_ulaanbaatar_4_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E8%92%99%E5%8F%A4%E9%98%BF%E7%BF%B0%E7%9B%96/@47.6151117,101.0973262,2a,90y,336.85h,98.08t/data=!3m7!1e1!3m5!1ssygcKXtx8OddGh3dQhk4Bg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.07532376309932%26panoid%3DsygcKXtx8OddGh3dQhk4Bg%26yaw%3D336.84862268949684!7i13312!8i6656!4m6!3m5!1s0x5d77cb99be0943db:0xdb1b310ba752de24!8m2!3d47.8971101!4d100.7240165!16zL20vMDNjZmZ6!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

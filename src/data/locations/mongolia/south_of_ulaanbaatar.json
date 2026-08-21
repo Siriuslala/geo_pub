@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "South of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以南，白茫茫一片。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_of_ulaanbaatar_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Millenium+Rd,+%E8%92%99%E5%8F%A4/@47.1867141,106.6326714,2a,90y,181.88h,98.56t/data=!3m7!1e1!3m5!1sjACKDaJM4BgbGo0PMS2j9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.560378374341255%26panoid%3DjACKDaJM4BgbGo0PMS2j9A%26yaw%3D181.87611098071227!7i13312!8i6656!4m6!3m5!1s0x5d99f0306fa7dd37:0x1cbcdeb5bfa8120b!8m2!3d47.8857447!4d103.5900264!16s%2Fg%2F12vrwr_8f!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

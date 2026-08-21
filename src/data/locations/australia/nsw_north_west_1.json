@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North West of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士：西北部，荒地枯草",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_west_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Silver+City+Hwy,+New+South+Wales,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-29.3493155,141.809095,3a,75y,110.01h,96.8t/data=!3m7!1e1!3m5!1sHdSxCRmYpwZfrT35xw37ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.795227478002943%26panoid%3DHdSxCRmYpwZfrT35xw37ug%26yaw%3D110.01482626224302!7i16384!8i8192!4m6!3m5!1s0x6ae9b8a481bafdbd:0x78ca17b0b25c0e52!8m2!3d-31.5310455!4d141.6686385!16zL20vMDJ3bm40!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

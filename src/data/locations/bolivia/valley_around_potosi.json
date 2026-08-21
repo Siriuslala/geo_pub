@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "bolivia",
+  "slug": "",
+  "title": "Valley around Potosí", 
+  "coordinates": null,
+  "summary": "波托西附近山谷",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "valley_around_potosi_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E4%B9%8C%E5%B0%A4%E5%B0%BC%E7%9B%90%E6%B2%BC/@-19.3375875,-65.9061443,3a,77y,249.57h,90.04t/data=!3m7!1e1!3m5!1srl1UcUjJjJD0bO9w91yRPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.03787984211187734%26panoid%3Drl1UcUjJjJD0bO9w91yRPg%26yaw%3D249.57218767796215!7i13312!8i6656!4m6!3m5!1s0x915584b325e18bd7:0xce4183a158278b6!8m2!3d-20.1337772!4d-67.4891345!16zL20vMDFjYmN2!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

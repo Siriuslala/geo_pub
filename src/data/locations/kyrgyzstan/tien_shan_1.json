@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "kyrgyzstan",
+  "slug": "",
+  "title": "Tien‑shan of Kyrgyzstan", 
+  "coordinates": null,
+  "summary": "吉尔吉斯斯坦北部的天山，可以看到吉尔吉斯斯坦国旗。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "tien_shan_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@42.2075687,73.2515337,3a,90y,86.09h,94.04t/data=!3m7!1e1!3m5!1sN4VdNhYRuN7R8msaSPIPaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.038850011731711%26panoid%3DN4VdNhYRuN7R8msaSPIPaA%26yaw%3D86.08641652960455!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

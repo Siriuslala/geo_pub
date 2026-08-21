@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "North West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西北，航拍：库苏古勒湖。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_of_ulaanbaatar_4_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/50%C2%B025'14.4%22N+100%C2%B008'52.6%22E/@50.5864451,100.1704661,3a,75y,258.49h,84.64t/data=!3m8!1e1!3m6!1sCIABIhB6TxL61cLvi7Zug4FwAkpK!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcOHv9p722F0nACM9aVqTKmM93_TeEwOwoZn33kN75vAh7dwHeJgIoKPHVanHhBwr6-4_w_Vp3-jSxav7FY8yI4QuBj2APXCjDSPGVBaya4wBssBDDyG6ohTVa3WbCxYKNy0hwjqbPydTEQ%3Dw900-h600-k-no-pi5.356498462818394-ya258.49053105953533-ro0-fo100!7i12000!8i6000!4m4!3m3!8m2!3d50.4206716!4d100.1479317!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "East of Russia, near China", 
+  "coordinates": null,
+  "summary": "俄罗斯东部，大兴安岭地区，中国版图鸡冠子北边；泰加林（北方针叶林），达乌尔落叶松 Larix gmelinii（兴安落叶松）为主，嫩绿色，枝条向外向上散开",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com.hk/maps/@55.408477,124.7781488,3a,83.6y,1.92h,97.75t/data=!3m7!1e1!3m5!1sZVqFUQWsawYLu4NNnQ_bPg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.750867844437607%26panoid%3DZVqFUQWsawYLu4NNnQ_bPg%26yaw%3D1.9175682590038576!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

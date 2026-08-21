@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西，有一片湖。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_of_ulaanbaatar_3_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/48%C2%B008'45.1%22N+100%C2%B003'33.9%22E/@48.1286033,99.6772886,3a,90y,327.38h,91.92t/data=!3m7!1e1!3m5!1s8BJW6vjaueK0_GXefmdNcw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9245206942807727%26panoid%3D8BJW6vjaueK0_GXefmdNcw%26yaw%3D327.3836471225194!7i16384!8i8192!4m4!3m3!8m2!3d48.1458567!4d100.0594103!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

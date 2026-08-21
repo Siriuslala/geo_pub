@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西，荒漠，土路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_of_ulaanbaatar_7_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/47%C2%B056'41.7%22N+102%C2%B043'52.2%22E/@48.4818107,102.2172096,2a,90y,106.58h,96.75t/data=!3m7!1e1!3m5!1sNuvVbPKWkQ_ChACN5_fWgA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.7511922490106855%26panoid%3DNuvVbPKWkQ_ChACN5_fWgA%26yaw%3D106.5802706939352!7i13312!8i6656!4m4!3m3!8m2!3d47.9449056!4d102.7311657!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

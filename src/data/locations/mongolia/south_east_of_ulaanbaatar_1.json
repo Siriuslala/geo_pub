@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "North West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托东南",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_east_of_ulaanbaatar_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Zamiin-Uud+-+Sainshand+Hwy,+Dornogovi,+%E8%92%99%E5%8F%A4/@46.1084577,108.7193087,3a,90y,305.18h,98.7t/data=!3m7!1e1!3m5!1snCl8Qv8-g_eK4gcz--HsFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.700934912161458%26panoid%3DnCl8Qv8-g_eK4gcz--HsFA%26yaw%3D305.1829180569215!7i13312!8i6656!4m6!3m5!1s0x5df0f2b3042e5d03:0x5e2e019518293889!8m2!3d44.5632303!4d110.6526413!16s%2Fg%2F11b5qwvhw3!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

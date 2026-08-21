@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "North West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西北，库苏古勒湖西边山区里的石子路，两侧是干枯的西伯利亚落叶松。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_of_ulaanbaatar_6_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/50%C2%B027'37.6%22N+100%C2%B010'26.8%22E/@50.4688704,100.1541286,2a,90y,9.27h,100.74t/data=!3m7!1e1!3m5!1sZzBJtulMVKHJvCRLoNpLmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.737453317440114%26panoid%3DZzBJtulMVKHJvCRLoNpLmA%26yaw%3D9.27303050038491!7i13312!8i6656!4m4!3m3!8m2!3d50.4604538!4d100.1741163!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

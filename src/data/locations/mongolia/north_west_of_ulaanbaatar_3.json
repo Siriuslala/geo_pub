@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "North West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西北，库苏古勒湖南端的小路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_of_ulaanbaatar_3_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/50%C2%B017'51.9%22N+100%C2%B005'06.3%22E/@50.4206716,100.1479317,2a,90y,18.73h,99.14t/data=!3m7!1e1!3m5!1sBaFfUNDw6jCfc_QAm9uc7Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.13947881242781%26panoid%3DBaFfUNDw6jCfc_QAm9uc7Q%26yaw%3D18.72580504961502!7i13312!8i6656!4m4!3m3!8m2!3d50.297758!4d100.0850773!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "West of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西，路边驿站；注意蒙古现行文字使用西里尔字母，即西里尔蒙古文，不是俄文。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_of_ulaanbaatar_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/48%C2%B026'58.8%22N+106%C2%B007'23.7%22E/@47.3395121,104.4795423,2a,79.5y,82.63h,92.09t/data=!3m7!1e1!3m5!1sxgvE7lEBw6D2LUQoeyYmpA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.090894403926683%26panoid%3DxgvE7lEBw6D2LUQoeyYmpA%26yaw%3D82.63471828611988!7i13312!8i6656!4m4!3m3!8m2!3d48.4496658!4d106.1232382!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

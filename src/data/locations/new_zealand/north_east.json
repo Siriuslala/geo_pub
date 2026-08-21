@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，东北角的海岸公路，翠绿色草甸。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%97%A5%E6%9C%AC%E7%88%B1%E7%9F%A5%E5%8E%BF%E5%8D%8A%E7%94%B0%E5%B8%82/@-37.6738732,178.5384166,3a,75y,336.34h,92.76t/data=!3m7!1e1!3m5!1s8uK897ghUy0smtazlZu5YA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.7610391347817114%26panoid%3D8uK897ghUy0smtazlZu5YA%26yaw%3D336.33711601926865!7i13312!8i6656!4m6!3m5!1s0x6004843814702341:0x544c9fe56b5c6f1d!8m2!3d34.8917477!4d136.9379123!16zL20vMDF3bHE1!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

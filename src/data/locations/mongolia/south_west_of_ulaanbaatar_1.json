@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mongolia",
+  "slug": "",
+  "title": "South of Ulaanbaatar", 
+  "coordinates": null,
+  "summary": "乌兰巴托以西南，南方低地，蒙古农业区，有油菜花农田。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_of_ulaanbaatar_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/47%C2%B014'46.7%22N+103%C2%B008'02.7%22E/@47.1316758,102.9480217,2a,90y,325.08h,96.27t/data=!3m7!1e1!3m5!1sgDaOvNM08iVoepLtpPjMpA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.272557196063701%26panoid%3DgDaOvNM08iVoepLtpPjMpA%26yaw%3D325.0811414726105!7i13312!8i6656!4m4!3m3!8m2!3d47.2463163!4d103.1340939!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

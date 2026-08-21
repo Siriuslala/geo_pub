@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North West of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士：西北部，Mulga 金合欢",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_west_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Cameron+Corner+Rd,+Tibooburra+NSW+2880%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-30.0879924,142.0613982,3a,77y,105.52h,96.85t/data=!3m7!1e1!3m5!1s-n12Ap6nWq1hBM-_DyMxsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.848967808788657%26panoid%3D-n12Ap6nWq1hBM-_DyMxsg%26yaw%3D105.52188871249402!7i16384!8i8192!4m6!3m5!1s0x6af6967bcb5f2a13:0xf17dfbb7457c8313!8m2!3d-29.234941!4d141.5914125!16s%2Fg%2F11cjgd_jqq!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
