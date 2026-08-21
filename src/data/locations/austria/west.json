@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "austria",
+  "slug": "",
+  "title": "West of Austria", 
+  "coordinates": null,
+  "summary": "萨尔茨堡附近，阿尔卑斯北部；奥国阿尔卑斯宽谷，草甸牧场、针叶云杉混交林；大块毛石砌筑挡墙，弯道路边绿色细标记杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Sonnleiten+76,+6344+Durchholzen,+%E5%A5%A5%E5%9C%B0%E5%88%A9/@47.6597232,12.2754049,3a,90y,141.12h,96.72t/data=!3m7!1e1!3m5!1sybvOfpZsMlbjfhg2OAr-fA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.7182840767295176%26panoid%3DybvOfpZsMlbjfhg2OAr-fA%26yaw%3D141.11890976655056!7i16384!8i8192!4m6!3m5!1s0x4776475f14427559:0xa4ca58b63589a84a!8m2!3d47.6421578!4d12.2887051!16s%2Fg%2F11sqf0_77l!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

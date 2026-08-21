@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "montenegro",
+  "slug": "",
+  "title": "South of Montenegro", 
+  "coordinates": null,
+  "summary": "黑山南部，与阿尔巴尼亚接壤的山区。鲜艳红色陶瓦屋顶，白色墙体；大块不规则石灰岩干砌石墙；浅色细长原木电线杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com.hk/maps/@42.4936511,19.5342779,3a,85.4y,42.29h,91.21t/data=!3m7!1e1!3m5!1sQ3HGEWKloDRE0FzD69sDPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.2051919212675415%26panoid%3DQ3HGEWKloDRE0FzD69sDPA%26yaw%3D42.28806261616994!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

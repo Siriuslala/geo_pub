@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "france",
+  "slug": "",
+  "title": "Countryside in the middle of France", 
+  "coordinates": null,
+  "summary": "法国中部乡村。红瓦顶，墙面米白 / 米黄",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E4%B8%AD%E5%8C%97%E7%9C%81/@46.338489,2.9550019,3a,81.6y,16.6h,97.42t/data=!3m7!1e1!3m5!1sX3ynwZ0sW_apmcv4K_x0tg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.423632948630839%26panoid%3DX3ynwZ0sW_apmcv4K_x0tg%26yaw%3D16.603757690622956!7i16384!8i8192!4m6!3m5!1s0x3afc8614170f6185:0x59787d0e74035e64!8m2!3d8.1995638!4d80.6326916!16zL20vMDcyX3pz!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

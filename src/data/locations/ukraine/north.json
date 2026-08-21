@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ukraine",
+  "slug": "",
+  "title": "North of Ukraine", 
+  "coordinates": null,
+  "summary": "乌克兰北部，与俄罗斯接壤的地方",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com.hk/maps/@50.2866022,36.5711764,3a,75y,258.91h,91.8t/data=!3m7!1e1!3m5!1sV0FrsWNWaHFnYU9Z7Pk28w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7977331170496598%26panoid%3DV0FrsWNWaHFnYU9Z7Pk28w%26yaw%3D258.9079595681079!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

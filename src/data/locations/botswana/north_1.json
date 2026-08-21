@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "botswana",
+  "slug": "",
+  "title": "North east of Botswana", 
+  "coordinates": null,
+  "summary": "博茨瓦纳东北部；宽阔的路肩，不算干旱的植被。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E9%A9%AC%E7%BF%81%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%BA%B3/@-19.1286661,25.7491472,3a,75y,159.46h,95.56t/data=!3m7!1e1!3m5!1s10eYIbX7SyGNezOCciorNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.560764045471032%26panoid%3D10eYIbX7SyGNezOCciorNA%26yaw%3D159.46298315816088!7i13312!8i6656!4m6!3m5!1s0x19544d054c080299:0xad7cc125ed822f4b!8m2!3d-19.9952622!4d23.4180769!16zL20vMDN0dHdw!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

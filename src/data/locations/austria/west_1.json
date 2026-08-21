@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "austria",
+  "slug": "",
+  "title": "West of Austria", 
+  "coordinates": null,
+  "summary": "奥地利和德国接壤的阿尔卑斯山区；高山草甸，云杉 + 阔叶山毛榉混交林；红圈白圆的禁止机动车驶入标志 + 饱经风化的旧木桩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Buchberg+32,+6341+Ebbs,+%E5%A5%A5%E5%9C%B0%E5%88%A9/@47.6289458,12.2746503,3a,90y,140.41h,95.3t/data=!3m7!1e1!3m5!1sGgMZ6_C6N7-EDfnuZh6Veg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.302979381508621%26panoid%3DGgMZ6_C6N7-EDfnuZh6Veg%26yaw%3D140.40674152187773!7i13312!8i6656!4m6!3m5!1s0x47763884d0f275b9:0xb74fadc33c5f36fc!8m2!3d47.6299234!4d12.2721317!16s%2Fg%2F11sqf156jw!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

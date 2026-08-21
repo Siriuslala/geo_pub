@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Lake Baycal of Russia", 
+  "coordinates": null,
+  "summary": "贝加尔湖的一个半岛上的土路；高大的树木是樟子松，树干红棕色，松针墨绿色，树冠集中在顶部。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "baycal_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Avtodoroga+Baykal,+%E4%BF%84%E7%BD%97%E6%96%AF/@53.710808,109.0165187,3a,90y,46.33h,111.43t/data=!3m7!1e1!3m5!1sjSkiQO2aGB032JLHb0RW3g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.431855375807956%26panoid%3DjSkiQO2aGB032JLHb0RW3g%26yaw%3D46.33497922907366!7i16384!8i8192!4m6!3m5!1s0x42dff1b79ef8f205:0x56c28cc66125eb51!8m2!3d54.8130576!4d99.3420987!16s%2Fg%2F1ptx_v5_8!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

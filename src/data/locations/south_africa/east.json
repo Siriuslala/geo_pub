@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "East of South Africa", 
+  "coordinates": null,
+  "summary": "南非西部，莱索托南部，R56 公路；远处积雪是德拉肯斯山脉；干黄高原草原，有株龙舌兰。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/R56,+%E5%8D%97%E9%9D%9E/@-30.5053422,28.5564098,3a,49.4y,320.81h,90.26t/data=!3m7!1e1!3m5!1sdjdGOVM3jg0dN8kGvXh9Xg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.2604814546792369%26panoid%3DdjdGOVM3jg0dN8kGvXh9Xg%26yaw%3D320.81203067769286!7i16384!8i8192!4m6!3m5!1s0x1e8bae08163ab107:0x6aff6a198730fe6!8m2!3d-30.6467056!4d28.4750482!16zL20vMDYxaHA0!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

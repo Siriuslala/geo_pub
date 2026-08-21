@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "la_reunion",
+  "slug": "",
+  "title": "West of La Réunion", 
+  "coordinates": null,
+  "summary": "法属留尼汪岛西部，火山附近的林间小道。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-21.180339,55.4118451,3a,90y,108.81h,97.97t/data=!3m7!1e1!3m5!1stteS_6dmq19_7l7D6WEsTw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.965958624493908%26panoid%3DtteS_6dmq19_7l7D6WEsTw%26yaw%3D108.81165517840962!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "la_reunion",
+  "slug": "",
+  "title": "East of La Réunion", 
+  "coordinates": null,
+  "summary": "法属留尼汪岛东部的 Volcan 路，火星一般的景观，路边有白色石头。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-21.2246423,55.6490941,3a,87.2y,139.08h,98.3t/data=!3m7!1e1!3m5!1sJwN6QRiedpX4Yzr5cY3aYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.304860256071123%26panoid%3DJwN6QRiedpX4Yzr5cY3aYw%26yaw%3D139.08256737317498!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

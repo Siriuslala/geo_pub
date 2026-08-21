@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "West of Russia, near Moscow", 
+  "coordinates": null,
+  "summary": "下诺夫哥罗德（莫斯科和喀山中间）南边，伏尔加河流域；俄罗斯传统木刻楞乡村小屋（деревянный дом）：外墙刷淡蓝 / 浅青油漆，三角高屋顶，多扇竖向小木窗，部分带雕花窗饰；地面架起金属输气管道，为俄罗斯乡村天然气架空管网，东欧平原非常典型。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com.hk/maps/@55.1075638,43.5292066,3a,90y,322.79h,96.87t/data=!3m7!1e1!3m5!1s1RB1z5nQmwTn8Ghigo-qhQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.8687762029803565%26panoid%3D1RB1z5nQmwTn8Ghigo-qhQ%26yaw%3D322.78715439623886!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

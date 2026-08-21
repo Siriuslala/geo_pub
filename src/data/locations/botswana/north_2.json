@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "botswana",
+  "slug": "",
+  "title": "North of Botswana", 
+  "coordinates": null,
+  "summary": "博茨瓦纳北部，干旱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-20.1383381,23.5927455,3a,90y,109.11h,91.27t/data=!3m7!1e1!3m5!1sCnmLi_c9ucIoMSpo6v4hlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.273736002377035%26panoid%3DCnmLi_c9ucIoMSpo6v4hlQ%26yaw%3D109.11434286055582!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

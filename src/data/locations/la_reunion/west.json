@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "la_reunion",
+  "slug": "",
+  "title": "West of La Réunion", 
+  "coordinates": null,
+  "summary": "法属留尼汪岛西部的巨型火山环形山（Mafate 马法特冰斗）；大片高山欧石楠 Erica reunionensis。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/21%C2%B008'15.1%22S+55%C2%B032'18.4%22E/@-21.1007023,55.4007634,2a,90y,14.27h,72.4t/data=!3m7!1e1!3m5!1sqCmFo7j5eHqx1IBvfNNS0A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.597459743767203%26panoid%3DqCmFo7j5eHqx1IBvfNNS0A%26yaw%3D14.266008343497457!7i13312!8i6656!4m4!3m3!8m2!3d-21.137529!4d55.5384533!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

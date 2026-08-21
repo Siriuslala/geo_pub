@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "sri_lanka",
+  "slug": "",
+  "title": "North of Sri Lanka", 
+  "coordinates": null,
+  "summary": "斯里兰卡北部干旱区；僧伽罗语。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E4%B8%AD%E5%8C%97%E7%9C%81/@8.61088,80.4191335,3a,79.4y,0.58h,91.38t/data=!3m7!1e1!3m5!1sU9lgUTwbA0OrM-SBEpEf0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3812209543244052%26panoid%3DU9lgUTwbA0OrM-SBEpEf0g%26yaw%3D0.5814014380176331!7i16384!8i8192!4m6!3m5!1s0x3afc8614170f6185:0x59787d0e74035e64!8m2!3d8.1995638!4d80.6326916!16zL20vMDcyX3pz!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

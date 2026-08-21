@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "montenegro",
+  "slug": "",
+  "title": "Zeta Plain, South of Montenegro", 
+  "coordinates": null,
+  "summary": "黑山南部的 Zeta 平原，黑山主要葡萄种植区；地中海黑松（阿勒颇松），姿态舒展、树干粗壮；。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E9%BB%91%E5%B1%B1%E6%B3%A2%E5%BE%B7%E6%88%88%E9%87%8C%E5%AF%9F/@42.4133762,19.2904792,3a,90y,30.83h,95.9t/data=!3m7!1e1!3m5!1sRYZRqFTMw_70p-UgQ-c3Ig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.900947821219972%26panoid%3DRYZRqFTMw_70p-UgQ-c3Ig%26yaw%3D30.83124283744193!7i16384!8i8192!4m6!3m5!1s0x134de8079606867d:0x6bf78a76ea588ae9!8m2!3d42.4304196!4d19.2593642!16zL20vMDE3NHBy!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

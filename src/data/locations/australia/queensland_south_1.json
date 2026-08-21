@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Queensland", 
+  "coordinates": null,
+  "summary": "昆士兰南部公路。Mallee 桉树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "queensland_south_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%83%E9%87%8C%E4%BA%9A%E7%89%B9%E5%85%B1%E5%92%8C%E5%9B%BD/@-26.6323335,144.7790812,3a,90y,268.83h,96.24t/data=!3m7!1e1!3m5!1sYnW7YKJGESc3cFq4s10MRg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.241007119585888%26panoid%3DYnW7YKJGESc3cFq4s10MRg%26yaw%3D268.82554917862024!7i16384!8i8192!4m6!3m5!1s0x5dacfb1131848fe7:0x103c6af52459440!8m2!3d54.8331146!4d112.406053!16zL20vMDM3ZnYx!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

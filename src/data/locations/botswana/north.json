@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "botswana",
+  "slug": "",
+  "title": "North of Botswana", 
+  "coordinates": null,
+  "summary": "宽阔的路肩，不算干旱的植被。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E9%A9%AC%E7%BF%81%E5%8D%9A%E8%8C%A8%E7%93%A6%E7%BA%B3/@-19.0141821,25.6890125,3a,85.2y,162.47h,95.34t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDG7YjwQA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcMihbhjMdxTyeotMRjeS8Pjr2smvmu6ILqeu1cU66QVVkDlT3L6ERg-rI2DaHpx3JmzbV771nMtymgmv3HXSGK5eD8TKXwc8QnYAtmo8i2oix0Bstyg098JGxYrwcphwF_DKnA%3Dw900-h600-k-no-pi-5.336696662939673-ya29.099309002966322-ro0-fo100!7i7680!8i3840!4m6!3m5!1s0x19544d054c080299:0xad7cc125ed822f4b!8m2!3d-19.9952622!4d23.4180769!16zL20vMDN0dHdw!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

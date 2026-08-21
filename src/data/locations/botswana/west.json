@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "botswana",
+  "slug": "",
+  "title": "West of Botswana", 
+  "coordinates": null,
+  "summary": "宽阔路肩；干旱枯白长草，低矮的刺灌丛；骆驼刺树（骆驼刺金合欢），树冠圆润、树干粗黑。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-21.1690691,22.3083122,3a,75y,222.42h,96.28t/data=!3m7!1e1!3m5!1s-guLxZupPAFWyY1FeojjTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.278428697108055%26panoid%3D-guLxZupPAFWyY1FeojjTA%26yaw%3D222.4178629036131!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

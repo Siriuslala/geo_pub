@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "botswana",
+  "slug": "",
+  "title": "South of Botswana", 
+  "coordinates": null,
+  "summary": "双黄线边线；浅黄褐色沙质土。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-24.8524315,23.2689453,3a,75y,38.72h,94.34t/data=!3m7!1e1!3m5!1su0zVi4BwrnKghFiImS2J4Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.337121426960508%26panoid%3Du0zVi4BwrnKghFiImS2J4Q%26yaw%3D38.72285846569341!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

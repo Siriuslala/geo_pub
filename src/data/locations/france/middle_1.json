@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "france",
+  "slug": "",
+  "title": "Countryside in the middle of France", 
+  "coordinates": null,
+  "summary": "法国中部乡村。典型的博卡日（bocage，树篱田）景观，活灌木充当田埂围墙。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@46.3489149,2.9516413,3a,90y,181.23h,93.61t/data=!3m7!1e1!3m5!1svfOaFaLq55RgHaFmtW_fbQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6098220183555156%26panoid%3DvfOaFaLq55RgHaFmtW_fbQ%26yaw%3D181.2341023609943!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
