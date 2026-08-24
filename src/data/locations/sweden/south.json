@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "sweden",
+  "slug": "",
+  "title": "South of Sweden", 
+  "coordinates": null,
+  "summary": "2+1 公路：一个方向两条车道，另一个方向只有一条车道，中间是钢缆隔离护栏；路面特殊锯齿 / 斜纹标线；大片浓密挪威云杉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/@59.51815,18.1797386,3a,75y,193.83h,94.52t/data=!3m7!1e1!3m5!1sX7r6iWo5FqPA6zuBnF3LSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.5238364271992%26panoid%3DX7r6iWo5FqPA6zuBnF3LSQ%26yaw%3D193.8299193344008!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

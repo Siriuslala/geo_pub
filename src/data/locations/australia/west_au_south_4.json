@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Western Australia", 
+  "coordinates": null,
+  "summary": "西澳：南部沿海地区，土没那么红，路边没有树，但有很多墨绿色灌木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_south_4_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/National+Highway+1,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-31.8583363,127.9909895,3a,90y,304.04h,90.8t/data=!3m7!1e1!3m5!1ss_vbFzSF7Z_DYsI3SGeutg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.7970470236246712%26panoid%3Ds_vbFzSF7Z_DYsI3SGeutg%26yaw%3D304.03889574531007!7i16384!8i8192!4m6!3m5!1s0x2a51d18fa0ede14f:0xfe005ed464065793!8m2!3d-18.7634797!4d126.0522264!16s%2Fm%2F0rytyx9!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

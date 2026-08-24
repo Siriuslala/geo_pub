@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mexico",
+  "slug": "",
+  "title": "Muhu Island of Estonia", 
+  "coordinates": null,
+  "summary": "道路两旁大片白桦树；林间草地湿润，地势平坦无起伏；注意：波罗的海三国完全不用黄色道路标线；白色短虚线的边缘线不是爱沙尼亚独有，芬兰也有，但爱沙尼亚的路柱是白色圆杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "muhu_island_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A+L%C3%A4%C3%A4neranna+Parish,+%E5%85%8B%E5%A7%86%E8%A5%BF/@58.6071615,23.2905535,3a,90y,278.21h,97.29t/data=!3m7!1e1!3m5!1s5rBPkj66qv9bxYIsw7nVeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.286208636136664%26panoid%3D5rBPkj66qv9bxYIsw7nVeg%26yaw%3D278.20711051619986!7i16384!8i8192!4m6!3m5!1s0x46ed6f839a5aeecb:0xd210f5cd2f267f2d!8m2!3d58.6349821!4d23.6386653!16s%2Fm%2F0crglwy?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

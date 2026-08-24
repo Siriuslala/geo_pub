@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "hungary",
+  "slug": "",
+  "title": "West of Hungary", 
+  "coordinates": null,
+  "summary": "🇭🇺 匈牙利西部国道，路边大概是刺槐。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Fadd,+Sport+u.+20,+7133+%E5%8C%88%E7%89%99%E5%88%A9/@47.1079108,16.9722403,3a,90y,76.31h,104.45t/data=!3m7!1e1!3m5!1svwgC8zL0ES0Id-kzw2a-Xg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.454409284102454%26panoid%3DvwgC8zL0ES0Id-kzw2a-Xg%26yaw%3D76.31424729588386!7i16384!8i8192!4m6!3m5!1s0x4742f6f0fd58333f:0xaf7640993c92105b!8m2!3d46.465088!4d18.8182608!16s%2Fg%2F11rqttcr1l?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "North East of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰东北部地区，Lowveld，地势平坦，路边可见甘蔗地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com/maps/@-26.1803867,31.9474993,3a,90y,224.72h,96.15t/data=!3m7!1e1!3m5!1seDu9m_N0fHsEG3uZBGd_Mg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.146270355864473%26panoid%3DeDu9m_N0fHsEG3uZBGd_Mg%26yaw%3D224.72009436806678!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

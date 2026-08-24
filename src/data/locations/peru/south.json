@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "peru",
+  "slug": "",
+  "title": "Road near Palta",
+  "coordinates": null,
+  "summary": "秘鲁南部，Altiplano 高原盆地，典型高海拔冷干环境：土壤浅土黄色，干旱荒芜，蓝天白云；石砌围墙，远处一堆堆的锥形草垛，是藜麦收割之后的晾晒堆，藜麦是 Altiplano 标志性高寒作物。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%A7%98%E9%B2%81%E6%99%AE%E8%AF%BA/@-14.9061761,-70.2903466,3a,75y,152.48h,93.83t/data=!3m7!1e1!3m5!1sC0iusKmtto8-B2iIvpR9pA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.829119067193247%26panoid%3DC0iusKmtto8-B2iIvpR9pA%26yaw%3D152.4770422202177!7i16384!8i8192!4m6!3m5!1s0x915d6985f4e74135:0x1e341dd8f24d32cf!8m2!3d-15.8402218!4d-70.0218805!16zL20vMDJ3cHl3?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

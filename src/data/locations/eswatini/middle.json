@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "West of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰中西部地区；茂密灌丛（Bushveld 稀树灌丛）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Matata,+%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0/@-26.5166629,31.8795641,3a,90y,17.25h,93.89t/data=!3m7!1e1!3m5!1sgaS3JPnZgDpPPvJIcEoIkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.890598240256395%26panoid%3DgaS3JPnZgDpPPvJIcEoIkw%26yaw%3D17.247114179804676!7i13312!8i6656!4m6!3m5!1s0x1ee59e9810bc540b:0xdf96efec56e5b5a4!8m2!3d-26.8723197!4d31.920679!16s%2Fg%2F1tf4zwfp?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "North West of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰西北部地区，Highveld。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_01",
+      "google_map_url": "https://www.google.com/maps/@-26.1768534,31.0877982,3a,90y,243.97h,96.81t/data=!3m7!1e1!3m5!1sprY5pV5TmM73xIZ-DVD3pg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.814007197173737%26panoid%3DprY5pV5TmM73xIZ-DVD3pg%26yaw%3D243.97024548652854!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

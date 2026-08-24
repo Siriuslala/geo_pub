@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "lesotho",
+  "slug": "",
+  "title": "Near Maseru, North West of Lesotho", 
+  "coordinates": null,
+  "summary": "马塞卢附近的乡村。远处的平缓山丘是德拉肯斯山脉；混凝土房屋 + 茅草圆顶小屋；路边可见龙舌兰。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%8E%B1%E7%B4%A2%E6%89%98%E9%A9%AC%E5%A1%9E%E5%8D%A2/@-29.3512709,27.4926953,3a,80.9y,174.95h,88.85t/data=!3m7!1e1!3m5!1s0vUzsl9-vv0nyCqWnLhVTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.1453684176741064%26panoid%3D0vUzsl9-vv0nyCqWnLhVTA%26yaw%3D174.94993806130958!7i13312!8i6656!4m6!3m5!1s0x1e8c353146cb3673:0x400cf82bc8c28c0!8m2!3d-29.3150767!4d27.4869229!16zL20vMGZxY2Y?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

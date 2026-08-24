@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mexico",
+  "slug": "",
+  "title": "Yocatan of Mexico", 
+  "coordinates": null,
+  "summary": "墨西哥尤卡坦半岛。路边有开红花的凤凰木，大量椰子棕榈；尤卡坦半岛很多庄园都有高大封闭式红墙大门，很多旧时玛雅庄园、渡假私宅，“Nun Kaan” 就是一处庄园地产的名字，Kaan 意为蛇。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "yocatan_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B0%A4%E5%8D%A1%E5%9D%A6%E9%A9%AC%E6%96%AF%E5%8D%A1%E5%8A%AA%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+97800/@20.3968922,-90.1288721,3a,56.2y,87.85h,95.59t/data=!3m7!1e1!3m5!1s_OGqEAHeUwn8y1yidDpSog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.592891173646038%26panoid%3D_OGqEAHeUwn8y1yidDpSog%26yaw%3D87.85059987321273!7i16384!8i8192!4m6!3m5!1s0x85f89d88519ad123:0xb38f40a634d71963!8m2!3d20.5870954!4d-90.004663!16s%2Fm%2F027l2tz?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

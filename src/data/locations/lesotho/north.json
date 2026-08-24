@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "lesotho",
+  "slug": "",
+  "title": "Near Maseru, North West of Lesotho", 
+  "coordinates": null,
+  "summary": "马塞卢附近的山路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/T%C3%BCrje,+7328+136,+8796+%E5%8C%88%E7%89%99%E5%88%A9/@-29.339936,27.4869241,3a,90y,66.17h,94.9t/data=!3m7!1e1!3m5!1sxaKUXD1S4OmgIyWiT_ksNA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.899444848814355%26panoid%3DxaKUXD1S4OmgIyWiT_ksNA%26yaw%3D66.16884239195191!7i13312!8i6656!4m6!3m5!1s0x47693c8ee96e153b:0x4b1acbd8cc29c08!8m2!3d46.9852544!4d17.0852363!16s%2Fg%2F11f62bz5rh?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

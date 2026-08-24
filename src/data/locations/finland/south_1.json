@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "finland",
+  "slug": "",
+  "title": "South of Finland", 
+  "coordinates": null,
+  "summary": "芬兰南部，赫尔辛基附近；白桦树，欧洲赤松；中心线是 双白虚线，芬兰常见；路桩是细细的白杆；远处农场可见暗红色谷仓 + 高大筒仓。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/@61.4904304,25.9794573,3a,90y,359.39h,96.86t/data=!3m8!1e1!3m6!1s_8fNfI6EiX-afOIfTys0jQ!2e0!3e11!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.857857278073425%26panoid%3D_8fNfI6EiX-afOIfTys0jQ%26yaw%3D359.39143667869445!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

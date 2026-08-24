@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "philippines",
+  "slug": "",
+  "title": "Samar Island, Middle of Philippines", 
+  "coordinates": null,
+  "summary": "路边很多选举海报；椰子树很多；薄木板简易平房 + 高脚木屋混用。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BF%9D%E5%92%8C%E8%BE%BE%E7%91%99/@12.2313103,124.5872788,3a,90y,359.56h,100.71t/data=!3m7!1e1!3m5!1sGElxPCXC1Mk2c8i6_KzFpg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.714975913346294%26panoid%3DGElxPCXC1Mk2c8i6_KzFpg%26yaw%3D359.56437294520896!7i16384!8i8192!4m6!3m5!1s0x33aa1eeabce9bf09:0x7a72ac07842ceea0!8m2!3d9.9629612!4d124.2088081!16zL20vMDZsODN5!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D ",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

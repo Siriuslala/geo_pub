@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Georgia", 
+  "coordinates": null,
+  "summary": "佐治亚州，美国东南部皮德蒙特丘陵地貌，低缓丘陵；震动缝路面（rumble strip）；阔叶树 + 南方黄松（图中主要是火炬松，喜欢酸性土壤）；土壤偏红，路边页岩碎石堆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "georgia_01",
+      "google_map_url": "https://www.google.com/maps/place/1664+Anderson+Hwy,+Elberton,+GA+30635/@34.1634625,-82.8625251,3a,90y,185.01h,98t/data=!3m7!1e1!3m5!1sADwwLhxQRb9AXmsC0n2btw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.003186964434718%26panoid%3DADwwLhxQRb9AXmsC0n2btw%26yaw%3D185.0091277766529!7i16384!8i8192!4m6!3m5!1s0x88f7d257ae523005:0xda63dd8cc01c67b!8m2!3d34.1592037!4d-82.8619062!16s%2Fg%2F11cscq5x52?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

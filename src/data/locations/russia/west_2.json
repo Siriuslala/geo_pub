@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Kaliningrad of Russia", 
+  "coordinates": null,
+  "summary": "加里宁格勒，立陶宛和波兰中间，俄罗斯的飞地；东普鲁士遗留的传统乡村农舍：长条型红砖长屋，窗户边缘用砖石砌成锯齿状花纹；红陶瓦屋顶，屋顶有一个或多个长方形烟囱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_2_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E5%8A%A0%E9%87%8C%E5%AE%81%E6%A0%BC%E5%8B%92%E5%B7%9E/@54.3563104,21.3427195,3a,90y,186.67h,91.3t/data=!3m7!1e1!3m5!1s9UwJkMwggoA-ZMUJxxlokg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3042156218429852%26panoid%3D9UwJkMwggoA-ZMUJxxlokg%26yaw%3D186.66751585323863!7i13312!8i6656!4m6!3m5!1s0x46e39c45442e0be3:0x1e2558c4d03a027b!8m2!3d54.8235292!4d21.4816162!16zL20vMDRkeWI?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

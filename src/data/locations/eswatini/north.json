@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "North West of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰西北部地区，Highveld；人工树林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/Bakithi+shopping+mall/@-26.449774,30.961407,3a,75y,123.22h,92.51t/data=!3m7!1e1!3m5!1sYcKsOqFZowjJF_lfQH7G0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.5097122192751726%26panoid%3DYcKsOqFZowjJF_lfQH7G0Q%26yaw%3D123.21869314680134!7i13312!8i6656!4m6!3m5!1s0x1ee8a7007fd72fe5:0x66b3868a34cca285!8m2!3d-26.145008!4d31.5718837!16s%2Fg%2F11zx1nsb7x?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

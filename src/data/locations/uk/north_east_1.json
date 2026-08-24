@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "uk",
+  "slug": "",
+  "title": "Scotland, North East of England", 
+  "coordinates": null,
+  "summary": "阿伯丁附近，远处是开阔起伏牧场；方形木桩围栏，路边可见云杉；苏格兰老式石砌农舍，厚石烟囱、灰泥外墙、深色石板屋顶。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/A920,+%E8%8B%B1%E5%9B%BD/@57.3902767,-2.5715626,3a,80.6y,32.6h,92.09t/data=!3m7!1e1!3m5!1sO5yoi6MOH8rxd4bkoxFKqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0877786525903446%26panoid%3DO5yoi6MOH8rxd4bkoxFKqQ%26yaw%3D32.59545412358714!7i16384!8i8192!4m6!3m5!1s0x48844507cda257eb:0x3137aada71ccdccc!8m2!3d57.3832406!4d-2.5791463!16s%2Fg%2F11b5q910r1?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

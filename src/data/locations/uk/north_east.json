@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "uk",
+  "slug": "",
+  "title": "Scotland, North East of England", 
+  "coordinates": null,
+  "summary": "阿伯丁附近，开阔起伏牧场，大量方形木桩围栏；草场一部分鲜绿、一部分收割后黄褐色；阔叶树夹杂少量针叶树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%8B%B1%E5%9B%BD%E9%98%BF%E4%BC%AF%E4%B8%81/@57.3821566,-2.5571934,3a,75y,71.44h,97.9t/data=!3m7!1e1!3m5!1s8wbramf-0qTaN6Jv70b11g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.896303280539939%26panoid%3D8wbramf-0qTaN6Jv70b11g%26yaw%3D71.44005332622183!7i16384!8i8192!4m6!3m5!1s0x4884054c1fd77549:0xe8bb05da5cf4c472!8m2!3d57.1498891!4d-2.0937528!16zL20vMHJuZw?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

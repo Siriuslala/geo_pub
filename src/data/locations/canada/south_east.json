@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "West of Lake Superior, South West of Canada", 
+  "coordinates": null,
+  "summary": "苏必利尔湖西边，加拿大地盾（北美洲板块最坚硬、最稳定的核心，又称为前寒武纪地盾区，或者加拿大高地区），路边大量大块裸露浅灰色花岗岩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_east_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E8%92%99%E6%AF%94%E5%A7%86%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+P0L+1V0/@48.2115079,-82.2959845,3a,90y,288.44h,97.69t/data=!3m7!1e1!3m5!1sH0fuQJb8gHTCnIuQYZ6kGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.692546945060883%26panoid%3DH0fuQJb8gHTCnIuQYZ6kGg%26yaw%3D288.44167314576384!7i16384!8i8192!4m6!3m5!1s0x4d3dc1331396d83d:0xa8f19afe2c991ed!8m2!3d49.3437182!4d-82.1603264!16s%2Fg%2F11nqpf3twd!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

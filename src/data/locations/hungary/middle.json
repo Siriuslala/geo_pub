@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "hungary",
+  "slug": "",
+  "title": "Middle of Hungary", 
+  "coordinates": null,
+  "summary": "🇭🇺 匈牙利大平原（Alföld）典型村镇房屋：白色/浅灰/浅黄/浅粉...的外墙，红瓦/灰瓦；带细长孔洞的电线杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Fadd,+Sz%C3%A9chenyi+u.+7,+7133+%E5%8C%88%E7%89%99%E5%88%A9/@46.4651631,18.8184679,3a,84y,131.71h,91.53t/data=!3m7!1e1!3m5!1scO2ySI2wIbr1YD7WYYITaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5348190191721613%26panoid%3DcO2ySI2wIbr1YD7WYYITaA%26yaw%3D131.71023808488206!7i16384!8i8192!4m6!3m5!1s0x4742f6fb26859f53:0xa3df2f82f4781bac!8m2!3d46.4619046!4d18.8242176!16s%2Fg%2F11cslzx7wz?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "South of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰东部低地（Lowveld），海拔低，炎热干燥。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_1_01",
+      "google_map_url": "https://www.google.com/maps/@-27.1160252,31.9206005,3a,90y,178.67h,99.48t/data=!3m7!1e1!3m5!1s0Fq00D9E6d7Ig2pNmm00PQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.479749078352398%26panoid%3D0Fq00D9E6d7Ig2pNmm00PQ%26yaw%3D178.66520637248811!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

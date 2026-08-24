@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "South of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰南部高地（Highveld）；路侧双黄实线；弧形混凝土贝壳式露天公交站台。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_1_01",
+      "google_map_url": "https://www.google.com/maps/@-27.1890255,31.2880791,3a,65.9y,125.08h,90.48t/data=!3m7!1e1!3m5!1sr5RFy6jDIi51mh8Ocul6ww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4755397401573589%26panoid%3Dr5RFy6jDIi51mh8Ocul6ww%26yaw%3D125.07734229719773!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

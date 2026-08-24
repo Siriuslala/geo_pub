@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mexico",
+  "slug": "",
+  "title": "Yocatan of Mexico", 
+  "coordinates": null,
+  "summary": "墨西哥尤卡坦半岛的玛雅小乡村。大量石灰岩毛石垒砌围墙，混搭玛雅式棕榈茅草棚屋（palapa）",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "yocatan_1_01",
+      "google_map_url": "https://www.google.com/maps/@20.400397,-90.1530134,3a,90y,116.58h,92.01t/data=!3m7!1e1!3m5!1sf0_55M-hQI1rjSN8mv3zvA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0097708383396053%26panoid%3Df0_55M-hQI1rjSN8mv3zvA%26yaw%3D116.57766837087135!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

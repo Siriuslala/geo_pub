@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Western Australia", 
+  "coordinates": null,
+  "summary": "西澳：南部，路边有相对茂密的马利桉树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_south_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Hyden+Norseman+Rd,+Western+Australia,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-32.516475,121.6169063,3a,75y,224.33h,92.28t/data=!3m7!1e1!3m5!1sGvLa5rwEC-i8ZJwQEshF7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.277250214591689%26panoid%3DGvLa5rwEC-i8ZJwQEshF7A%26yaw%3D224.32541915284074!7i13312!8i6656!4m6!3m5!1s0x2a4ebc183c31dfaf:0x42f67c72ce4790f0!8m2!3d-32.2285859!4d120.4574143!16s%2Fg%2F11cjgf0gcf!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

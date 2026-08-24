@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "bolivia",
+  "slug": "",
+  "title": "Valley around Sucre", 
+  "coordinates": null,
+  "summary": "苏克雷附近的山路，路边有鲜艳的绿色灌木；注意山的色彩和树木点缀的质感。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "valley_around_potosi_1_01",
+      "google_map_url": "https://www.google.com/maps/@-19.2501956,-65.1842262,3a,90y,138.28h,98.32t/data=!3m7!1e1!3m5!1s5R7FOMB_csXI_S7YABxa8w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.3214480503229%26panoid%3D5R7FOMB_csXI_S7YABxa8w%26yaw%3D138.28193377599663!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

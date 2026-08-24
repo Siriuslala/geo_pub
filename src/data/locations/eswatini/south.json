@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "South of Eswatini", 
+  "coordinates": null,
+  "summary": "红土碎石土路，金合欢灌丛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/R69,+%E5%8D%97%E9%9D%9E/@-26.9975525,31.7033254,3a,75y,264.03h,96.75t/data=!3m7!1e1!3m5!1svfvBb4Ug6U5V5R9IqILPnA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.752707630697273%26panoid%3DvfvBb4Ug6U5V5R9IqILPnA%26yaw%3D264.02819887403285!7i13312!8i6656!4m6!3m5!1s0x1eefe4150ea60c69:0xff4ce59fb257ce29!8m2!3d-27.5842582!4d31.3223145!16s%2Fm%2F011sn11y?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

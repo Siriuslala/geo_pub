@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "Middle of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰中部丘陵，Middleveld；路边可见龙舌兰。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com/maps/@-26.2721828,31.5227899,3a,82.2y,230.51h,96.73t/data=!3m7!1e1!3m5!1snw_mc6T-qKxmChXT_RCPVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.727379937397757%26panoid%3Dnw_mc6T-qKxmChXT_RCPVA%26yaw%3D230.5060017960213!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

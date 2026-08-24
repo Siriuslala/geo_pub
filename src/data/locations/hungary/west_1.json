@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "hungary",
+  "slug": "",
+  "title": "West of Hungary", 
+  "coordinates": null,
+  "summary": "🇭🇺 匈牙利西部乡村；木质电线杆，下部用两块石头夹心；。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/@46.9852724,17.086208,3a,90y,282.91h,99.53t/data=!3m7!1e1!3m5!1sEadL4l9EGsTC4247PpDnLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.530848130665746%26panoid%3DEadL4l9EGsTC4247PpDnLA%26yaw%3D282.9056257586759!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

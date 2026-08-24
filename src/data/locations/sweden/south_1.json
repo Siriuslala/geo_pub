@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "sweden",
+  "slug": "",
+  "title": "South of Sweden", 
+  "coordinates": null,
+  "summary": "瑞典南部，延雪平以南；路边大片的欧洲赤松，树下是干燥枯黄草甸。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_1_01",
+      "google_map_url": "https://www.google.com/maps/@57.29268,14.0753503,3a,90y,30.36h,104.09t/data=!3m7!1e1!3m5!1s6fpQ0PFd66JC9tdqlf6wWw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.093101267155063%26panoid%3D6fpQ0PFd66JC9tdqlf6wWw%26yaw%3D30.359579109436538!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

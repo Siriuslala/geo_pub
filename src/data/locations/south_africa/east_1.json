@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "East of South Africa", 
+  "coordinates": null,
+  "summary": "南非东部，斯威士兰以南，德拉肯斯山脉西侧；道路两侧双黄实线，交通标志牌固定在粗旧原木杆子上。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%97%E9%9D%9E%E8%93%AC%E6%88%88%E6%8B%89/@-27.5272277,31.4086582,3a,84y,246.06h,87.03t/data=!3m7!1e1!3m5!1sC0v1RtoCKEUSGXhW7XVqsA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.971946864959307%26panoid%3DC0v1RtoCKEUSGXhW7XVqsA%26yaw%3D246.0593002015532!7i13312!8i6656!4m7!3m6!1s0x1ee55f7dc6830d0d:0x875a7b1fc45e2abb!8m2!3d-27.3797614!4d31.6219313!10e5!16zL20vMDRfOW5w?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

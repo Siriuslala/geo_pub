@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "germany",
+  "slug": "",
+  "title": "North East of Germany", 
+  "coordinates": null,
+  "summary": "德国东北，路边是欧洲赤松，林下草甸开阔；路桩矮小，黑白，内嵌白色长条反光片，顶部像被削了一样。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%BE%B7%E5%9B%BD%E7%A7%91%E7%91%9F%E7%BD%97/@54.0095243,14.0559473,3a,90y,143.53h,101.02t/data=!3m7!1e1!3m5!1sA_cFcSoe8saBloWLdoIQOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.020569536915318%26panoid%3DA_cFcSoe8saBloWLdoIQOQ%26yaw%3D143.53294974559503!7i16384!8i8192!4m6!3m5!1s0x47aafe7e1fd6b893:0x4251ae8ad84cbe0!8m2!3d54.0498492!4d13.9991757!16s%2Fm%2F03bz5zf?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

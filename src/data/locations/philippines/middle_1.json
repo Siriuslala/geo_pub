@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "philippines",
+  "slug": "",
+  "title": "Samar Island, Middle of Philippines", 
+  "coordinates": null,
+  "summary": "萨马岛沿海地区；椰子树很多。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8C%97%E8%90%A8%E5%9C%A3%E4%BC%8A%E8%A5%BF%E5%BE%B7%E7%BD%97/@12.3918165,124.3282831,3a,90y,325.03h,96.54t/data=!3m7!1e1!3m5!1sMje69z78_m_8ng8z5CjprA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.538770149986448%26panoid%3DMje69z78_m_8ng8z5CjprA%26yaw%3D325.02973077217547!7i16384!8i8192!4m6!3m5!1s0x33a74e2af321ab1d:0xd44779aa831f04ec!8m2!3d12.3566415!4d124.3976356!16zL20vMDZuejRr?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D ",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

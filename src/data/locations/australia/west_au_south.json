@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Western Australia", 
+  "coordinates": null,
+  "summary": "西澳：南部，路边有相对茂密的马利桉树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_south_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Calbayog-Catarman+Rd,+%E8%8F%B2%E5%BE%8B%E5%AE%BE/@-32.0592078,122.2916208,3a,90y,74.68h,84.8t/data=!3m7!1e1!3m5!1sxSVZruQRWDRImc_o7ig0fA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.1960593092343%26panoid%3DxSVZruQRWDRImc_o7ig0fA%26yaw%3D74.68284346208938!7i16384!8i8192!4m6!3m5!1s0x3309dfd366a57f0d:0x92abf1f25696b52!8m2!3d12.2909306!4d124.617071!16s%2Fg%2F11h1mq4dk!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

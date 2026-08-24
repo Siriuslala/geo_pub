@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "tailand",
+  "slug": "",
+  "title": "North East of Thailand", 
+  "coordinates": null,
+  "summary": "泰国东北地区；清晰的道路标线，沥青道路；灰色高大混凝土电线杆，电线排布十分整齐；路边是阔叶杂树、香蕉树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/@14.6873497,104.6918786,3a,90y,247.68h,95.03t/data=!3m7!1e1!3m5!1swEe-97idwaleZuP_uxmsfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.027308116305605%26panoid%3DwEe-97idwaleZuP_uxmsfg%26yaw%3D247.67791285463704!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

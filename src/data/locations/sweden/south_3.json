@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "sweden",
+  "slug": "",
+  "title": "South of Sweden", 
+  "coordinates": null,
+  "summary": "瑞典南部，欧洲赤松+白桦林。路边红白相间的细高雪标杆（snösticka）是瑞典专属的路标。冬天大雪会把道路完全掩埋，靠这根杆子露出雪面标记道路边界。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_3_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%91%9E%E5%85%B8%E5%B8%83%E8%8E%B1%E9%87%91%E5%8E%84/@56.4296763,15.220173,3a,90y,9.6h,108.02t/data=!3m7!1e1!3m5!1snSPu6fU4nq-ztDEXoMDf7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.02415457875668%26panoid%3DnSPu6fU4nq-ztDEXoMDf7A%26yaw%3D9.603032890156708!7i13312!8i6656!4m6!3m5!1s0x465420820701b753:0x866420937613e0c5!8m2!3d56.143109!4d15.3666703!16zL20vMGtzcXE?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

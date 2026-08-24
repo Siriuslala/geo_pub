@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "Middle of South Africa", 
+  "coordinates": null,
+  "summary": "南非自由州省，中部高原稀树草原，远方可见平缓平顶小山（koppie，南非特有圆缓岩丘）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/R709,+%E5%8D%97%E9%9D%9E/@-29.1100242,27.0702837,3a,75y,58.76h,95.67t/data=!3m7!1e1!3m5!1sut064LxEepmt5yaOU7Q5zw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.667780047367216%26panoid%3Dut064LxEepmt5yaOU7Q5zw%26yaw%3D58.75929939101563!7i16384!8i8192!4m6!3m5!1s0x1e8e70b3e286491d:0x47aec68793a5888a!8m2!3d-29.2301395!4d27.021981!16s%2Fm%2F0tkhwnm?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

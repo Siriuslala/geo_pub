@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "namibia",
+  "slug": "",
+  "title": "North west of Namibia", 
+  "coordinates": null,
+  "summary": "绝望沙漠。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_1_01",
+      "google_map_url": "https://www.google.com/maps/@-23.7881596,15.9852955,3a,90y,44.9h,91.5t/data=!3m7!1e1!3m5!1s8NG9AI7czh_BMuPLKIRwWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5018653069904673%26panoid%3D8NG9AI7czh_BMuPLKIRwWg%26yaw%3D44.89699056693773!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

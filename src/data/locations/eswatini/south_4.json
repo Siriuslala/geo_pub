@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "South of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰中部地区；黄色边线，原木立柱；绿色植被。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_4_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0%E6%9B%BC%E9%BD%90%E5%B0%BC%E5%8C%BA/@-26.6814632,31.7236947,3a,77.6y,265.02h,94.16t/data=!3m7!1e1!3m5!1sshqEOODQzkahef1X-KXaHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.1602909783136255%26panoid%3DshqEOODQzkahef1X-KXaHA%26yaw%3D265.01657126260005!7i13312!8i6656!4m6!3m5!1s0x1eef4eee3d489093:0xe4d076c09feea3f5!8m2!3d-26.644588!4d31.3541631!16zL20vMDJqdHlj?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

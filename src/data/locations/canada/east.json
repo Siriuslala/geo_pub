@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Nova Scotia Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大新斯科舍省；大西洋混交阔叶林‑针叶林；多云潮湿海洋性气候，天空经常阴天灰白。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Melrose+Country+Harbour+Rd,+Nova+Scotia,+%E5%8A%A0%E6%8B%BF%E5%A4%A7/@45.2622295,-61.9910043,3a,90y,69.99h,94.23t/data=!3m7!1e1!3m5!1spyShVEETUYFeMZQBSNIyrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.232992919248574%26panoid%3DpyShVEETUYFeMZQBSNIyrg%26yaw%3D69.99324886298528!7i16384!8i8192!4m6!3m5!1s0x4b5c86f3de7fb435:0xce8bc979cdcbe634!8m2!3d45.2662734!4d-61.9625548!16s%2Fg%2F1tltlz6m!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

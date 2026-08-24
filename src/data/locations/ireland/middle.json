@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "Middle of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰极窄的乡间沥青小路，两侧是高高的草埂，形成壕沟式乡间小路（boreen）；旁边是牧场，养很多奶牛，可能会看到干草垛，用于在冬天喂牲畜。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%88%B1%E5%B0%94%E5%85%B0%E5%9F%BA%E5%B0%94%E5%BE%B7%E5%B0%94/@53.3114158,-7.051649,3a,75y,4.13h,96.18t/data=!3m7!1e1!3m5!1s6aa3q57XlTsUaqggbDJPZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1762274758217615%26panoid%3D6aa3q57XlTsUaqggbDJPZQ%26yaw%3D4.1318682502243025!7i13312!8i6656!4m6!3m5!1s0x485d78c55f6e1393:0xa00c7a997317420!8m2!3d53.1598059!4d-6.9089763!16zL20vMDIzcnh0?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

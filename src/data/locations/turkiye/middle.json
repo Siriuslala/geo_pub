@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "Middle of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其农村景观；平缓橙瓦四角型屋顶（类似于中国古建里的攒尖或庑殿，只不过没有举折）；远处可见清真寺的宣礼塔；土耳其语特殊字母：Çç Ğğ Iı İi Öö Şş Üü，尤其是 Ğğ ı İ。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%BF%E5%85%8B%E8%90%A8%E8%B5%96%E7%9C%81/@38.4020548,33.8468392,3a,90y,267.38h,93.5t/data=!3m7!1e1!3m5!1scbiJ9ZvwbidGjSg4H_3RXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.5003927922145834%26panoid%3DcbiJ9ZvwbidGjSg4H_3RXQ%26yaw%3D267.38445110196824!7i16384!8i8192!4m6!3m5!1s0x14d67115d29c5515:0xa0ec690aac5336db!8m2!3d38.3352043!4d33.9750018!16zL20vMDR6MzA5?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

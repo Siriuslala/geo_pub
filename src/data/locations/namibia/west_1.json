@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "namibia",
+  "slug": "",
+  "title": "Skeleton Coast, West of Namibia", 
+  "coordinates": null,
+  "summary": "骷髅海岸。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/D2302,+%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A/@-20.318987,13.2405063,3a,90y,244.52h,94.06t/data=!3m7!1e1!3m5!1sZRmI7Q01JcJLkFhXRxqt4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.061104397291899%26panoid%3DZRmI7Q01JcJLkFhXRxqt4g%26yaw%3D244.5203534335037!7i16384!8i8192!4m6!3m5!1s0x1b8868a19906bc6f:0xfdc139037b361f0e!8m2!3d-20.4336534!4d13.3049552!16s%2Fg%2F1tdj7__r?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

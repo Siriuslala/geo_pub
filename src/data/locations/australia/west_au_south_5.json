@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Western Australia", 
+  "coordinates": null,
+  "summary": "西澳：南部；钙质土，土壤发白；桉树个子比较高；",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_south_5_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Eyre+Hwy,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-32.4587203,123.9140723,3a,90y,262.08h,96.61t/data=!3m7!1e1!3m5!1sgi7nRU5eGN-2HiSEHXLkMQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.613312703233007%26panoid%3Dgi7nRU5eGN-2HiSEHXLkMQ%26yaw%3D262.08117988204395!7i16384!8i8192!4m6!3m5!1s0x6aa6f99264113573:0xbd3ef02b61fc1956!8m2!3d-31.6111267!4d129.7197496!16zL20vMDM4MzBr!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

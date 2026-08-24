@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "kyrgyzstan",
+  "slug": "",
+  "title": "West of Kyrgyzstan", 
+  "coordinates": null,
+  "summary": "吉尔吉斯斯坦西部，路边是钻天杨，树下是绿色小草；周边是耕地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/@41.0208857,72.7825298,3a,90y,328.01h,103.96t/data=!3m7!1e1!3m5!1sKILyV9NjFN8QWbT5BjNnOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.956242717536668%26panoid%3DKILyV9NjFN8QWbT5BjNnOQ%26yaw%3D328.0080501913774!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mexico",
+  "slug": "",
+  "title": "Yocatan of Mexico", 
+  "coordinates": null,
+  "summary": "墨西哥尤卡坦半岛。很多树木在旱季会落叶，呈现大量灰白枯枝干，但同时夹杂常绿阔叶灌木；不是浓密热带雨林，也不是稀树草原。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "yocatan_2_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B0%A4%E5%8D%A1%E5%9D%A6%E5%88%87%E9%A9%AC%E5%85%8B%E6%96%AF%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+97770/@20.4813148,-88.2679318,3a,90y,10.98h,100.58t/data=!3m7!1e1!3m5!1sD0ZbaGBhdAEFlQG8Z4Ez6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.576834954794634%26panoid%3DD0ZbaGBhdAEFlQG8Z4Ez6w%26yaw%3D10.97889966530757!7i16384!8i8192!4m6!3m5!1s0x8f51bdd442f335fb:0xbf47f74609aa5e5f!8m2!3d20.6564494!4d-87.9360261!16s%2Fm%2F0_8npyn?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

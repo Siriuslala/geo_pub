@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "finland",
+  "slug": "",
+  "title": "South of Finland", 
+  "coordinates": null,
+  "summary": "白桦林 + 针叶林；中心线是 单黄线 + 白色短虚线，芬兰常见；高大的木质电线杆，多层横担。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/S%C4%AB%C4%BCukalns,+S%C4%AB%C4%BCukalns+parish,+%E6%99%AE%E9%9B%B7%E5%88%A9%E8%87%AA%E6%B2%BB%E5%B8%82LV-5331%E6%8B%89%E8%84%AB%E7%B6%AD%E4%BA%9E/@60.5545627,25.2120731,3a,75y,285.25h,95.11t/data=!3m8!1e1!3m6!1sfCig6xOU86mvEDhqgOOivg!2e0!3e11!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.114901597250821%26panoid%3DfCig6xOU86mvEDhqgOOivg%26yaw%3D285.24622021787445!7i13312!8i6656!4m6!3m5!1s0x46c275eae497df43:0x400cfcd68f31c90!8m2!3d56.5195258!4d26.7493596!16s%2Fg%2F11clwcpv5j?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

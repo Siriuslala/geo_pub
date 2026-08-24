@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "sweden",
+  "slug": "",
+  "title": "South of Sweden", 
+  "coordinates": null,
+  "summary": "瑞典南部，欧洲赤松林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_2_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%91%9E%E5%85%B8%E9%BE%99%E8%AE%B7%E6%AF%94/@56.4112356,15.1932005,3a,90y,91.76h,105.21t/data=!3m7!1e1!3m5!1sf5W6avPsmd5lpYlxEq1b8g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.211201400008306%26panoid%3Df5W6avPsmd5lpYlxEq1b8g%26yaw%3D91.7640485029547!7i16384!8i8192!4m6!3m5!1s0x46566373b5f22d23:0x400fef341e47850!8m2!3d56.210434!4d15.2760229!16zL20vMDN6N2Nk?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

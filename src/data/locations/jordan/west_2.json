@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "jordan",
+  "slug": "",
+  "title": "🇯🇴 Middle of Jordan", 
+  "coordinates": null,
+  "summary": "死海以东。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_2_01",
+      "google_map_url": "https://www.google.com/maps/@30.8781913,35.6875188,3a,90y,347.91h,98.5t/data=!3m7!1e1!3m5!1sEPmaRd_p4dfKPXxaHsFovw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.50022422234673%26panoid%3DEPmaRd_p4dfKPXxaHsFovw%26yaw%3D347.9095777190173!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

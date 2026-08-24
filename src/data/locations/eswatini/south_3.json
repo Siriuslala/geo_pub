@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "eswatini",
+  "slug": "",
+  "title": "South of Eswatini", 
+  "coordinates": null,
+  "summary": "斯威士兰过渡型稀树灌丛草原，比中部高海拔 Highveld 更热，比东部 Lowveld 略湿润；可以看到红土土路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_3_01",
+      "google_map_url": "https://www.google.com/maps/place/MR11,+%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0/@-26.8282403,31.3228197,3a,86.7y,177.71h,97.27t/data=!3m7!1e1!3m5!1sOJvXKYKJHM1McD9576KKDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.267834486256405%26panoid%3DOJvXKYKJHM1McD9576KKDw%26yaw%3D177.71021621219577!7i13312!8i6656!4m6!3m5!1s0x1eef9f2acf7ade1b:0xc519aceeca35ca03!8m2!3d-27.1861732!4d31.2836723!16s%2Fg%2F1v19_3mf?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

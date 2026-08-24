@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "West of Russia", 
+  "coordinates": null,
+  "summary": "车里雅宾斯克附近，东欧平原，广阔草甸，远方成片桦树林；路边标志性黑白条纹的警示桩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/@55.22202,62.6526509,3a,42.6y,281.13h,91.75t/data=!3m7!1e1!3m5!1s17_ozDTUK254jQCyQa6XGQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7532346598752326%26panoid%3D17_ozDTUK254jQCyQa6XGQ%26yaw%3D281.12782194125145!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

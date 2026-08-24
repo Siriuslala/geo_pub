@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "jordan",
+  "slug": "",
+  "title": "🇯🇴 Middle of Jordan", 
+  "coordinates": null,
+  "summary": "死海以东，路两边是阿勒颇松；有农田；黄色边缘线。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_3_01",
+      "google_map_url": "https://www.google.com/maps/@30.8729877,35.6714616,3a,78.6y,57.27h,94.46t/data=!3m7!1e1!3m5!1sCR7xTSZhbwiKFTLkuT95tQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.455721361652422%26panoid%3DCR7xTSZhbwiKFTLkuT95tQ%26yaw%3D57.26933318017074!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
