@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "latvia",
+  "slug": "",
+  "title": "West of Latvia", 
+  "coordinates": null,
+  "summary": "拉脱维亚西部，波罗的海沿岸的公路，地势平坦；路边有银桦树；注意：跟俄罗斯中部平原相比，植被更翠绿，更湿润，路更窄，路边有排水沟，且灌木更多。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/Liepaja+city's+eastern+border/@56.5370634,21.1013372,3a,90y,175.43h,91.42t/data=!3m7!1e1!3m5!1svepkO6dY2x7CTRSwtwoleg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.420713089785437%26panoid%3DvepkO6dY2x7CTRSwtwoleg%26yaw%3D175.42754343444744!7i16384!8i8192!4m6!3m5!1s0x46faa84339db6ba1:0xf02b10a0bc108983!8m2!3d56.5347231!4d21.1010161!16s%2Fg%2F11f10g95c3?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

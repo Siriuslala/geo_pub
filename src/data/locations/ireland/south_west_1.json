@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 South West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸山区，丁格尔（Dingle）北部；黃色短虚线边缘线；路边有红棕色岩石，多为爱尔兰西海岸的凯里郡（County Kerry）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%88%B1%E5%B0%94%E5%85%B0%E5%85%8B%E7%AB%8B%E5%87%AF%E9%87%8C%E9%83%A1/@52.1731048,-10.2311985,3a,87.6y,195h,90.43t/data=!3m7!1e1!3m5!1smJp4ubtl2xT2x3kO2Sq0Ew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.4251893815248451%26panoid%3DmJp4ubtl2xT2x3kO2Sq0Ew%26yaw%3D194.99697091038072!7i16384!8i8192!4m6!3m5!1s0x484535641a5c62e9:0x228e3fa516b4f994!8m2!3d52.1544607!4d-9.5668633!16zL20vMG1fdzY?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "Middle of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，汤加里罗火山环线 Volcanic Loop Hwy，Tongariro 荒漠平原；远处是完美的火山锥--Mount Ngauruhoe（瑙鲁霍伊火山，魔多末日火山原型），地面是火山熔岩地，与南岛不同。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_middle_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/State+Highway+5,+%E6%96%B0%E8%A5%BF%E5%85%B0/@-39.3094895,175.7369663,3a,84y,339.27h,92.81t/data=!3m7!1e1!3m5!1sLqidAmAnJl79EOriIA4PNg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.8118430271931487%26panoid%3DLqidAmAnJl79EOriIA4PNg%26yaw%3D339.2659765287896!7i13312!8i6656!4m6!3m5!1s0x6d6956bc9145ae57:0x17583922346cb261!8m2!3d-38.7575134!4d176.2090974!16s%2Fm%2F03gr_fd!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

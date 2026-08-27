@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "spain",
+  "slug": "",
+  "title": "South of Spain", 
+  "coordinates": null,
+  "summary": "伊比利亚内陆干旱丘陵，干草原、稀树灌丛，红黄壤；春季路边大量虞美人（红罂粟野花）；混凝土隔离墩 + 绿色金属扶手。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%A1%E6%96%AF%E8%92%82%E5%88%A9%E4%BA%9A-%E6%8B%89%E6%9B%BC%E6%81%B0%E5%A4%A7%E5%AD%A6/@38.522577,-2.783354,3a,90y,233.54h,86.26t/data=!3m7!1e1!3m5!1secRBMgJ6MM5SFQzuLSZbkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.742588666540172%26panoid%3DecRBMgJ6MM5SFQzuLSZbkw%26yaw%3D233.53701276424903!7i16384!8i8192!4m6!3m5!1s0xd6bc341ee5f5083:0x2c14bb7731b1c69c!8m2!3d38.9934998!4d-3.9254365!16s%2Fm%2F04lgyfz?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

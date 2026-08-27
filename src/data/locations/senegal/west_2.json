@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "West of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔西侧；路边很多金黄色杂草；注意塞内加尔特色的电线杆，像梯子一样。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_2_01",
+      "google_map_url": "https://www.google.com/maps/@15.278876,-15.5264381,3a,90y,28.64h,93.61t/data=!3m7!1e1!3m5!1s-P-pmPBBCNmkIQPTNbrbsQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.6124681356455%26panoid%3D-P-pmPBBCNmkIQPTNbrbsQ%26yaw%3D28.636289305090393!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyMy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

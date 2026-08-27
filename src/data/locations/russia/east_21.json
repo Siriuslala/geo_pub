@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "East of Russia", 
+  "coordinates": null,
+  "summary": "中国版图鸡眼睛旁边。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_21_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%B8%AD%E5%9B%BD%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E9%B8%A1%E8%A5%BF%E5%B8%82%E8%99%8E%E6%9E%97%E5%B8%82/@45.8358641,133.7056896,3a,75y,193h,91.38t/data=!3m7!1e1!3m5!1ss8jN9RbmMAwnjBlSsc0PAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3760995804026237%26panoid%3Ds8jN9RbmMAwnjBlSsc0PAg%26yaw%3D192.99943288193882!7i13312!8i6656!4m6!3m5!1s0x5e54438dd71ce981:0xbaec5744af3631e0!8m2!3d45.7626699!4d132.93695!16zL20vMDZ2cF9w?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

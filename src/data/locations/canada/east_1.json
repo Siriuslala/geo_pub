@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Québec Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大魁北克省公路；针阔混交林，路边有很多杉树；黄色中心线。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Forestville+Airport/@48.8792088,-68.8420112,3a,75y,198.38h,99t/data=!3m7!1e1!3m5!1sBj40sPWatSZT7Ol8Me4_3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.996380747894278%26panoid%3DBj40sPWatSZT7Ol8Me4_3Q%26yaw%3D198.38332146561095!7i16384!8i8192!4m6!3m5!1s0x4c95ab508fb90e3b:0x10bf4e61aec2628b!8m2!3d48.7452083!4d-69.0858193!16zL20vMDhkX3J2?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

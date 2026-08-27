@@ -455,6 +455,8 @@ const countryMapPages = loadCountryMapPages();
     image.width = 480;
     image.height = 270;
     image.decoding = "async";
+    image.loading = "eager";
+    image.fetchPriority = "high";
     image.referrerPolicy = "strict-origin-when-cross-origin";
     let attemptedCoordinateFallback = false;
     image.addEventListener("load", () => {
@@ -502,7 +504,7 @@ const countryMapPages = loadCountryMapPages();
     );
     mediaRail.setAttribute("aria-label", "街景预览");
 
-    location.streetViews.forEach((streetView, index) => {
+    location.streetViews.forEach((streetView) => {
       const card = document.createElement("a");
       card.className = "street-view-card";
       card.href = buildGoogleMapsUrl(location, streetView);
@@ -529,13 +531,29 @@ const countryMapPages = loadCountryMapPages();
       card.classList.toggle("has-no-preview", !hasPreview);
       card.append(state);
 
-      const requestLoad = () => loadPreview(card, location, streetView);
-      card.addEventListener("mouseenter", requestLoad, { once: true });
-      card.addEventListener("focus", requestLoad, { once: true });
       mediaRail.append(card);
-
-      if (index === 0 && hasPreview) requestLoad();
+      if (hasPreview) loadPreview(card, location, streetView);
     });
+
+    if (location.streetViews.length > 1) {
+      mediaRail.addEventListener(
+        "wheel",
+        (event) => {
+          if (mediaRail.scrollWidth <= mediaRail.clientWidth) return;
+          if (Math.abs(event.deltaY) <= Math.abs(event.deltaX)) return;
+
+          event.preventDefault();
+          const delta =
+            event.deltaMode === 1
+              ? event.deltaY * 16
+              : event.deltaMode === 2
+                ? event.deltaY * mediaRail.clientWidth
+                : event.deltaY;
+          mediaRail.scrollLeft += delta;
+        },
+        { passive: false },
+      );
+    }
 
     const body = document.createElement("div");
     body.className = "location-panel__body";
@@ -574,8 +592,42 @@ const countryMapPages = loadCountryMapPages();
     });
   }
 
+  const PANEL_KEEP_RADIUS_PX = 96 / 2.54;
+
+  const isCompactLayout = () => window.matchMedia("(max-width: 720px)").matches;
+
+  const isInPanelKeepZone = (clientX: number, clientY: number) => {
+    if (panel.hidden || isCompactLayout()) return false;
+
+    const rect = panel.getBoundingClientRect();
+    if (
+      clientX >= rect.left &&
+      clientX <= rect.right &&
+      clientY >= rect.top &&
+      clientY <= rect.bottom
+    ) {
+      return true;
+    }
+
+    const dx = clientX - rect.left;
+    const dy = clientY - rect.top;
+    return dx * dx + dy * dy <= PANEL_KEEP_RADIUS_PX * PANEL_KEEP_RADIUS_PX;
+  };
+
+  const clientPointFromMapEvent = (event: MapMouseEvent | MapLayerMouseEvent) => {
+    const original = event.originalEvent;
+    if (original instanceof MouseEvent) {
+      return { x: original.clientX, y: original.clientY };
+    }
+    const workspaceRect = workspace.getBoundingClientRect();
+    return {
+      x: workspaceRect.left + event.point.x,
+      y: workspaceRect.top + event.point.y,
+    };
+  };
+
   const positionPanel = (point = lastPointerPoint) => {
-    if (window.matchMedia("(max-width: 720px)").matches) {
+    if (isCompactLayout()) {
       panel.style.removeProperty("left");
       panel.style.removeProperty("top");
       return;
@@ -607,6 +659,7 @@ const countryMapPages = loadCountryMapPages();
     cancelTimers();
     activeLocationId = location.id;
     panelPinned = pinned;
+    lastPointerPoint = point;
     renderLocation(location);
     panel.hidden = false;
     panel.classList.toggle("is-pinned", panelPinned);
@@ -618,22 +671,33 @@ const countryMapPages = loadCountryMapPages();
     cancelTimers();
     panel.hidden = true;
     panelPinned = false;
+    panel.classList.remove("is-pinned");
     activeLocationId = null;
   };
 
   const scheduleLocation = (location: GeoLocation, point: { x: number; y: number }) => {
-    lastPointerPoint = point;
+    if (panelPinned) return;
+
     if (activeLocationId === location.id && !panel.hidden) {
-      positionPanel(point);
+      cancelTimers();
       return;
     }
+
+    if (!panel.hidden) {
+      showLocation(location, point);
+      return;
+    }
+
+    lastPointerPoint = point;
     if (showTimer) window.clearTimeout(showTimer);
     showTimer = window.setTimeout(() => showLocation(location, point), 250);
   };
 
   const scheduleClose = () => {
     if (showTimer) window.clearTimeout(showTimer);
+    showTimer = undefined;
     if (panelPinned) return;
+    if (closeTimer) return;
     closeTimer = window.setTimeout(() => hidePanel(), 180);
   };
 
@@ -951,8 +1015,16 @@ const countryMapPages = loadCountryMapPages();
     const location = getLocationFromFeatures(event.features);
     if (location) scheduleLocation(location, event.point);
   });
-  map.on("mouseleave", "location-points", () => {
+  map.on("mouseleave", "location-points", (event: MapLayerMouseEvent) => {
     map.getCanvas().style.cursor = "";
+    const pointer = event.originalEvent;
+    if (
+      pointer instanceof MouseEvent &&
+      isInPanelKeepZone(pointer.clientX, pointer.clientY)
+    ) {
+      cancelTimers();
+      return;
+    }
     scheduleClose();
   });
 
@@ -1066,12 +1138,33 @@ const countryMapPages = loadCountryMapPages();
       }
       return;
     }
+
+    if (!panel.hidden && !panelPinned) {
+      const client = clientPointFromMapEvent(event);
+      if (isInPanelKeepZone(client.x, client.y)) {
+        cancelTimers();
+      } else {
+        scheduleClose();
+      }
+    }
+
     updateCountryHoverFromPoint(event.point);
   });
 
-  map.on("mouseout", () => {
+  map.on("mouseout", (event: MapMouseEvent) => {
     hoveredCountryIso2 = null;
     setCountryLabelHover(null, []);
+
+    if (panel.hidden || panelPinned) return;
+    const pointer = event.originalEvent;
+    if (
+      pointer instanceof MouseEvent &&
+      isInPanelKeepZone(pointer.clientX, pointer.clientY)
+    ) {
+      cancelTimers();
+      return;
+    }
+    scheduleClose();
   });
 
   map.on("click", (event: MapMouseEvent) => {
@@ -1101,7 +1194,13 @@ const countryMapPages = loadCountryMapPages();
   });
 
   panel.addEventListener("mouseenter", cancelTimers);
-  panel.addEventListener("mouseleave", scheduleClose);
+  panel.addEventListener("mouseleave", (event: MouseEvent) => {
+    if (isInPanelKeepZone(event.clientX, event.clientY)) {
+      cancelTimers();
+      return;
+    }
+    scheduleClose();
+  });
   panelClose.addEventListener("click", () => hidePanel(true));
   window.addEventListener("keydown", (event) => {
     if (event.key === "Escape") hidePanel(true);

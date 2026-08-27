@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "philippines",
+  "slug": "",
+  "title": "🇵🇭 Baguio, North of Philippines", 
+  "coordinates": null,
+  "summary": "菲律宾北部吕宋岛碧瑶市，高山山城，菲律宾的夏都。附近可以看见快乐蜂（Jollibee）快餐店；远处可见 Victory Liner（菲律宾知名长途巴士公司）的红白大巴。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%A2%A7%E7%91%B6/@16.4055311,120.6028351,3a,90y,27.84h,87.33t/data=!3m7!1e1!3m5!1sm4u_QwqMocBWXq3B9EhaAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.6731072549178805%26panoid%3Dm4u_QwqMocBWXq3B9EhaAA%26yaw%3D27.84186975511765!7i13312!8i6656!4m6!3m5!1s0x3391a16879def13f:0x8edef534be3a75c0!8m2!3d16.4129692!4d120.5913973!16zL20vMDE1bDFf?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

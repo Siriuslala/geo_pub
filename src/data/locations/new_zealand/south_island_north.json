@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛北端，Abel Tasman National Park，浅色变质石灰岩海崖；坐在船上拍的。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_01",
+      "google_map_url": "https://www.google.com.hk/maps/place//@-40.7876773,172.9554405,3a,75y,70.96h,97.86t/data=!3m7!1e1!3m5!1sWtiiGT_TY4P4XsusIu8pQQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.863303208749457%26panoid%3DWtiiGT_TY4P4XsusIu8pQQ%26yaw%3D70.95823209241081!7i13312!8i6656!4m6!1m5!3m4!2zNDDCsDQ3JzE1LjYiUyAxNzLCsDU3JzE5LjYiRQ!8m2!3d-40.7876773!4d172.9554405!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "Christchurch, East of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，基督城附近；马路分隔带里有干枯的茅草；新西兰特色的菱形限速牌，橙底临时限速牌。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_east_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/Beach+Road,+Otago+Region,+%E6%96%B0%E8%A5%BF%E5%85%B0/@-43.5058817,172.7304573,3a,77.4y,172.26h,92.61t/data=!3m7!1e1!3m5!1s2hXjzWfHaL5f_Tt-im6mqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.6141953252047045%26panoid%3D2hXjzWfHaL5f_Tt-im6mqQ%26yaw%3D172.2588438951267!7i13312!8i6656!4m6!3m5!1s0xa829996850e1e49d:0xb9b9204e269ccb7!8m2!3d-45.1440001!4d170.932846!16s%2Fg%2F1tgyxyzg!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

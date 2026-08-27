@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "俄罗斯远东山地泰加林：针叶林，大量达斡尔落叶松，混生云杉、冷杉，林下阔叶灌丛；碎石土路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_9_01",
+      "google_map_url": "https://www.google.com/maps/place/Ulitsa+Sholom-Aleykhema,+Evreyskaya+avtonomnaya+oblast',+%E4%BF%84%E7%BD%97%E6%96%AF/@63.0373381,137.8957391,3a,90y,140.05h,102.35t/data=!3m7!1e1!3m5!1sfSfb8Pwxk9shQFBIty0rtA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.346036059000724%26panoid%3DfSfb8Pwxk9shQFBIty0rtA%26yaw%3D140.05035204865598!7i16384!8i8192!4m6!3m5!1s0x5ef11928c05d4711:0xf3fdd92c868492e6!8m2!3d48.8035014!4d132.9008583!16s%2Fg%2F1ptzsv2p3?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

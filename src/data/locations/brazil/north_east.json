@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "brazil",
+  "slug": "",
+  "title": "North East of Brazil", 
+  "coordinates": null,
+  "summary": "巴西东北部城镇。莫兰迪色的双色粉刷墙比较多见；气候干燥。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%B7%B4%E8%A5%BF%E4%BC%AF%E5%8D%97%E5%B8%83%E5%93%A5%E5%A1%94%E5%8D%A1%E5%9B%A0%E5%8D%9A%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+55140-000/@-8.489237,-36.2329776,3a,75y,243.73h,93.23t/data=!3m7!1e1!3m5!1sTk_v4jwfYIEAWRhl9a1lCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2293682415845097%26panoid%3DTk_v4jwfYIEAWRhl9a1lCg%26yaw%3D243.7336142442977!7i16384!8i8192!4m6!3m5!1s0x7a9c064ad8760c1:0x61d5ae3f3a050055!8m2!3d-8.316678!4d-36.2916371!16s%2Fg%2F1ywqfdg7g?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

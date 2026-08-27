@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，内陆地区，原生山毛榉（Nothofagus）森林公路，路边特色红白小路桩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_7_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/3072+Korere-Tophouse+Road,+St+Arnaud+7072%E6%96%B0%E8%A5%BF%E5%85%B0/@-42.3816205,172.3017973,3a,90y,231.8h,93.22t/data=!3m7!1e1!3m5!1szdadokrBzl3EOmrtzZ-waw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.221105386692244%26panoid%3DzdadokrBzl3EOmrtzZ-waw%26yaw%3D231.79883978056!7i16384!8i8192!4m6!3m5!1s0x6d3aff45b470b10f:0x59d9ff06da3ece7e!8m2!3d-41.767115!4d172.8926376!16s%2Fg%2F11vhtt4xvg!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "中国版图鸡鼻子上，佳木斯以北；天气阴郁，路边是十分开阔的平原，可见大片白桦林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_7_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E7%8A%B9%E5%A4%AA%E8%87%AA%E6%B2%BB%E5%B7%9E%E6%AF%94%E7%BD%97%E6%AF%94%E8%A9%B9/@48.8900313,132.8929316,3a,90y,151.35h,91.69t/data=!3m7!1e1!3m5!1s8WZ6SZWrP61FtyGLL13EJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.685137977450026%26panoid%3D8WZ6SZWrP61FtyGLL13EJQ%26yaw%3D151.34514456488063!7i13312!8i6656!4m6!3m5!1s0x5ef11f2aca5d1311:0x90c8bef91e840f17!8m2!3d48.7879712!4d132.9306664!16zL20vMGo3Y18?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

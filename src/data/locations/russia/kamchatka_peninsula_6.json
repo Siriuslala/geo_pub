@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Kamchatka Peninsula of Russia", 
+  "coordinates": null,
+  "summary": "火山锥。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "kamchatka_peninsula_6_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E5%A0%AA%E5%AF%9F%E5%8A%A0%E8%BE%B9%E7%96%86%E5%8C%BA/@53.2367402,158.0497611,3a,90y,152.59h,94.15t/data=!3m7!1e1!3m5!1sqUCULYVaZ3X5W1rXrxkWdw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.152743389700191%26panoid%3DqUCULYVaZ3X5W1rXrxkWdw%26yaw%3D152.58761418828695!7i13312!8i6656!4m6!3m5!1s0x59027a4c0d071461:0x123ce77fe88c7b8f!8m2!3d61.4343981!4d166.7884131!16zL20vMDhodHB2?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

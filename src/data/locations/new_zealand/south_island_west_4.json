@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "West of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛西海岸；路边大量新西兰亚麻（Phormium）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_west_4_01",
+      "google_map_url": "https://www.google.com/maps/place/2197+Coast+Road,+Barrytown+7873%E6%96%B0%E8%A5%BF%E5%85%B0/@-41.7803018,171.4568925,3a,90y,319.71h,98.1t/data=!3m7!1e1!3m5!1sbUdcQdhpClb0hKUyDKlfOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.103469561713169%26panoid%3DbUdcQdhpClb0hKUyDKlfOQ%26yaw%3D319.71289984837796!7i16384!8i8192!4m6!3m5!1s0x6d2f6384aba26823:0x5d2a403016df4433!8m2!3d-42.2887554!4d171.2901684!16s%2Fg%2F11l6c1nrzl?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

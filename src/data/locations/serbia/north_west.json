@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "serbia",
+  "slug": "",
+  "title": "North West of Serbia", 
+  "coordinates": null,
+  "summary": "🇷🇸 塞尔维亚，巴尔干半岛的潘诺尼亚平原；远处可见塞尔维亚国旗；前南斯拉夫时期大型红砖工业厂区，长厂房、高大烟囱、钢制储料筒仓；远处可见塞尔维亚西里尔字母的标牌；塞尔维亚用两套字母：西里尔字母和拉丁字母，前者出现在公文、路牌上，后者出现在民间日常领域，其中塞尔维亚拉丁文特殊字母：Č č, Ć ć, Đ đ, Dž dž, Š š, Ž ž，其中 Đ đ 为克罗地亚 / 塞尔维亚独有；塞尔维亚西里尔字母去掉俄语的ъ、ь，新增本土字母：Љ, Њ, Ћ, Ђ, Џ。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%B2%99%E5%B7%B4%E8%8C%A8/@44.7403026,19.723677,3a,64.3y,312.64h,95.93t/data=!3m7!1e1!3m5!1suFdE64DrvV0kUg3DUi8GDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.93125148158083%26panoid%3DuFdE64DrvV0kUg3DUi8GDQ%26yaw%3D312.6362963470995!7i16384!8i8192!4m6!3m5!1s0x475bcae3dfdcb3cd:0x73a997a93228cdf2!8m2!3d44.755274!4d19.692337!16zL20vMDE1bmxs?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

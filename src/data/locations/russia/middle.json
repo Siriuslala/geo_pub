@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Middle of Russia", 
+  "coordinates": null,
+  "summary": "俄罗斯中部，蒙古以北，贝加尔湖南端；路边有很多樟子松。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%83%E9%87%8C%E4%BA%9A%E7%89%B9%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B9%8C%E5%85%B0%E4%B9%8C%E5%BE%B7/@52.4798494,106.9955246,3a,90y,295.86h,99.58t/data=!3m7!1e1!3m5!1s_KmfHEPdQEXNSLOJXqSPuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.581532790787207%26panoid%3D_KmfHEPdQEXNSLOJXqSPuw%26yaw%3D295.8582276506225!7i16384!8i8192!4m6!3m5!1s0x5dafdb196f6730cb:0x38da928c03aec496!8m2!3d51.8335896!4d107.5840433!16zL20vMGZ0d3k?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

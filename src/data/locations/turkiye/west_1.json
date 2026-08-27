@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "West of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其西部农村景观；起伏的高原丘陵农田；土耳其语特殊字母：Çç Ğğ Iı İi Öö Şş Üü，尤其是 Ğğ ı İ。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%A9%AC%E5%B0%BC%E8%90%A8%E6%A0%BC%E5%B0%94%E4%BB%A3%E6%96%AF/@39.1175399,28.2181391,3a,44y,303.61h,91.71t/data=!3m7!1e1!3m5!1sBKPEqWUtKmpOVacsJRooFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.705191111645263%26panoid%3DBKPEqWUtKmpOVacsJRooFQ%26yaw%3D303.60652045432334!7i16384!8i8192!4m6!3m5!1s0x14b82019d66448bf:0x99fc171744f21217!8m2!3d38.933029!4d28.288668!16zL20vMGJqN3Zq?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

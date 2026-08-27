@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "East of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔东部，路边没有枯草，只有偏红色的土。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_1_01",
+      "google_map_url": "https://www.google.com/maps/@14.2220624,-12.6636733,3a,84.4y,255.75h,95.54t/data=!3m7!1e1!3m5!1sb3AK-8YlQYlughJBGGlrTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.544712144359224%26panoid%3Db3AK-8YlQYlughJBGGlrTA%26yaw%3D255.747286128011!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "East of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔东部，路边大片的金黄色枯草。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/N3,+%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94/@15.3751876,-13.7102068,3a,75y,59.51h,94.92t/data=!3m7!1e1!3m5!1spWrm2qg1iqW7lLsdBzg6Fg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.916711459799998%26panoid%3DpWrm2qg1iqW7lLsdBzg6Fg%26yaw%3D59.50953867625935!7i16384!8i8192!4m6!3m5!1s0xef284666678dbf9:0x94a9a74a8b20e8b9!8m2!3d15.3757697!4d-15.032331!16s%2Fg%2F11c2ktgcz4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

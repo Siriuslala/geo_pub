@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "East of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛东海岸的悬崖。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_east_01",
+      "google_map_url": "https://www.google.com/maps/place/Mokau+Road,+%E6%96%B0%E8%A5%BF%E5%85%B0/@-39.6436952,177.0598455,2a,90y,77.96h,104.33t/data=!3m7!1e1!3m5!1sRkcwESoHkSoQ3bob_1vHPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.32872194221764%26panoid%3DRkcwESoHkSoQ3bob_1vHPQ%26yaw%3D77.95985795822367!7i13312!8i6656!4m6!3m5!1s0x6d14ec5e0d766747:0xea2bf8a583b81d42!8m2!3d-38.9039586!4d174.5572245!16s%2Fg%2F1txfpbfd?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

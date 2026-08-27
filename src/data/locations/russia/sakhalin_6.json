@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Sakhalin Island of Russia", 
+  "coordinates": null,
+  "summary": "库页岛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "sakhalin_island_6_01",
+      "google_map_url": "https://www.google.com/maps/@49.3875542,142.8516135,3a,90y,327.99h,97.95t/data=!3m7!1e1!3m5!1sL_Uy-4aBlMsUQlpCVvMksw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.951108067589587%26panoid%3DL_Uy-4aBlMsUQlpCVvMksw%26yaw%3D327.9883659587113!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

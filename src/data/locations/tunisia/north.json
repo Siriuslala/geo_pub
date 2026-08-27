@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "tunisia",
+  "slug": "",
+  "title": "North of Tunisia", 
+  "coordinates": null,
+  "summary": "红‑白相间涂漆路沿石；纯白色方块现代楼房，平屋顶。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%AA%81%E5%B0%BC%E6%96%AF%E5%93%88%E9%A9%AC%E9%A9%AC%E7%89%B9/@36.435462,10.6877223,3a,75y,86.61h,93.35t/data=!3m7!1e1!3m5!1sjSjShdOg1U4lLBQGb85q5g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.352761832332888%26panoid%3DjSjShdOg1U4lLBQGb85q5g%26yaw%3D86.61396313692582!7i13312!8i6656!4m6!3m5!1s0x12fd61fc0dac1583:0x8f1c841291df5ff!8m2!3d36.4072574!4d10.6224706!16zL20vMDYyX3p5?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

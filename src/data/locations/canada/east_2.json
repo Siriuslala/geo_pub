@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Québec Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大魁北克省公路；针阔混交林；木质电线杆，架空线缆；与俄罗斯公路区别：俄罗斯很多公路甚至没有电线杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_2_01",
+      "google_map_url": "https://www.google.com/maps/place/601+Rue+Principale,+Colombier,+QC+G0H+1P0%E5%8A%A0%E6%8B%BF%E5%A4%A7/@48.8548126,-68.8687828,3a,90y,53.4h,100.26t/data=!3m7!1e1!3m5!1swhyPS5hakQhqVD0gAj8lsA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.264367736193662%26panoid%3DwhyPS5hakQhqVD0gAj8lsA%26yaw%3D53.40259970460883!7i16384!8i8192!4m5!3m4!1s0x4c944557c3a6553b:0xaf8b0de506499950!8m2!3d48.88048!4d-68.840952?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

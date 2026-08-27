@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Eastern Siberia of Russia", 
+  "coordinates": null,
+  "summary": "中国版图鸡鼻子上，佳木斯以北的农村；灌木和莫斯科那边相比更为高大茂盛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_8_01",
+      "google_map_url": "https://www.google.com/maps/place/Avtodoroga+Amur,+%E4%BF%84%E7%BD%97%E6%96%AF/@48.8112759,132.8796598,3a,90y,4.07h,90.5t/data=!3m7!1e1!3m5!1shs1Av66F3HpjeSR0PbyCxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.49667144014452447%26panoid%3Dhs1Av66F3HpjeSR0PbyCxQ%26yaw%3D4.070194826624345!7i13312!8i6656!4m6!3m5!1s0x5dca497307dbdd0f:0xb7e5a5b2672d79a4!8m2!3d52.7418855!4d126.6304765!16s%2Fg%2F1pv19zvd1?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

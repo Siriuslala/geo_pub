@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Middle of Argentina, Buenos Aires", 
+  "coordinates": null,
+  "summary": "阿根廷潘帕斯草原（湿润潘帕斯），冬季景观。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "buenos_aires_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E7%9C%81%E7%89%B9%E4%BC%A6%E5%85%8B%E5%8A%B3%E8%82%AF/@-35.7403268,-63.0635294,3a,89y,241.47h,96.99t/data=!3m7!1e1!3m5!1skqggGGj5LC7qTlAkvTWsXA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.9928339483666235%26panoid%3DkqggGGj5LC7qTlAkvTWsXA%26yaw%3D241.46644175184613!7i16384!8i8192!4m6!3m5!1s0x95c17bff7834a17b:0xfb558727c8f7c2f1!8m2!3d-35.9732789!4d-62.7325973!16zL20vMDUyX3Zn?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

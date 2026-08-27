@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "West of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔西侧，Louga 附近。路边绿色的是印楝（Neem，*Azadirachta indica*），灰绿色的是埃及槲果（沙漠椰枣，*Balanites aegyptiaca*）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/MOM's+Way/@15.595224,-16.2683026,3a,90y,32.51h,96.11t/data=!3m7!1e1!3m5!1s_Efz8gUnDPWYwvfjYwJkrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.110079062407152%26panoid%3D_Efz8gUnDPWYwvfjYwJkrA%26yaw%3D32.51483836839859!7i16384!8i8192!4m6!3m5!1s0x52bce8a4368896e7:0x29107c9238d9b0f5!8m2!3d48.7134095!4d-93.1057047!16s%2Fg%2F11c5t3r347?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Sakhalin Island of Russia", 
+  "coordinates": null,
+  "summary": "库页岛南部沿海公路，路边有铁路；海水非常清澈。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "sakhalin_island_8_01",
+      "google_map_url": "https://www.google.com/maps/@48.6512828,142.798616,3a,84.5y,193.55h,89.49t/data=!3m7!1e1!3m5!1seM5xaFKKgVYByton2acTwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.5141541934084586%26panoid%3DeM5xaFKKgVYByton2acTwA%26yaw%3D193.55289811315288!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

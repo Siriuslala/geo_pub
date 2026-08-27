@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "West of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛西海岸，岸边草甸及其翠绿，湿润感很强。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_west_1_01",
+      "google_map_url": "https://www.google.com/maps/@-38.7440013,174.6093628,3a,90y,325.91h,99.46t/data=!3m7!1e1!3m5!1sqjFy2iiyyptAEJIO5QeNCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.459626547143571%26panoid%3DqjFy2iiyyptAEJIO5QeNCA%26yaw%3D325.90648786502675!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸，Galway 地区；泥炭荒原。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_2_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%82%93%E6%B4%9B%E9%9A%98%E5%8F%A3/@53.5425402,-9.7807812,3a,68.7y,135.74h,97.2t/data=!3m7!1e1!3m5!1sd7hLLmAUpmpf7yw0sXzTng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.19739759797865%26panoid%3Dd7hLLmAUpmpf7yw0sXzTng%26yaw%3D135.7355899767123!7i16384!8i8192!4m6!3m5!1s0x484540846d153e75:0x50f0e84a9bd81223!8m2!3d52.0166667!4d-9.6333333!16zL20vMGdmbTNi?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

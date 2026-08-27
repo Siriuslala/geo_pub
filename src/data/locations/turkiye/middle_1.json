@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "Middle of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其中部安纳托利亚高原；远处是覆雪的休眠火山群；橙黑相间的警示杆（雪杆）：高原冬季多雪，用来标记道路边缘。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%BC%80%E5%A1%9E%E5%88%A9%E7%9C%81%E6%89%98%E9%A9%AC%E5%B0%94%E6%89%8E%E6%89%98%E5%85%8B%E6%8B%89%E5%B0%94%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+38900/@38.4519688,35.9576286,3a,90y,141.42h,93.3t/data=!3m7!1e1!3m5!1s0bwFvlUt3V4t-3YkKGZGiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.2965712234876605%26panoid%3D0bwFvlUt3V4t-3YkKGZGiQ%26yaw%3D141.42239811067608!7i16384!8i8192!4m6!3m5!1s0x152c8727916cd4e1:0x6679846c132e4c06!8m2!3d38.4184119!4d36.012541!16s%2Fg%2F12q4t6bvc?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

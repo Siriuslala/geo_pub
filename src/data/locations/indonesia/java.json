@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "indonesia",
+  "slug": "",
+  "title": "Java Island, Indonesia", 
+  "coordinates": null,
+  "summary": "印尼爪哇岛；大量红砖毛坯房，外面也不粉刷；河流两岸建有防洪护岸堤，堤上设有泄水口。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "java_01",
+      "google_map_url": "https://www.google.com/maps/place/Garut+Great+Mosque/@-7.2080218,107.9054135,3a,88.3y,102.9h,91.39t/data=!3m7!1e1!3m5!1sp3qIp-XEr2DP3nFJJrNHhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.389009107157932%26panoid%3Dp3qIp-XEr2DP3nFJJrNHhw%26yaw%3D102.89717844958949!7i13312!8i6656!4m6!3m5!1s0x2e68b04df6fff521:0x1301501eb356ef39!8m2!3d-7.2162421!4d107.9010101!16s%2Fg%2F120qkm3j?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

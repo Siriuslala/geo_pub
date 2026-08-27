@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Yukon, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大育空地区；树木整体比不列颠哥伦比亚更矮、更稀疏。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_3_01",
+      "google_map_url": "https://www.google.com/maps/place/Klondike+Hwy/@62.6554213,-136.8111455,3a,90y,245.41h,96.45t/data=!3m7!1e1!3m5!1sZ5crihCWgLJiMqhqW_Lj1g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.445161058747729%26panoid%3DZ5crihCWgLJiMqhqW_Lj1g%26yaw%3D245.4093666514882!7i16384!8i8192!4m6!3m5!1s0x51523bf91ca75ea5:0xe7ae96398ed69792!8m2!3d61.9373349!4d-136.1791645!16zL20vMDNwOTV3?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

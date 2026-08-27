@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 South West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸乡村；黃色短虚线边缘线，远处能看到灰顶淡黄色墙体的农舍，爱尔兰风味；路边有石墙，多为爱尔兰西海岸，又因为是浅灰色石灰岩，所以大概率在克莱尔（Clare）郡附近。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_01",
+      "google_map_url": "https://www.google.com/maps/place/Clashmelcon,+East+End,+Co.+%E5%85%8B%E7%AB%8B%E7%88%B1%E5%B0%94%E5%85%B0/@52.4747788,-9.7007906,3a,84.4y,297.94h,92.45t/data=!3m7!1e1!3m5!1sW6RgB5Rl0ga5uy2IQzz96Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.445322365437846%26panoid%3DW6RgB5Rl0ga5uy2IQzz96Q%26yaw%3D297.9419892281585!7i16384!8i8192!4m6!3m5!1s0x485ac87aadac48ab:0x2600c7a819c74a12!8m2!3d52.4600271!4d-9.7345767!16s%2Fg%2F1tctr1z5?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

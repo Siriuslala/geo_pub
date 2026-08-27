@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "philippines",
+  "slug": "",
+  "title": "🇵🇭 Baguio, North of Philippines", 
+  "coordinates": null,
+  "summary": "菲律宾北部吕宋岛碧瑶市，高山城市，可见孟加拉松；路边有绿色的自行车道和黄色的“BIKE LANE”路牌；救护车上写着“PULISYA”，是菲律宾语的“police”。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Utility+Rd,+Baguio,+Benguet,+%E8%8F%B2%E5%BE%8B%E5%AE%BE/@16.4026664,120.5988747,3a,83.1y,25.08h,101.08t/data=!3m7!1e1!3m5!1ss_fp4c2dkVuPp3x7m1s9EQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.079355640050736%26panoid%3Ds_fp4c2dkVuPp3x7m1s9EQ%26yaw%3D25.083578907910372!7i16384!8i8192!4m6!3m5!1s0x3391a146ad95da1d:0xc0b081884342f20d!8m2!3d16.4054978!4d120.6028033!16s%2Fg%2F1tfkc39k?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

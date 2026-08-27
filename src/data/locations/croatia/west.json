@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "croatia",
+  "slug": "",
+  "title": "West of Croatia", 
+  "coordinates": null,
+  "summary": "克罗地亚西部，伊斯特拉半岛（Istria）；白墙红瓦，屋顶有红砖砌成的烟囱，烟囱也有小房顶；远处标牌上写的“VINO”是克罗地亚语里葡萄酒的意思；路边及菜地里的植物：（从左往右）：意大利柏、石榴树、无花果（掌状叶）、油橄榄、夹竹桃；混凝土路灯杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%B8%95%E6%B4%A5%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+52000/@45.485672,13.4985315,3a,90y,314.18h,88.79t/data=!3m7!1e1!3m5!1s9djv5ELJVee93W_1hb04Iw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.2138314946778053%26panoid%3D9djv5ELJVee93W_1hb04Iw%26yaw%3D314.1832050037927!7i16384!8i8192!4m6!3m5!1s0x477cae898a00c987:0xe853edb3ce9ae4d0!8m2!3d45.2391261!4d13.9392716!16zL20vMDJuMTgx?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

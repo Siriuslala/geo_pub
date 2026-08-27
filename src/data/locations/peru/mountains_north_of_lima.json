@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "bolivia",
+  "slug": "",
+  "title": "Valley around Sucre", 
+  "coordinates": null,
+  "summary": "利马北部，靠近三角形沿海大陆的山地；黄褐色的普纳 Puna 高原，地表散布大量灰白色棱角碎石。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "mountains_north_of_lima_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%A7%98%E9%B2%81%E7%8F%AD%E5%B7%B4%E9%A9%AC%E5%8D%A1/@-6.9065777,-78.6421777,3a,75y,225.93h,91.33t/data=!3m7!1e1!3m5!1sWWc87WbgHLkyIKvXcGF3Dw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3264996747011821%26panoid%3DWWc87WbgHLkyIKvXcGF3Dw%26yaw%3D225.92987992411207!7i13312!8i6656!4m6!3m5!1s0x91b3a39fc393e4cf:0x201cf75aa2721ead!8m2!3d-6.6795866!4d-78.5192276!16s%2Fg%2F122jqtvj?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "mountains_north_of_lima_02",
+      "google_map_url": "https://www.google.com/maps/place/%E7%A7%98%E9%B2%81%E7%8F%AD%E5%B7%B4%E9%A9%AC%E5%8D%A1/@-6.9065777,-78.6421777,3a,80.9y,31.28h,99.32t/data=!3m7!1e1!3m5!1sWWc87WbgHLkyIKvXcGF3Dw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.322362628085742%26panoid%3DWWc87WbgHLkyIKvXcGF3Dw%26yaw%3D31.27699619700919!7i13312!8i6656!4m6!3m5!1s0x91b3a39fc393e4cf:0x201cf75aa2721ead!8m2!3d-6.6795866!4d-78.5192276!16s%2Fg%2F122jqtvj?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

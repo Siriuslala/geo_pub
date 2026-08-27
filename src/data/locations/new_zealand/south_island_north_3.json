@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，马尔堡 / 尼尔森一带的碎石乡村农牧山谷；远处背景大山被山毛榉密林覆盖，是南岛北部特征。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_3_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/2350+State+Highway+6,+Okaramio+7178%E6%96%B0%E8%A5%BF%E5%85%B0/@-41.3695898,173.7552666,3a,90y,291.49h,97.93t/data=!3m7!1e1!3m5!1svSSi-37GOpXvZeWd_dyyTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.927538305661258%26panoid%3DvSSi-37GOpXvZeWd_dyyTQ%26yaw%3D291.4888609882798!7i16384!8i8192!4m6!3m5!1s0x6d395d4d3df9af63:0x4326d8e3318977a!8m2!3d-41.4206968!4d173.7610898!16s%2Fg%2F11jl3wr1zv!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

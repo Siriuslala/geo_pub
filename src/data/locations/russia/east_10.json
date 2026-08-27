@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Near Yakutsk", 
+  "coordinates": null,
+  "summary": "萨哈共和国，雅库茨克附近。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_10_01",
+      "google_map_url": "https://www.google.com/maps/@62.7179387,134.1219268,3a,85.5y,58.52h,100.7t/data=!3m7!1e1!3m5!1shhaxGwzFW_QZ3Tec0K7xVQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.69573014736541%26panoid%3DhhaxGwzFW_QZ3Tec0K7xVQ%26yaw%3D58.52313111409137!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

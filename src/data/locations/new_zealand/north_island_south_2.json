@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛南海岸，干黄草山坡。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_south_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-41.3415592,174.6774089,2a,90y,287h,97.53t/data=!3m7!1e1!3m5!1sG9VtpkSh6spyPoeUZ0PKGw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.527570267517504%26panoid%3DG9VtpkSh6spyPoeUZ0PKGw%26yaw%3D286.99810323519273!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

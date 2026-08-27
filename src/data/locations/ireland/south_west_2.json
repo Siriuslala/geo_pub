@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 South West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸山区；路边有一层一层的板岩垒起来的围墙，板岩里有部分带有红色；远处是灰顶黄墙的爱尔兰房屋。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Tulligealane,+Co.+%E5%85%8B%E7%AB%8B%E7%88%B1%E5%B0%94%E5%85%B0/@51.8745615,-10.0804938,3a,81.5y,276.88h,95.3t/data=!3m7!1e1!3m5!1sLfk2VgjOOgVs8_p7NtzrdQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.303156371207521%26panoid%3DLfk2VgjOOgVs8_p7NtzrdQ%26yaw%3D276.87814156192934!7i13312!8i6656!4m6!3m5!1s0x48455e2594e60489:0x21905c78e86ced1f!8m2!3d51.940647!4d-9.9811147!16s%2Fg%2F119vhl6s5?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

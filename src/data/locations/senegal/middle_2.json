@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "Middle of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔中部；植被与北边的道路相比更绿，路边没有那么多金黄色枯草。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_2_01",
+      "google_map_url": "https://www.google.com/maps/@13.9640052,-14.3726183,3a,90y,275.66h,88.19t/data=!3m7!1e1!3m5!1s8wN7yE6eKcG_53qgSM95Ug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.812228308874495%26panoid%3D8wN7yE6eKcG_53qgSM95Ug%26yaw%3D275.65893160302403!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

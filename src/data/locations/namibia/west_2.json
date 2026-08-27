@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "namibia",
+  "slug": "",
+  "title": "West of Namibia", 
+  "coordinates": null,
+  "summary": "绝望沙漠东侧的山谷。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E5%B0%8F%E5%A5%A5%E5%B8%83/@-23.8680989,16.3692646,3a,90y,191.44h,95.49t/data=!3m7!1e1!3m5!1sJ-2ZsStF4b6xvwpm2jFIlA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.491943776817521%26panoid%3DJ-2ZsStF4b6xvwpm2jFIlA%26yaw%3D191.44143962921316!7i16384!8i8192!4m6!3m5!1s0x1c0ccdfe832676c3:0xc1dc433f31249448!8m2!3d-23.7930784!4d16.630604!16s%2Fm%2F0b6gts6?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

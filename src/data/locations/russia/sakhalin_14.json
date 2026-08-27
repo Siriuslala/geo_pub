@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Sakhalin Island of Russia", 
+  "coordinates": null,
+  "summary": "库页岛南部山区，路边树下是蜂斗菜。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "sakhalin_island_14_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E8%90%A8%E5%93%88%E6%9E%97%E5%B7%9E/@46.7320558,142.2088082,3a,90y,272.92h,97.75t/data=!3m7!1e1!3m5!1sovqK4CVFw_iLFVr6lvx5Cg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.749121746312952%26panoid%3DovqK4CVFw_iLFVr6lvx5Cg%26yaw%3D272.92172885165957!7i13312!8i6656!4m6!3m5!1s0x5f2c2f5254f56009:0x1045834396f9820!8m2!3d49.9807847!4d143.373813!16zL20vMDIwbG5j?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

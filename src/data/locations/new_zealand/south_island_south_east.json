@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South East of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛东南海岸，Otago地区，Omaru附近，高大的意大利柏木（Cupressus sempervirens）防风林带。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_south_east_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/20+Seadown+Road,+Kakanui+9495%E6%96%B0%E8%A5%BF%E5%85%B0/@-45.1357199,170.9399194,3a,75y,106.93h,95.22t/data=!3m7!1e1!3m5!1sn4H-OVEAjcZYLwX5_WcAKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.223647750070228%26panoid%3Dn4H-OVEAjcZYLwX5_WcAKw%26yaw%3D106.93001088708435!7i16384!8i8192!4m6!3m5!1s0xa82999c01004e151:0x7f873e1cea54a6f7!8m2!3d-45.1559516!4d170.9159817!16s%2Fg%2F11n19wgmmx!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

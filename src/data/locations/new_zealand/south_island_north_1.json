@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛 Tasman 地区的小镇，远处有山；浅色石灰岩墙体 + 橘红色陶瓦屋顶。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/40%C2%B047'15.6%22S+172%C2%B057'19.6%22E/@-41.1044247,173.0115795,3a,90y,131.21h,94.95t/data=!3m7!1e1!3m5!1smbp-wG5ocbVwEPvPJdFONQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.952103009294063%26panoid%3Dmbp-wG5ocbVwEPvPJdFONQ%26yaw%3D131.2104835782038!7i16384!8i8192!4m4!3m3!8m2!3d-40.7876773!4d172.9554405!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

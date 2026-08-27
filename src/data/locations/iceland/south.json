@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "iceland",
+  "slug": "",
+  "title": "South of Iceland", 
+  "coordinates": null,
+  "summary": "橙色路桩；极度平坦的草甸。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%9C%8D%E8%8A%AC%E6%97%85%E9%A6%86/@64.1760147,-15.8836127,3a,90y,63.32h,98.37t/data=!3m7!1e1!3m5!1sS_CzQHEajG5LlyNaf6QARA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.373635608256265%26panoid%3DS_CzQHEajG5LlyNaf6QARA%26yaw%3D63.32115096621136!7i16384!8i8192!4m9!3m8!1s0x48cfac5a097e45b7:0xe3dc7604ec040338!5m2!4m1!1i2!8m2!3d64.26213!4d-15.212412!16s%2Fg%2F1tdf0yl6?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

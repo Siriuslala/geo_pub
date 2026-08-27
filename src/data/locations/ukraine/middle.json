@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ukraine",
+  "slug": "",
+  "title": "Middle of Ukraine", 
+  "coordinates": null,
+  "summary": "乌克兰中部，基辅附近的乡村；路边房屋有锯齿状屋檐装饰；路的另一侧是大片广阔无垠的麦田，第聂伯河附近，“欧洲粮仓”。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9F%BA%E8%BE%85%E5%B7%9E%E7%9A%AE%E5%A4%AB%E9%BD%90%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+09251/@49.9080963,31.057766,3a,90y,26.85h,101.52t/data=!3m7!1e1!3m5!1s28PpGXIVTK_2RycVvD_uhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.519648159441985%26panoid%3D28PpGXIVTK_2RycVvD_uhg%26yaw%3D26.846243173467627!7i13312!8i6656!4m7!3m6!1s0x40d47b7f56469137:0xf40bfe5de5750c40!8m2!3d49.9147628!4d31.076659!10e5!16s%2Fg%2F120p5588?entry=ttu&g_ep=EgoyMDI2MDgyMy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

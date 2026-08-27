@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Sakhalin Island of Russia", 
+  "coordinates": null,
+  "summary": "库页岛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "sakhalin_island_01",
+      "google_map_url": "https://www.google.com/maps/place/Vulkannyi,+%E5%A0%AA%E5%AF%9F%E5%8A%A0%E8%BE%B9%E7%96%86%E5%8C%BA%E4%BF%84%E7%BD%97%E6%96%AF684036/@52.3530683,143.0670687,3a,85.8y,195.43h,97.61t/data=!3m7!1e1!3m5!1sd7T09wfD-OVJc-wCcBma8w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.609755084872987%26panoid%3Dd7T09wfD-OVJc-wCcBma8w%26yaw%3D195.4345847051628!7i13312!8i6656!4m6!3m5!1s0x58e1bedbb7ee635f:0xdfd988adfa5aee1e!8m2!3d53.0938752!4d158.3487362!16s%2Fg%2F120z176q?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

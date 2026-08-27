@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "West of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔西侧，Louga 以东。地面上有很多灰绿色的沙漠椰枣。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_1_01",
+      "google_map_url": "https://www.google.com/maps/@15.4056702,-15.6702904,3a,90y,110.74h,96.26t/data=!3m7!1e1!3m5!1sGOqtL_fTScuSqKRxURLSfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.261752024783647%26panoid%3DGOqtL_fTScuSqKRxURLSfQ%26yaw%3D110.74287696241292!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyMy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

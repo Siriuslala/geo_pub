@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛南部，Wairarapa 地区，夏季干旱枯黄；山坡上是灰绿色麦卢卡灌木丛；黑色老式木电线杆，上部金属加固套管。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_south_4_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/41%C2%B020'29.6%22S+174%C2%B040'38.7%22E/@-41.3977062,174.8818147,3a,78.6y,12.59h,97.17t/data=!3m7!1e1!3m5!1sqOdzh-ClbAeyhMDptRnwpQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.1707502654585085%26panoid%3DqOdzh-ClbAeyhMDptRnwpQ%26yaw%3D12.588443356324085!7i13312!8i6656!4m4!3m3!8m2!3d-41.3415592!4d174.6774089!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Kamchatka Peninsula of Russia", 
+  "coordinates": null,
+  "summary": "堪察加半岛；远处能看到雪山，是火山。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "kamchatka_peninsula_3_01",
+      "google_map_url": "https://www.google.com/maps/@54.6255516,158.4628887,3a,87.3y,171.78h,101.42t/data=!3m7!1e1!3m5!1sN67T4RkWK2FFeItOGWaxPA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.421701330411551%26panoid%3DN67T4RkWK2FFeItOGWaxPA%26yaw%3D171.77942418743825!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

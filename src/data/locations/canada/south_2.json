@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Ontario Province, South of Canada", 
+  "coordinates": null,
+  "summary": "加拿大安大略省，明尼苏达州以北，苏必利尔湖西北方向。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_2_01",
+      "google_map_url": "https://www.google.com/maps/place/ON-17,+Ontario,+%E5%8A%A0%E6%8B%BF%E5%A4%A7/@48.6452811,-90.4541967,3a,75y,80.39h,94.96t/data=!3m7!1e1!3m5!1sNcZgBPXAtvmDmWuh8x4o4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.957227080112631%26panoid%3DNcZgBPXAtvmDmWuh8x4o4g%26yaw%3D80.39155913470022!7i16384!8i8192!4m6!3m5!1s0x4d4612271c9793d1:0xa8dc22b77ac8cba0!8m2!3d49.3511695!4d-91.5201582!16zL20vMDNna2Jx?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

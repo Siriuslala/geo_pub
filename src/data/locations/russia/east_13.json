@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Taiga Forest（горная тайга）", 
+  "coordinates": null,
+  "summary": "泰加森林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_13_01",
+      "google_map_url": "https://www.google.com/maps/@64.584101,142.6250906,3a,90y,271.3h,103.42t/data=!3m7!1e1!3m5!1s-ZkKA2R5tt0_pD4S-XwSQQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.420552948414581%26panoid%3D-ZkKA2R5tt0_pD4S-XwSQQ%26yaw%3D271.29688182156883!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Oklahoma of U.S.", 
+  "coordinates": null,
+  "summary": "美国中部大平原；中间黄线，两侧白线；大片枯黄色的干草原，地势极其平坦开阔。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "guam_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E5%85%8B%E6%8B%89%E4%BD%95%E9%A9%AC%E4%BF%9D%E7%BD%97%E6%96%AF%E7%93%A6%E5%88%A9/@34.8235745,-97.1132381,3a,75y,30.21h,95.65t/data=!3m7!1e1!3m5!1s7WPNMkzgDdAm47WnvYRytA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.6462492378734765%26panoid%3D7WPNMkzgDdAm47WnvYRytA%26yaw%3D30.21328317375322!7i16384!8i8192!4m6!3m5!1s0x87b2e432cadce1a9:0xbc2ef4a241bf9e5f!8m2!3d34.7400809!4d-97.2222451!16zL20vMHo1X2g?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

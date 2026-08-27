@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "West of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛西海岸，陡崖临海；路边大量新西兰亚麻（Phormium）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_west_3_01",
+      "google_map_url": "https://www.google.com/maps/place/866+Ruatapu+Road,+Ruatapu+7883%E6%96%B0%E8%A5%BF%E5%85%B0/@-42.282437,171.2928232,3a,90y,332.88h,97.4t/data=!3m7!1e1!3m5!1sOZCqoqdQx5OfcdMGCUeTTg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.398079158297662%26panoid%3DOZCqoqdQx5OfcdMGCUeTTg%26yaw%3D332.8820991984801!7i16384!8i8192!4m6!3m5!1s0x6d2f29864171899f:0xaadd48f91502a78a!8m2!3d-42.782459!4d170.9025898!16s%2Fg%2F11k076yz_n?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

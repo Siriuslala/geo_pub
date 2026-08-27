@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 South West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸山区；路边有一片片板岩垒成的围墙，大概率是西海岸的 Kerry 地区。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_4_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%85%8B+%E7%AB%8B,+3+Bothar+Martramane,+Martramane,+Castlegregory,+Co.+Kerry,+V92+EV58%E7%88%B1%E5%B0%94%E5%85%B0/@52.2711059,-10.0284858,3a,87.2y,339.86h,86.3t/data=!3m7!1e1!3m5!1sqteWcz1fcreQdAS9A1NQaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.704837908168926%26panoid%3DqteWcz1fcreQdAS9A1NQaA%26yaw%3D339.85620622469185!7i13312!8i6656!4m5!3m4!1s0x484553147d431ca9:0xa8b7def2d8016144!8m2!3d52.2510306!4d-10.0218716?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

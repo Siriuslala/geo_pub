@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "East of Russia, Far East", 
+  "coordinates": null,
+  "summary": "远东地区，驶向鄂霍次克海的公路，路肩有浅褐色沙土。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_17_01",
+      "google_map_url": "https://www.google.com/maps/@59.8689782,150.8794771,3a,90y,355.25h,101.11t/data=!3m7!1e1!3m5!1sxn6wOOQHEQiauwtBE8di7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.106373416032369%26panoid%3Dxn6wOOQHEQiauwtBE8di7A%26yaw%3D355.24962904182803!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

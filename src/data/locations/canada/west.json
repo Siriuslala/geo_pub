@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "British Columbia Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大不列颠哥伦比亚省，落基山脉西侧沿海山区，远处可见雪山；湿润的海岸山脉，路边是云杉、冷杉和松树；双黄中线，路边有并行的铁轨，在此处非常常见。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E7%9C%81%E7%89%B9%E5%8B%92%E6%96%AF/@54.3704679,-129.1391374,3a,75y,10.89h,97.32t/data=!3m7!1e1!3m5!1s5l7OfoGFyiqaoI3JCSLTCg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.315923933856382%26panoid%3D5l7OfoGFyiqaoI3JCSLTCg%26yaw%3D10.894386181560641!7i16384!8i8192!4m6!3m5!1s0x54749994f30f4865:0x318a4a1d19918a52!8m2!3d54.5181925!4d-128.6031539!16zL20vMDMwcmpz?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

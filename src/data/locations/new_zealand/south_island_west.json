@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "West of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛西海岸，雨林氛围；远处有很多辐射松，树冠呈蘑菇伞形，树叶集中在枝杈顶部。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_west_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%96%B0%E8%A5%BF%E5%85%B0%E5%9F%BA%E7%9D%A3%E5%9F%8E/@-43.9077951,168.9049495,3a,87.1y,292.38h,93.27t/data=!3m8!1e1!3m6!1sCIABIhDLlcZyoZ2ygKUp4zHiMBAG!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcMWxzPb4dgdhujDlLxeIglfrpK8-WYJPFSQDg1xgSuKjyWa54DtmpHY0yFNGZDuBwaaknfdGHvRFejjWnb9urzGgYQ-YxJZxaRNeC8E0J_W2dnDAJ44Cpertu9WO28cYlwfkGw9PDY9mdby%3Dw900-h600-k-no-pi-3.2714181464162806-ya121.29879601456841-ro0-fo100!7i7680!8i3840!4m7!3m6!1s0x6d322f4863c5ed01:0x500ef8684799945!8m2!3d-43.5320301!4d172.636648!10e5!16zL20vMDJ5YzVi!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

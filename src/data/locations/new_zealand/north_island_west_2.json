@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "West of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛西海岸；深褐色 / 黑色火山黑沙滩，由火山玄武岩风化形成，北岛西海岸标志性地貌；旁边是侵蚀黄土质海崖，崖下大片新西兰本土蒲苇（Toetoe）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_west_2_01",
+      "google_map_url": "https://www.google.com/maps/place/1983+Long+Range+Road,+Blackhead+4284%E6%96%B0%E8%A5%BF%E5%85%B0/@-38.0265624,174.7940498,3a,90y,13.38h,102.98t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgICrzaePXg!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcORTQWE6xLp7FovBRvAzHjCEgyKykyVNfyTF9EivxbTJa5SBdADmijwZp2ETrs9XKznm6js0a2PaC3wIqsJ9mzBJlG5Mkz2odi5zqUShxVp-ClaaWMRfWTIpTBXsvzXrMDmRyt3%3Dw900-h600-k-no-pi-12.981781088296046-ya69.98473210129822-ro0-fo100!7i7680!8i3840!4m6!3m5!1s0x6d4263f685da8941:0x90fd22b47627010d!8m2!3d-40.1680281!4d176.824978!16s%2Fg%2F11c21bvscc?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

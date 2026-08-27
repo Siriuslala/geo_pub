@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "North East of Argentina", 
+  "coordinates": null,
+  "summary": "阿根廷东北部科连特斯省，潘帕斯草原北部；一望无际极度平坦的平原，左边开阔农垦草场，右边是低矮灌木疏林；Y 型横担的混凝土电线杆。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%A7%91%E8%BF%9E%E7%89%B9%E6%96%AF%E7%9C%81%E7%BB%8D%E5%A1%9E/@-30.0745653,-58.6330549,3a,90y,232.38h,96.84t/data=!3m7!1e1!3m5!1sWvt-E0YGEENAXWkbfZpD8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.835968976369003%26panoid%3DWvt-E0YGEENAXWkbfZpD8Q%26yaw%3D232.37701749004557!7i16384!8i8192!4m6!3m5!1s0x944d15a82eab7b61:0x856b6d58cb32cf2a!8m2!3d-30.0860397!4d-58.7881101!16zL20vMGdfcmY4?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

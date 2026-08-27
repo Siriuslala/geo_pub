@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，马尔堡 Marlborough（怀劳 Wairau 河谷，著名葡萄酒产区），路边有大片大片的葡萄园。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_4_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/1671+State+Highway+63,+Wairau+Valley+7271%E6%96%B0%E8%A5%BF%E5%85%B0/@-41.5328777,173.6767919,3a,90y,273.87h,99.22t/data=!3m7!1e1!3m5!1slgY1qUG4Wlmf4aElOE4Zcw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.216411377466997%26panoid%3DlgY1qUG4Wlmf4aElOE4Zcw%26yaw%3D273.8692961076808!7i16384!8i8192!4m6!3m5!1s0x6d3963bb3e39c1e3:0xe7fb03c6da992ce!8m2!3d-41.5345643!4d173.6492608!16s%2Fg%2F11kbp8c9tj!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

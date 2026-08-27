@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "British Columbia Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大不列颠哥伦比亚省东北部；云杉 + 颤杨（白杨树）混交的北方针叶林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_2_01",
+      "google_map_url": "https://www.google.com/maps/place/BC-37,+British+Columbia,+%E5%8A%A0%E6%8B%BF%E5%A4%A7/@58.9005574,-123.1418327,3a,90y,332.41h,99.71t/data=!3m7!1e1!3m5!1sdsRgg95BoBCNOmTp6lOTwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.7121060550771%26panoid%3DdsRgg95BoBCNOmTp6lOTwA%26yaw%3D332.40936503621776!7i16384!8i8192!4m6!3m5!1s0x53f63f31748a97b1:0x2e953ab9ae38179c!8m2!3d56.7408261!4d-129.7886808!16s%2Fg%2F11bc5jljh3?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

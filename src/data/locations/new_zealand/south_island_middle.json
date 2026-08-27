@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "Middle of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，Arthur's Pass National Park（亚瑟隘口国家公园）公路；远处是积雪的南阿尔卑斯主峰群，近处山坡上是麦卢卡灌木；路边红白路柱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_middle_01",
+      "google_map_url": "https://www.google.com.hk/maps/@-43.0088528,171.7358459,3a,88.3y,290.59h,95.93t/data=!3m7!1e1!3m5!1sybHWVv4MPmhCwaCnN1rmrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.930731412826205%26panoid%3DybHWVv4MPmhCwaCnN1rmrA%26yaw%3D290.5917218851294!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

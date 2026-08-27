@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Guam of U.S.", 
+  "coordinates": null,
+  "summary": "关岛，菲律宾以东，日本以南；街上的绿化池的边缘常涂成亮黄色；路边椰子树、棕榈树很多。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "guam_01",
+      "google_map_url": "https://www.google.com/maps/place/13%C2%B030'01.4%22N+144%C2%B047'54.3%22E/@13.4968814,144.7956426,2a,90y,208.82h,99.81t/data=!3m7!1e1!3m5!1smke3IM8JkPGxz4QxGJUL4g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.80967713630568%26panoid%3Dmke3IM8JkPGxz4QxGJUL4g%26yaw%3D208.82098969900042!7i13312!8i6656!4m4!3m3!8m2!3d13.5003984!4d144.7984027?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

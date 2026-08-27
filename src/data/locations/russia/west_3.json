@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Countryside near Moscow", 
+  "coordinates": null,
+  "summary": "莫斯科附近的农村；路边灌木没有东欧那么茂盛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_3_01",
+      "google_map_url": "https://www.google.com/maps/@56.0514756,38.4218351,3a,75y,195.72h,91.56t/data=!3m7!1e1!3m5!1s2Xra4xOL5-QOaRZHq5vlrA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5649667078221654%26panoid%3D2Xra4xOL5-QOaRZHq5vlrA%26yaw%3D195.71582408981584!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "Auckland, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，气候温暖湿润；奥克兰的公园，诺福克南洋杉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "auckland_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/1111+Collingwood-Puponga+Main+Road,+P%C4%81kawau+7073%E6%96%B0%E8%A5%BF%E5%85%B0/@-36.858028,174.750321,3a,90y,37.04h,102.15t/data=!3m7!1e1!3m5!1sC7GY4AyFAaqjloZ77PoHnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.151349976733641%26panoid%3DC7GY4AyFAaqjloZ77PoHnw%26yaw%3D37.03696030801786!7i13312!8i6656!4m5!3m4!1s0x6d3cef08830a3127:0xfc5904d0c018ad17!8m2!3d-40.5992655!4d172.6872272!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 South West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸山区；Kerry 地区附近的 Gap of Dunloe，山间有很多散落的大块花岗岩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_5_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%82%93%E6%B4%9B%E9%9A%98%E5%8F%A3/@51.9539751,-9.6390992,3a,89.6y,46.03h,93.61t/data=!3m7!1e1!3m5!1sWmZY_4YilSv8cREzsKgCzg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.609308471129822%26panoid%3DWmZY_4YilSv8cREzsKgCzg%26yaw%3D46.02737722178459!7i16384!8i8192!4m6!3m5!1s0x484540846d153e75:0x50f0e84a9bd81223!8m2!3d52.0166667!4d-9.6333333!16zL20vMGdmbTNi?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

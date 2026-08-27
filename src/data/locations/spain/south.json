@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "spain",
+  "slug": "",
+  "title": "South of Spain", 
+  "coordinates": null,
+  "summary": "莫雷纳山脉；远处绿色路牌明确写 Andalucía，即驶入安达卢西亚大区；远处是干旱黄褐色的橡树林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%93%88%E6%81%A9%E6%89%98%E9%9B%B7%E6%96%AF%EF%BC%8D%E5%BE%B7%E9%98%BF%E5%B0%94%E4%B8%87%E5%88%87%E6%96%AF%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+23391/@38.5148296,-2.7852662,3a,84.5y,154.96h,96.27t/data=!3m7!1e1!3m5!1slLsbkQ4oTV7BFXfULT3ouA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.267364759510528%26panoid%3DlLsbkQ4oTV7BFXfULT3ouA%26yaw%3D154.95963376579087!7i16384!8i8192!4m6!3m5!1s0xd6f45b57f587265:0xd6714fee1d3346d8!8m2!3d38.4147539!4d-2.6775777!16s%2Fm%2F02z7dtc?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

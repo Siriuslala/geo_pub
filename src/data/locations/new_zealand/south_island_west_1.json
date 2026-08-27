@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "West of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛西海岸，远处有雨林氛围；浅色沙质海滩，很平，没有悬崖。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_west_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%96%B0%E8%A5%BF%E5%85%B0%E5%9F%BA%E7%9D%A3%E5%9F%8E/@-43.8818653,168.9614694,3a,90y,48.61h,91.51t/data=!3m8!1e1!3m6!1sCIABIhDnsxXGkcJoRnWojEFwI_9Q!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcMwoIMAR3bOwGxIj5dilorL9ra6FKETtAvI02vKVNAzaJdgaDysBGhCWz5mIGPZvUHbR7wJBJrW9wJ8W2BLjDE7s5_Z2Qudzk259zN1AWOzuuPnV3GHK8fcshLhJraHCqgzZEGlhJYZqYU%3Dw900-h600-k-no-pi-1.5070137756235482-ya244.59317061177063-ro0-fo100!7i7680!8i3840!4m6!3m5!1s0x6d322f4863c5ed01:0x500ef8684799945!8m2!3d-43.5320301!4d172.636648!16zL20vMDJ5YzVi!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

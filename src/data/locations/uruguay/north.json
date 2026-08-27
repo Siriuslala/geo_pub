@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "uruguay",
+  "slug": "",
+  "title": "North of Uruguay", 
+  "coordinates": null,
+  "summary": "乌拉圭北部（与巴西南端接壤）标志性地貌，是巴西地盾的残余侵蚀平顶山；乌拉圭 “pampa húmeda（湿润潘帕斯）”。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%B9%8C%E6%8B%89%E5%9C%AD%E9%87%8C%E7%BB%B4%E5%9F%83%E6%8B%89%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+40000/@-31.5546899,-55.6165117,3a,75y,219.82h,94.8t/data=!3m7!1e1!3m5!1sGijbjCcYFLUjIJFvWJfqPQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.799392326577106%26panoid%3DGijbjCcYFLUjIJFvWJfqPQ%26yaw%3D219.81830399098564!7i13312!8i6656!4m6!3m5!1s0x95a9feec4125885f:0xf22b95e7bd8ced7a!8m2!3d-30.9030623!4d-55.5421188!16zL20vMDZ4a2hz?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

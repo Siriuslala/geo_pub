@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 Wicklow Mountains, East of Ireland", 
+  "coordinates": null,
+  "summary": "威克洛山脉，平缓山丘；废弃花岗岩废墟；大片帚石楠（紫色石楠花丛）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%88%B1%E5%B0%94%E5%85%B0%E5%88%A9%E6%96%BD/@53.0388472,-6.3894968,3a,90y,104.6h,95.63t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDq7ZfsHA!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcN8_9i-7vg_TMpZ3wXRHYQETGQwgODcDoq09DC5PwTO8cmQwlifTABdU91YIn6BdZTfiIfSz14GTCB8WGpuIHyHa6c9NezchnflKKP_8r-jnRfhJ3zKabJID0O1bUfMCVMB225V%3Dw900-h600-k-no-pi-5.625028494542036-ya26.064296933286002-ro0-fo100!7i8704!8i4352!4m6!3m5!1s0x485d0e19527619e9:0x1800c7acf1800150!8m2!3d53.0289482!4d-7.3013277!16s%2Fg%2F1tdcqyhg?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

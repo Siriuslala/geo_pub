@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "japan",
+  "slug": "",
+  "title": "Amami Great Island, Japan", 
+  "coordinates": null,
+  "summary": "奄美大岛；山坡大量露兜树（Pandanus，林投），条形长叶；潮间带大面积礁石 + 浅滩，沙滩是珊瑚砂（白色细碎珊瑚骨骼磨成的白沙）；滨海防护栏：银色护栏，局部搭配红褐色扶手。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "amami_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%BF%B5%E9%A0%AD%E5%B9%B3%E6%9D%BE%E5%85%AC%E5%9C%92/@27.0871976,127.9956075,3a,90y,188.33h,97.58t/data=!3m7!1e1!3m5!1sL5MDrU41hzkA_J9cNyWw9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.5834498903856655%26panoid%3DL5MDrU41hzkA_J9cNyWw9A%26yaw%3D188.32721493630328!7i13312!8i6656!4m6!3m5!1s0x34e47d00385760cd:0x843aa01cf673d3d!8m2!3d27.0712333!4d127.9967958!16s%2Fg%2F11vyytmpq7?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

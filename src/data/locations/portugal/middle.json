@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "portugal",
+  "slug": "",
+  "title": "Middle of Portugal", 
+  "coordinates": null,
+  "summary": "葡萄牙北部乡村，建在山里。白墙红瓦，比较土，窗户比较小比较少，烟囱有小房顶，但是烟囱柱体不是红砖砌成的，而大多是混凝土。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%91%A1%E8%90%84%E7%89%99%E5%BC%97%E6%B4%9B%E5%B0%94%E9%95%87/@41.2812906,-7.1631085,3a,90y,14.54h,101.3t/data=!3m7!1e1!3m5!1s-kf0uaMS2K8ipsoCmfvmug!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.300357975275006%26panoid%3D-kf0uaMS2K8ipsoCmfvmug%26yaw%3D14.536634023613132!7i16384!8i8192!4m6!3m5!1s0xd3b74236cea9d3b:0xfe3fcf8653b1e5ae!8m2!3d41.3082814!4d-7.1534675!16s%2Fg%2F1z44bc89b?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

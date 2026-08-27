@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "tailand",
+  "slug": "",
+  "title": "South of Thailand", 
+  "coordinates": null,
+  "summary": "泰国南部地区，棕榈种植园。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%B3%B0%E5%9B%BD%E6%B4%9B%E5%9D%A4%E5%BA%9C%E7%AB%A5%E9%A2%82%E5%8E%BF/@8.1684448,99.3454989,3a,90y,126.39h,94.59t/data=!3m7!1e1!3m5!1sN2tiSCWyCA4TxbGrvI1F9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.593924543676323%26panoid%3DN2tiSCWyCA4TxbGrvI1F9Q%26yaw%3D126.39003539601055!7i16384!8i8192!4m6!3m5!1s0x30524166baf274fb:0x30223bc2c367e80!8m2!3d8.149005!4d99.6786894!16s%2Fm%2F027x696?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

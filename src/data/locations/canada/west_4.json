@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Yukon, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大育空地区,怀特霍斯（Whitehorse）周边；树木整体比不列颠哥伦比亚更矮、更稀疏。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_4_01",
+      "google_map_url": "https://www.google.com/maps/@61.1305717,-135.3419278,3a,90y,302.74h,95.96t/data=!3m7!1e1!3m5!1s_g9rcDhVEoqEx3xftV0ifg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.9583463803288055%26panoid%3D_g9rcDhVEoqEx3xftV0ifg%26yaw%3D302.74059077251985!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

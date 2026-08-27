@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，南海岸。很多诺福克南洋杉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_south_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/594+Manawapou+Road,+H%C4%81wera+4672%E6%96%B0%E8%A5%BF%E5%85%B0/@-39.864372,174.7461061,3a,36.5y,214.91h,92.28t/data=!3m7!1e1!3m5!1sSfXw7si-2bpLgr7gc-FeRQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.2781786777800903%26panoid%3DSfXw7si-2bpLgr7gc-FeRQ%26yaw%3D214.9138921989439!7i16384!8i8192!4m6!3m5!1s0x6d1576faf6129bc7:0xfc3e68f7aaa44cc3!8m2!3d-39.62808!4d174.3201106!16s%2Fg%2F11csfnpc33!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

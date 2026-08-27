@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "East of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛东海岸；远处山坡上是辐射松，山脚下房子前面的大树是新西兰圣诞树；近处是百子莲。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/39%C2%B038'37.3%22S+177%C2%B003'35.4%22E/@-40.1691191,176.8248419,3a,75.2y,66.74h,93.95t/data=!3m7!1e1!3m5!1suiNG3zYfI6sU_4X5Ap4iYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.950806064794861%26panoid%3DuiNG3zYfI6sU_4X5Ap4iYw%26yaw%3D66.742469900396!7i16384!8i8192!4m4!3m3!8m2!3d-39.6436952!4d177.0598455?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

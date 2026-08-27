@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ireland",
+  "slug": "",
+  "title": "🇮🇪 West of Ireland", 
+  "coordinates": null,
+  "summary": "爱尔兰西海岸，Galway 以西；泥炭荒原（Bog），黑色花岗岩。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%88%88%E5%B0%94%E9%9F%A6%E7%88%B1%E5%B0%94%E5%85%B0/@53.4793299,-10.0019447,3a,90y,80.5h,93.2t/data=!3m7!1e1!3m5!1sORe_GNYeJ-JEd-YkvAcsoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.1958955111217477%26panoid%3DORe_GNYeJ-JEd-YkvAcsoQ%26yaw%3D80.49948620322934!7i13312!8i6656!4m6!3m5!1s0x485b93955a2d5bff:0x32b1b440a495281!8m2!3d53.274001!4d-9.0512662!16zL20vMG1fX3o?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "Middle of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛，中部火山‑沉积缓丘农牧区；山坡土壤裸露红褐色，是北岛火山风化土特征。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_middle_1_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/37+Giffords+Road,+Rapaura+7273%E6%96%B0%E8%A5%BF%E5%85%B0/@-39.0293711,175.3550383,3a,90y,291.67h,95.11t/data=!3m7!1e1!3m5!1sdvOckDihonwP_F0pQyxF4w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.105998149261211%26panoid%3DdvOckDihonwP_F0pQyxF4w%26yaw%3D291.66649676853064!7i13312!8i6656!4m6!3m5!1s0x6d396a4b0652d44f:0x1ddbe49f2957063c!8m2!3d-41.4757555!4d173.8716864!16s%2Fg%2F11fks5y3ty!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

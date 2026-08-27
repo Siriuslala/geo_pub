@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Ontario Province, South of Canada", 
+  "coordinates": null,
+  "summary": "加拿大安大略省，明尼苏达州以北；路边的黄底 + 黑黄棋盘格镶边，双向岔路汇合警告标志，是安大略省特有的。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_1_01",
+      "google_map_url": "https://www.google.com/maps/place/ON-600,+Rainy+River+District,+ON,+%E5%8A%A0%E6%8B%BF%E5%A4%A7/@48.9390064,-94.3879088,3a,90y,229.31h,87.17t/data=!3m7!1e1!3m5!1sW9rqS-1UIN3cRkLAmm7CDg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.8329420470794133%26panoid%3DW9rqS-1UIN3cRkLAmm7CDg%26yaw%3D229.31376090749586!7i16384!8i8192!4m6!3m5!1s0x52bc1d04b69a02bb:0xc3b2b66599400453!8m2!3d48.8690472!4d-94.1605083!16s%2Fg%2F1v3drsl7?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

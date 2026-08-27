@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South East of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，南奥塔哥（South Otago）沿海公路，比较平，有悬崖；雨影效应导致比新西兰西侧干旱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_south_east_2_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/1+Nukumaru+Parade,+Waiinu+Beach+4588%E6%96%B0%E8%A5%BF%E5%85%B0/@-45.163652,170.9147885,3a,90y,185.19h,90.74t/data=!3m7!1e1!3m5!1srnbNbJwYpolsHK7vUUr7rw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.7377784333035748%26panoid%3DrnbNbJwYpolsHK7vUUr7rw%26yaw%3D185.18956064707857!7i16384!8i8192!4m6!3m5!1s0x6d3fe29ddb8c16d7:0x80978b362fdf4b72!8m2!3d-39.8641751!4d174.7467885!16s%2Fg%2F11jl3xcfr_!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

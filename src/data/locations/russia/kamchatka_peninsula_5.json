@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Kamchatka Peninsula of Russia", 
+  "coordinates": null,
+  "summary": "堪察加半岛；东边能望见雪山；路面灰灰的，和火山灰、玄武岩等有关。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "kamchatka_peninsula_5_01",
+      "google_map_url": "https://www.google.com/maps/@53.9133447,157.7163622,3a,90y,119.88h,94.63t/data=!3m7!1e1!3m5!1sngxkLckcEM4muHZKpQlCrg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.626933747413432%26panoid%3DngxkLckcEM4muHZKpQlCrg%26yaw%3D119.87574006097356!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

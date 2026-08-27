@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "British Columbia Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大不列颠哥伦比亚省，阿拉斯加公路；西边是落基山脉；路边是北方针叶林（云杉‑松树林） 。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Blueberry+River+205,+%E6%AF%94%E4%BC%8A%E5%85%8B%E4%B8%8D%E5%88%97%E9%A2%A0%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E7%9C%81+V0C+2R0%E5%8A%A0%E6%8B%BF%E5%A4%A7/@56.6397336,-121.6481839,3a,75y,122.33h,96.29t/data=!3m7!1e1!3m5!1sbfsJLtPY4I2RyqzaHXIVsA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.291562205347191%26panoid%3DbfsJLtPY4I2RyqzaHXIVsA%26yaw%3D122.33087001924095!7i16384!8i8192!4m6!3m5!1s0x5393013d98c7f949:0xf7d6ae6272fbc303!8m2!3d56.7026142!4d-121.1068991!16s%2Fg%2F11b8v6f_jg?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

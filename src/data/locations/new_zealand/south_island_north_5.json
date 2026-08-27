@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛，奥塔哥 Otago 内陆，，雨影效应，降水少，半干旱内陆山谷。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_5_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/%E6%96%B0%E8%A5%BF%E5%85%B0%E5%9F%BA%E7%9D%A3%E5%9F%8E/@-41.7511287,172.7295664,3a,90y,269.76h,98.86t/data=!3m7!1e1!3m5!1sGVJEv-Ug8A6LxHAdLg331Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.862059873604125%26panoid%3DGVJEv-Ug8A6LxHAdLg331Q%26yaw%3D269.7638904361054!7i16384!8i8192!4m7!3m6!1s0x6d322f4863c5ed01:0x500ef8684799945!8m2!3d-43.5320301!4d172.636648!10e5!16zL20vMDJ5YzVi!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

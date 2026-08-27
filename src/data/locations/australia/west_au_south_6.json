@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "South of Western Australia", 
+  "coordinates": null,
+  "summary": "西澳小麦带；路边是田野；鲑鱼胶桉 Salmon Gum（*Eucalyptus salmonophloia*）：大块片状脱皮，新树皮呈奶白、浅鲑鱼粉、淡橙红色。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_au_south_6_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%A5%BF%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%B7%9E%E5%8D%A1%E6%9D%9C%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+6466/@-31.1804653,117.1800633,3a,75y,250.66h,99.08t/data=!3m7!1e1!3m5!1sc0_SaC27dct4I_bHLEahAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.07972053209322%26panoid%3Dc0_SaC27dct4I_bHLEahAA%26yaw%3D250.65583322981948!7i16384!8i8192!4m6!3m5!1s0x2bcc797c20f25b65:0x400f638247a0040!8m2!3d-30.7710234!4d117.133178!16zL20vMDdqYm15?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "East of Russia, Far East", 
+  "coordinates": null,
+  "summary": "远东地区，驶向鄂霍次克海的公路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_18_01",
+      "google_map_url": "https://www.google.com/maps/@59.9650348,150.6796953,3a,90y,174.9h,103.83t/data=!3m7!1e1!3m5!1sLVHJ7TiV_C2RgucDc_-JOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.825806162208366%26panoid%3DLVHJ7TiV_C2RgucDc_-JOQ%26yaw%3D174.8960529152342!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

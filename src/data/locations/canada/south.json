@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Ontario Province, South of Canada", 
+  "coordinates": null,
+  "summary": "加拿大安大略省，明尼苏达州以北；路边有很多颤杨；注意：和俄罗斯的路作区分，加拿大这里的路不是土路，通常铺好了沥青，路边白桦居多，而俄罗斯那边的松树较多。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E9%B2%8D%E5%BE%B7%E7%89%B9%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+56623/@48.9428059,-94.4104442,3a,90y,259.64h,98.71t/data=!3m7!1e1!3m5!1s70A-KG0fobA2pwCLFbUBkQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.712864998985523%26panoid%3D70A-KG0fobA2pwCLFbUBkQ%26yaw%3D259.63841104875945!7i16384!8i8192!4m6!3m5!1s0x52b944a23ce76ddb:0x1f9f285bf23f91d1!8m2!3d48.7124736!4d-94.5999299!16zL20vMHc0amQ?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

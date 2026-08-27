@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "East of Russia, Far East", 
+  "coordinates": null,
+  "summary": "远东地区。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_16_01",
+      "google_map_url": "https://www.google.com/maps/@60.6329824,151.6297312,3a,90y,225.42h,96.57t/data=!3m7!1e1!3m5!1sDf0x5tuZQNKObFaDcflfGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.5657204388272845%26panoid%3DDf0x5tuZQNKObFaDcflfGA%26yaw%3D225.42059577931866!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

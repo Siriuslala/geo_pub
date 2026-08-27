@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South of North Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰北岛南部平缓农牧丘陵；路边高大蒲苇（Toetoe，新西兰本土蒲苇，多见于北岛）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_island_south_01",
+      "google_map_url": "https://www.google.com.hk/maps/place/42+Owen+Street,+Tikokino+4273%E6%96%B0%E8%A5%BF%E5%85%B0/@-40.111417,175.6825026,3a,90y,331.69h,98.76t/data=!3m7!1e1!3m5!1swofeJZ5UowMmZtWhqYwOcQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.761465115851408%26panoid%3DwofeJZ5UowMmZtWhqYwOcQ%26yaw%3D331.6913797100981!7i16384!8i8192!4m6!3m5!1s0x6d69e4f3e8d1b69d:0x855ba1b33defde41!8m2!3d-39.8200689!4d176.4531705!16s%2Fg%2F11frp4hjtb!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxNy4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

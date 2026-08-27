@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Kamchatka Peninsula of Russia", 
+  "coordinates": null,
+  "summary": "堪察加半岛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "kamchatka_peninsula_01",
+      "google_map_url": "https://www.google.com/maps/@56.32186,160.3590398,3a,90y,230.4h,102.32t/data=!3m7!1e1!3m5!1sTOaAvETw7i0mGgIayBjQYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.321156812135683%26panoid%3DTOaAvETw7i0mGgIayBjQYA%26yaw%3D230.40476913637326!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
