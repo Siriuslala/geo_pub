@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Nevada of U.S.", 
+  "coordinates": null,
+  "summary": "内华达州，宽阔干旱盆地；遍地山艾树（sagebrush），灰绿色矮丛，美国大盆地标志性灌木，内华达的代名词；注意：阿根廷南部的巴塔哥尼亚高原与此类似，但更多是土路，且灌木更加圆润。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nevada_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%86%85%E5%8D%8E%E8%BE%BE%E8%8A%AC%E5%88%A9/@39.7912781,-119.6059738,3a,59.6y,285.58h,94.17t/data=!3m7!1e1!3m5!1sldF_wYvL99OOo7_mr7Kssw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.1685398578895985%26panoid%3DldF_wYvL99OOo7_mr7Kssw%26yaw%3D285.5778406706726!7i16384!8i8192!4m6!3m5!1s0x8098b8ed90879997:0x5fec35cd0d2e60f5!8m2!3d39.6079683!4d-119.2518349!16zL20vMHhkM3o?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

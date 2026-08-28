@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "qatar",
+  "slug": "",
+  "title": "South of Qatar", 
+  "coordinates": null,
+  "summary": "🇶🇦 卡塔尔南部；绝望沙漠里的宽大公路，路边有白色边线。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_3_01",
+      "google_map_url": "https://www.google.com/maps/place/Salwa+Rd,+%E5%8D%A1%E5%A1%94%E5%B0%94/@25.1922655,50.909986,3a,90y,141.04h,96.1t/data=!3m7!1e1!3m5!1sxmLRM9dp18ZVZCC3Ew5l9w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.100375195417797%26panoid%3DxmLRM9dp18ZVZCC3Ew5l9w%26yaw%3D141.041222063024!7i16384!8i8192!4m6!3m5!1s0x3e4662783fa1b05d:0xcc5aec005a9d38df!8m2!3d25.0654325!4d51.1095275!16s%2Fg%2F1thk_9_0?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

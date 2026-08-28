@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "qatar",
+  "slug": "",
+  "title": "Middle of Qatar", 
+  "coordinates": null,
+  "summary": "🇶🇦 卡塔尔中部；有钱的国家即使在绝望沙漠里也有宽大公路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Umm+Bab+Rd,+%E5%8D%A1%E5%A1%94%E5%B0%94/@25.5418305,51.1747032,3a,86y,320.58h,99.14t/data=!3m7!1e1!3m5!1sp-wN39USs_NUw0DbFhSY7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.135864300348771%26panoid%3Dp-wN39USs_NUw0DbFhSY7A%26yaw%3D320.5764299539723!7i16384!8i8192!4m6!3m5!1s0x3e4668cd89c71f37:0x4e589942435a1b84!8m2!3d25.1768628!4d50.9919465!16s%2Fg%2F11thnd5gnr?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

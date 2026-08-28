@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "oman",
+  "slug": "",
+  "title": "North of Oman", 
+  "coordinates": null,
+  "summary": "🇴🇲 阿曼北部；细细且淡淡的黄色边线；极度平坦。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%9B%BC%E6%8B%9C%E8%B5%AB%E8%8E%B1/@22.3847718,56.660942,3a,90y,67.93h,101.19t/data=!3m7!1e1!3m5!1sapOa09861hN1qNIi1-g1yA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.191691069311915%26panoid%3DapOa09861hN1qNIi1-g1yA%26yaw%3D67.93130829031546!7i16384!8i8192!4m6!3m5!1s0x3e8ec1d817fae8c7:0xd4f59a1624a9c5cb!8m2!3d22.9510175!4d57.2931571!16zL20vMDk3M3Ey?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

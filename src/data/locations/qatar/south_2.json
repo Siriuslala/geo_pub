@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "qatar",
+  "slug": "",
+  "title": "South of Qatar", 
+  "coordinates": null,
+  "summary": "🇶🇦 卡塔尔南部；绝望沙漠里的公路，路边有白色边线。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_2_01",
+      "google_map_url": "https://www.google.com/maps/@25.0265531,51.2898553,3a,75y,43.74h,93.27t/data=!3m7!1e1!3m5!1s47BsJC7rnWuosGTD-5ALJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.267618211358851%26panoid%3D47BsJC7rnWuosGTD-5ALJw%26yaw%3D43.740319629080965!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

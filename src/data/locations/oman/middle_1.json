@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "oman",
+  "slug": "",
+  "title": "Middle of Oman", 
+  "coordinates": null,
+  "summary": "🇴🇲 阿曼中部；绝望沙漠。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%9B%BC%E4%B8%AD%E9%83%A8%E7%9C%81/@20.419401,56.7300261,3a,90y,53.95h,100.06t/data=!3m7!1e1!3m5!1sCxTp5nSLs2qngG0uIlKAzw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.056150478309704%26panoid%3DCxTp5nSLs2qngG0uIlKAzw%26yaw%3D53.95425823269669!7i16384!8i8192!4m6!3m5!1s0x3e83463fbc738edd:0xdce4f17b047d2d6e!8m2!3d19.9571078!4d56.2756846!16zL20vMDh6Mmhw?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

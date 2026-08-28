@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "oman",
+  "slug": "",
+  "title": "North of Oman", 
+  "coordinates": null,
+  "summary": "🇴🇲 阿曼北部；细细的黄色边线；极度平坦。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Natih-Fuhud+Rd,+%E9%98%BF%E6%9B%BC/@21.770729,58.2765674,3a,90y,181.56h,103.06t/data=!3m7!1e1!3m5!1s-T8mKzzIkIXkB-9wDboqkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.064934385878502%26panoid%3D-T8mKzzIkIXkB-9wDboqkA%26yaw%3D181.55628409261143!7i16384!8i8192!4m6!3m5!1s0x3e89ae0c0e11d1b1:0x63a4ab39f197abbf!8m2!3d22.5099656!4d55.9808626!16s%2Fg%2F11kpj1wcyk?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

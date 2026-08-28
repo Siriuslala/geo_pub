@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "oman",
+  "slug": "",
+  "title": "South of Oman", 
+  "coordinates": null,
+  "summary": "🇴🇲 阿曼南部；绝望沙漠，路边有小型灌木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%9B%BC%E4%BD%90%E6%B3%95%E5%B0%94%E7%9C%81/@18.5030763,53.8693296,3a,81.2y,68h,98.31t/data=!3m7!1e1!3m5!1s-RZhXnV6D9Ak29cP8Yosdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.308283110904384%26panoid%3D-RZhXnV6D9Ak29cP8Yosdg%26yaw%3D68.00196106011715!7i16384!8i8192!4m6!3m5!1s0x3c2c863f62d18815:0xc59356588151e639!8m2!3d17.0322121!4d54.1425214!16zL20vMDMyMGJi?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

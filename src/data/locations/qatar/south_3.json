@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "qatar",
+  "slug": "",
+  "title": "South of Qatar", 
+  "coordinates": null,
+  "summary": "🇶🇦 卡塔尔南部；绝望沙漠里的宽大公路，路边有高大的路灯。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_3_01",
+      "google_map_url": "https://www.google.com/maps/place/Al+Wukair+Rd,+%E5%8D%A1%E5%A1%94%E5%B0%94/@25.0749306,51.1205703,3a,90y,45.56h,101.53t/data=!3m7!1e1!3m5!1sQ-OMHVy7NkFgKaKQRc-UFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.528540425363175%26panoid%3DQ-OMHVy7NkFgKaKQRc-UFg%26yaw%3D45.564137291705066!7i16384!8i8192!4m6!3m5!1s0x3e45d28b1838301d:0x914914e767587b6a!8m2!3d25.1597254!4d51.5587174!16s%2Fg%2F11thd0z0ct?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

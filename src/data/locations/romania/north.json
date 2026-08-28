@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "romania",
+  "slug": "",
+  "title": "North of Romania", 
+  "coordinates": null,
+  "summary": "罗马尼亚，特兰西瓦尼亚山区；河谷山间平原，大片成熟玉米田，马拉穆列什乡村最常见大田作物；大量房屋处于毛坯在建状态。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E8%B4%B9%E5%B0%94%E5%BE%B7%E9%B2%81%E4%B9%A1/@47.2878031,24.6171762,3a,74.1y,24.32h,93.95t/data=!3m7!1e1!3m5!1s_kKYG5tiUE8b-4YVj8ELZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9518818833457487%26panoid%3D_kKYG5tiUE8b-4YVj8ELZg%26yaw%3D24.324126948739583!7i16384!8i8192!4m6!3m5!1s0x4749fe5d1bad4eb3:0x66dfe4bf833b07fa!8m2!3d47.2781958!4d24.5960429!16s%2Fm%2F04f19s7?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

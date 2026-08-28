@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "oman",
+  "slug": "",
+  "title": "South of Oman", 
+  "coordinates": null,
+  "summary": "🇴🇲 阿曼南部；绝望沙漠。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%9B%BC%E4%B8%AD%E9%83%A8%E7%9C%81/@19.1263104,55.1909156,3a,77y,335.62h,94.56t/data=!3m7!1e1!3m5!1sBbcvry93Ja65SR0YRNuvZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.560085132127156%26panoid%3DBbcvry93Ja65SR0YRNuvZw%26yaw%3D335.61912041161025!7i16384!8i8192!4m6!3m5!1s0x3e83463fbc738edd:0xdce4f17b047d2d6e!8m2!3d19.9571078!4d56.2756846!16zL20vMDh6Mmhw?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

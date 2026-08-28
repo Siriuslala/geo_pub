@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "North of India", 
+  "coordinates": null,
+  "summary": "新德里南部的公路，恒河平原北部；黑‑白/黄方块混凝土路缘是印度高速路的标志性设计，夹竹桃是隔离带的常见绿化。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/Nangla+Majra+Chandpur,+%E5%93%88%E9%87%8C%E4%BA%9A%E7%BA%B3%E9%82%A6%E5%8D%B0%E5%BA%A6/@28.3098401,77.4749709,3a,85.2y,350.73h,92.94t/data=!3m7!1e1!3m5!1sgdLFLGwV34_FJlvPwnBmzw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.944996349511456%26panoid%3DgdLFLGwV34_FJlvPwnBmzw%26yaw%3D350.7303065593257!7i16384!8i8192!4m6!3m5!1s0x390cc429c49ec605:0x9db2b2e77acf8db8!8m2!3d28.3326844!4d77.4687631!16s%2Fg%2F12hpwwfd9?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

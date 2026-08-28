@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "oman",
+  "slug": "",
+  "title": "Middle of Oman", 
+  "coordinates": null,
+  "summary": "🇴🇲 阿曼中部；绝望沙漠，但是与纳米比亚的不同，此处地面上会看见白色石块，且太阳在南边。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/@21.0877752,57.2061862,3a,90y,60.78h,99.37t/data=!3m7!1e1!3m5!1ssukM8Ro7eF-99pFyX9BTLg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.370872478990194%26panoid%3DsukM8Ro7eF-99pFyX9BTLg%26yaw%3D60.78364899892681!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_arab_emirates",
+  "slug": "",
+  "title": "East of The United Arab Emirates（UAE）", 
+  "coordinates": null,
+  "summary": "🇦🇪 阿联酋东海岸附近；远处是荒漠干旱的哈贾尔山脉（Hajar Mountains）；黄色围墙，墙顶方形垛口；远处有阿联酋国旗。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/@25.1436455,56.2470031,3a,74.1y,71.74h,94.75t/data=!3m7!1e1!3m5!1s9a5gacVZG5Y3K59V1hpLtw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.7450660855544555%26panoid%3D9a5gacVZG5Y3K59V1hpLtw%26yaw%3D71.73699795488801!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

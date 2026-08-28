@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "South West of South Africa", 
+  "coordinates": null,
+  "summary": "南非西南部；卡鲁（Karoo）干旱台地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Koppieskraal+Rd,+%E5%8D%97%E9%9D%9E/@-33.1224499,21.3194388,3a,90y,80.34h,101.06t/data=!3m7!1e1!3m5!1sTQpK6dLohvZ3qouAy7zuDw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.060859479561742%26panoid%3DTQpK6dLohvZ3qouAy7zuDw%26yaw%3D80.34471721732002!7i16384!8i8192!4m6!3m5!1s0x1c2dd5421a155ca1:0xcdc93389048c90a4!8m2!3d-31.4362142!4d20.3073681!16s%2Fg%2F11hzxjdfp6?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

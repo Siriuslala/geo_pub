@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "qatar",
+  "slug": "",
+  "title": "South of Qatar", 
+  "coordinates": null,
+  "summary": "🇶🇦 卡塔尔南部；绝望沙漠里的宽大公路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/@24.8802839,50.9250249,3a,75y,223.35h,98.6t/data=!3m7!1e1!3m5!1seg1cOYpjcaH3fIU0hp1xFQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.603413662172457%26panoid%3Deg1cOYpjcaH3fIU0hp1xFQ%26yaw%3D223.34690682458915!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Puerto Rico of U.S.", 
+  "coordinates": null,
+  "summary": "🇵🇷 波多黎各；中央隔离带鲜绿色混凝土护栏：是波多黎各高速非常标志性的涂装；浓密亚热带阔叶丛林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "puerto_rico_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E5%9C%A3%E8%83%A1%E5%AE%89/@18.3592214,-65.9009169,3a,90y,59.36h,93.84t/data=!3m8!1e1!3m6!1sAF1QipORQaiQIu76BHEXLKDbBpcV2OEZ0iqBJqntWVE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipORQaiQIu76BHEXLKDbBpcV2OEZ0iqBJqntWVE%3Dw900-h600-k-no-pi-3.8413836254222247-ya317.4911300304195-ro0-fo100!7i5504!8i2752!4m6!3m5!1s0x8c03686fe268196f:0xad6b7f0f5c935adc!8m2!3d18.4153108!4d-66.0593509!16zL20vMGZ3NHY?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

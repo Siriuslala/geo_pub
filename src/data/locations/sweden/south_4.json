@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "sweden",
+  "slug": "",
+  "title": "South of Sweden", 
+  "coordinates": null,
+  "summary": "瑞典南部；瑞典特色的房屋，开阔平缓农田、大片草地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_4_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%91%9E%E5%85%B8%E5%8D%A1%E5%B0%94%E6%96%AF%E5%A0%A1/@58.4429841,14.4431232,3a,90y,268.19h,92.97t/data=!3m7!1e1!3m5!1sPk8kim0emfjskRWkNgundQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.9728155981016187%26panoid%3DPk8kim0emfjskRWkNgundQ%26yaw%3D268.1880430953661!7i16384!8i8192!4m6!3m5!1s0x465bbbc1981d17c7:0xb9f07be61232e3b6!8m2!3d58.5300853!4d14.5105655!16s%2Fg%2F12175_lq?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

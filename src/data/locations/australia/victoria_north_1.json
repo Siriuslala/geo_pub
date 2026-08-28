@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of Victoria", 
+  "coordinates": null,
+  "summary": "维多利亚：北部，赤桉（River Red Gum），树干基部保留一大段粗糙黑褐色老树皮 “黑袜子”，往上才开始大片脱皮变，树冠看着非常茂密。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "victoria_north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E7%9C%81%E5%A8%81%E5%A5%87%E6%99%AE%E9%B2%81%E5%A4%AB%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+3527/@-36.1388092,143.3416717,3a,75y,276.79h,100.66t/data=!3m7!1e1!3m5!1scQ6xum707h-jZv0dOnlTQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.66033738578625%26panoid%3DcQ6xum707h-jZv0dOnlTQg%26yaw%3D276.7866039951587!7i16384!8i8192!4m7!3m6!1s0x6adaf2e80d2e15f7:0x40579a430a0b6c0!8m2!3d-36.0766557!4d143.2255824!10e5!16s%2Fm%2F025w256?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

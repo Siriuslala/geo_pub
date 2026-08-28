@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "north_macedonia",
+  "slug": "",
+  "title": "Middle of North Macedonia", 
+  "coordinates": null,
+  "summary": "🇲🇰 北马其顿；远处的干旱山坡暗示巴尔干中部偏干燥盆地地貌，土地偏干，路边草地枯黄；白墙红瓦 + 一簇簇红陶烟囱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8C%97%E9%A9%AC%E5%85%B6%E9%A1%BF%E5%8D%A1%E7%93%A6%E8%BE%BE%E5%B0%94%E5%A5%87/@41.4785307,22.0878698,3a,64.3y,19.08h,96.18t/data=!3m7!1e1!3m5!1smvtAFmT6dcVgdcwJjqgZGg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.1773048880495764%26panoid%3DmvtAFmT6dcVgdcwJjqgZGg%26yaw%3D19.08131785794104!7i16384!8i8192!4m6!3m5!1s0x135665abe7b5dee1:0x62e75a59d0e6e1a8!8m2!3d41.4329364!4d22.0088861!16zL20vMDdwY2Y2?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

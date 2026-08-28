@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Kansas of U.S.", 
+  "coordinates": null,
+  "summary": "堪萨斯州；极度平坦，几乎看不到起伏土丘，比南边的俄克拉荷马州还要平。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "kansas_01",
+      "google_map_url": "https://www.google.com/maps/place/Sterling+Lake/@38.2252223,-98.1723066,3a,75y,272.85h,98.38t/data=!3m7!1e1!3m5!1sbPYWvJcdRhrcCsol7bBRkw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.38104761775395%26panoid%3DbPYWvJcdRhrcCsol7bBRkw%26yaw%3D272.8532738371741!7i16384!8i8192!4m6!3m5!1s0x87a499e6d99d1f53:0x8d7b3d9b82ddc4a6!8m2!3d38.2042123!4d-98.2028444!16s%2Fg%2F1wtbvd2k?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
