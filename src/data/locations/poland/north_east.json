@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "poland",
+  "slug": "",
+  "title": "Middle of Poland", 
+  "coordinates": null,
+  "summary": "🇵🇱 波兰东北部；路边是玉米地和小麦地；图中道路右侧的灰绿色树为白柳；远处的两棵树中，左侧的为白蜡树，右侧的为椴树（分枝从主干向外斜上展开）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com/maps/place/07-407+Wojsze,+%E6%B3%A2%E5%85%B0/@52.9583321,21.6858251,104a,90y,283.18h,96.55t/data=!3m7!1e1!3m5!1sT4ERVcuhjwZPgXVGbjfFVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.551302560729937%26panoid%3DT4ERVcuhjwZPgXVGbjfFVA%26yaw%3D283.1818045707252!7i16384!8i8192!4m7!3m6!1s0x471e4544ed83b1fb:0xc6bbd28c24023bb1!8m2!3d52.974157!4d21.6960281!10e5!16s%2Fm%2F04q828j?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

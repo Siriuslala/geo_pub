@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "philippines",
+  "slug": "",
+  "title": "Samar Island, Middle of Philippines", 
+  "coordinates": null,
+  "summary": "萨马岛；白底红箭头诱导标牌；远处是绿色丘陵。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_2_01",
+      "google_map_url": "https://www.google.com/maps/place/City+of+Catbalogan,+%E8%A5%BF%E8%90%A8%E9%A9%AC%E8%8F%B2%E5%BE%8B%E5%AE%BE/@11.9708979,124.7957459,3a,75y,35.89h,87.09t/data=!3m7!1e1!3m5!1sok92cStmCUN9d1HMAxCsKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.91129052685946%26panoid%3Dok92cStmCUN9d1HMAxCsKA%26yaw%3D35.88514737557344!7i16384!8i8192!4m6!3m5!1s0x330834d7864d55d7:0xcbc9fd0999445956!8m2!3d11.7752128!4d124.8827785!16s%2Fm%2F02p_dgf?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

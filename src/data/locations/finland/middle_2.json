@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "finland",
+  "slug": "",
+  "title": "Middle of Finland", 
+  "coordinates": null,
+  "summary": "🇫🇮 白桦 + 云杉混合林。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_2_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%8A%AC%E5%85%B0%E5%8A%AA%E5%B0%94%E6%A2%85%E6%96%AF%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+75500/@63.4070812,28.7760712,3a,72.3y,9.92h,95.56t/data=!3m7!1e1!3m5!1s1aRt6dJc8jvitmuO05u_aQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.5606300244155875%26panoid%3D1aRt6dJc8jvitmuO05u_aQ%26yaw%3D9.921118550263877!7i16384!8i8192!4m6!3m5!1s0x469cd3f0939a3735:0x18f931702d191435!8m2!3d63.5418854!4d29.1395699!16zL20vMDNjMTJr?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

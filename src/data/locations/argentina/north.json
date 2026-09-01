@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "Middle of Argentina, Neuquén", 
+  "coordinates": null,
+  "summary": "阿根廷北部，科尔多瓦省，潘帕斯草原。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "neuquen_01",
+      "google_map_url": "https://www.google.com/maps/place/Noetinger+Este/@-32.3396643,-62.4965356,121a,90y,101.22h,95.66t/data=!3m7!1e1!3m5!1sMP2XLaJ9qbfM2m-LE54gEA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.6579100148788655%26panoid%3DMP2XLaJ9qbfM2m-LE54gEA%26yaw%3D101.21661052610116!7i16384!8i8192!4m6!3m5!1s0x95cbc7a511cd0b4d:0xffad7a7b2cb16e5c!8m2!3d-32.3667919!4d-62.2994392!16s%2Fg%2F1td5h9nf?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "Near Armenia, North East of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其东北部，靠近亚美尼亚边境；远处是安纳托利亚东部高原。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9F%83%E5%B0%94%E7%A5%96%E9%B2%81%E5%A7%86%E7%9C%81%E9%9C%8D%E6%8B%89%E6%A1%91/@40.1280924,42.4226313,3a,90y,212.09h,91.28t/data=!3m7!1e1!3m5!1szPZz24ZiKIbq0jUF3_08jQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.284396916528749%26panoid%3DzPZz24ZiKIbq0jUF3_08jQ%26yaw%3D212.08720384049832!7i16384!8i8192!4m6!3m5!1s0x406ea8436eaaa8a7:0x7e7803ec1106a0d7!8m2!3d40.040049!4d42.168877!16zL20vMGJqOHI0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

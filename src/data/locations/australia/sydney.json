@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Sydney, South of New South Wales", 
+  "coordinates": null,
+  "summary": "悉尼城区；传统老房子和 CBD 高楼大厦共存；新南威尔士的绿色电线杆；植被茂盛，路边绿化处草地是翠绿的。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "sydney_01",
+      "google_map_url": "https://www.google.com/maps/place/Tuli+Jewellers/@-33.8226243,151.0107705,3a,90y,327.45h,96.25t/data=!3m7!1e1!3m5!1scyJBm-esHbdu7e8WRTpbjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.252879133102724%26panoid%3DcyJBm-esHbdu7e8WRTpbjA%26yaw%3D327.4489070562143!7i16384!8i8192!4m6!3m5!1s0x6b12a32364b9f8f9:0x952737c79c93c2be!8m2!3d-33.8228211!4d151.0100599!16s%2Fg%2F1vr1wsns?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "sydney_02",
+      "google_map_url": "https://www.google.com/maps/place/Tuli+Jewellers/@-33.8226243,151.0107705,3a,90y,127.52h,91.72t/data=!3m7!1e1!3m5!1scyJBm-esHbdu7e8WRTpbjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7155701933100147%26panoid%3DcyJBm-esHbdu7e8WRTpbjA%26yaw%3D127.51594015388869!7i16384!8i8192!4m6!3m5!1s0x6b12a32364b9f8f9:0x952737c79c93c2be!8m2!3d-33.8228211!4d151.0100599!16s%2Fg%2F1vr1wsns?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

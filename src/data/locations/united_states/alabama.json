@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Alabama of U.S.", 
+  "coordinates": null,
+  "summary": "亚拉巴马州，卡顿伍德（Cottonwood）附近；亚热带湿润森林，图中道路左侧可看到火炬松。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "alabama_01",
+      "google_map_url": "https://www.google.com/maps/place/Chattahoochee+State+Park/@31.0963862,-85.2514977,3a,78.8y,331.79h,96.44t/data=!3m7!1e1!3m5!1s1Et_B2iax58dZ2R8gjHfKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.4403112901365205%26panoid%3D1Et_B2iax58dZ2R8gjHfKQ%26yaw%3D331.78629848747755!7i16384!8i8192!4m6!3m5!1s0x8892cfeaac4f4ae7:0xf18a70c9f54980dc!8m2!3d31.0036317!4d-85.0306908!16s%2Fg%2F11s45wb1nd?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

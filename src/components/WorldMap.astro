@@ -75,6 +75,43 @@ const countryMapPages = loadCountryMapPages();
     正在加载中
   </div>
 
+  <div
+    class="street-view-lightbox"
+    id="street-view-lightbox"
+    role="dialog"
+    aria-modal="true"
+    aria-label="放大街景"
+    hidden
+  >
+    <button
+      type="button"
+      class="street-view-lightbox__backdrop"
+      id="street-view-lightbox-backdrop"
+      aria-label="关闭放大街景"
+    ></button>
+    <figure class="street-view-lightbox__frame">
+      <img id="street-view-lightbox-image" alt="" />
+      <button
+        type="button"
+        class="street-view-media-toggle street-view-media-toggle--collapse"
+        id="street-view-lightbox-collapse"
+        aria-label="缩小街景"
+        title="缩小"
+      >
+        <svg viewBox="0 0 16 16" aria-hidden="true">
+          <path
+            d="M6 2v4H2M10 2v4h4M6 14v-4H2M10 14v-4h4"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          ></path>
+        </svg>
+      </button>
+    </figure>
+  </div>
+
   <noscript>
     <div class="map-fallback">地图需要启用 JavaScript。</div>
   </noscript>
@@ -132,6 +169,16 @@ const countryMapPages = loadCountryMapPages();
   const panelClose = document.querySelector<HTMLButtonElement>(
     "#location-panel-close",
   );
+  const lightbox = document.querySelector<HTMLElement>("#street-view-lightbox");
+  const lightboxBackdrop = document.querySelector<HTMLButtonElement>(
+    "#street-view-lightbox-backdrop",
+  );
+  const lightboxImage = document.querySelector<HTMLImageElement>(
+    "#street-view-lightbox-image",
+  );
+  const lightboxCollapse = document.querySelector<HTMLButtonElement>(
+    "#street-view-lightbox-collapse",
+  );
   const dataElement = document.querySelector<HTMLScriptElement>(
     "#geo-pub-location-data",
   );
@@ -152,6 +199,10 @@ const countryMapPages = loadCountryMapPages();
     !panel ||
     !panelContent ||
     !panelClose ||
+    !lightbox ||
+    !lightboxBackdrop ||
+    !lightboxImage ||
+    !lightboxCollapse ||
     !dataElement ||
     !countryDataElement ||
     modeButtons.length !== 2 ||
@@ -160,6 +211,7 @@ const countryMapPages = loadCountryMapPages();
     throw new Error("Geo Pub map markup is incomplete.");
   }
 
+  document.body.append(lightbox);
   setWorkerUrl(mapLibreWorkerUrl);
 
   const apiKey = workspace.dataset.apiKey ?? "";
@@ -307,6 +359,7 @@ const countryMapPages = loadCountryMapPages();
   let lastPointerPoint = { x: 120, y: 160 };
   let currentMapMode: "simple" | "terrain" = "terrain";
   let currentPreviewSource: "google" | "local" = "google";
+  let expandedCard: HTMLElement | null = null;
 
   const terrainLayerIds = [
     "terrain-natural-earth",
@@ -376,7 +429,7 @@ const countryMapPages = loadCountryMapPages();
   ) => {
     const [lng, lat] = getViewpoint(location, streetView);
     const parameters = new URLSearchParams({
-      size: "480x270",
+      size: "640x360",
       heading: String(streetView.heading),
       pitch: String(streetView.pitch),
       fov: String(streetView.fov),
@@ -430,8 +483,47 @@ const countryMapPages = loadCountryMapPages();
     return element;
   };
 
+  const sizeLightboxImage = (naturalWidth: number, naturalHeight: number) => {
+    const width = naturalWidth || 640;
+    const height = naturalHeight || 360;
+    const maxWidth = Math.min(window.innerWidth * 0.92, 1600);
+    const maxHeight = Math.min(window.innerHeight * 0.86, 900);
+    const scale = Math.min(maxWidth / width, maxHeight / height);
+    lightboxImage.style.width = `${width * scale}px`;
+    lightboxImage.style.height = `${height * scale}px`;
+  };
+
+  const closeLightbox = () => {
+    if (lightbox.hidden) return;
+    lightbox.hidden = true;
+    lightboxImage.removeAttribute("src");
+    lightboxImage.removeAttribute("width");
+    lightboxImage.removeAttribute("height");
+    lightboxImage.removeAttribute("style");
+    lightboxImage.alt = "";
+    expandedCard?.classList.remove("is-expanded");
+    expandedCard = null;
+  };
+
+  const openLightbox = (card: HTMLElement) => {
+    const image = card.querySelector("img");
+    if (!image?.src) return;
+
+    const naturalWidth = image.naturalWidth || 640;
+    const naturalHeight = image.naturalHeight || 360;
+    cancelTimers();
+    expandedCard?.classList.remove("is-expanded");
+    expandedCard = card;
+    card.classList.add("is-expanded");
+    lightboxImage.alt = image.alt;
+    lightboxImage.src = image.currentSrc || image.src;
+    sizeLightboxImage(naturalWidth, naturalHeight);
+    lightbox.hidden = false;
+    lightboxCollapse.focus();
+  };
+
   const loadPreview = (
-    card: HTMLAnchorElement,
+    card: HTMLElement,
     location: GeoLocation,
     streetView: StreetView,
   ) => {
@@ -447,13 +539,15 @@ const countryMapPages = loadCountryMapPages();
           : "";
     if (!imageUrl) return;
 
+    const host =
+      card.querySelector<HTMLElement>(".street-view-card__link") ?? card;
     card.dataset.loaded = "true";
     card.classList.add("is-loading");
 
     const image = new Image();
     image.alt = streetView.alt;
-    image.width = 480;
-    image.height = 270;
+    image.width = 640;
+    image.height = 360;
     image.decoding = "async";
     image.loading = "eager";
     image.fetchPriority = "high";
@@ -486,10 +580,11 @@ const countryMapPages = loadCountryMapPages();
       }
     });
     image.src = imageUrl;
-    card.prepend(image);
+    host.prepend(image);
   };
 
   const renderLocation = (location: GeoLocation) => {
+    closeLightbox();
     panelContent.replaceChildren();
 
     const heading = document.createElement("header");
@@ -505,12 +600,18 @@ const countryMapPages = loadCountryMapPages();
     mediaRail.setAttribute("aria-label", "街景预览");
 
     location.streetViews.forEach((streetView) => {
-      const card = document.createElement("a");
+      const card = document.createElement("div");
       card.className = "street-view-card";
-      card.href = buildGoogleMapsUrl(location, streetView);
-      card.target = "_blank";
-      card.rel = "noopener noreferrer";
-      card.setAttribute("aria-label", `${streetView.caption}，在 Google Maps 中打开`);
+
+      const link = document.createElement("a");
+      link.className = "street-view-card__link";
+      link.href = buildGoogleMapsUrl(location, streetView);
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.setAttribute(
+        "aria-label",
+        `${streetView.caption}，在 Google Maps 中打开`,
+      );
 
       const hasPreview =
         currentPreviewSource === "google"
@@ -529,8 +630,22 @@ const countryMapPages = loadCountryMapPages();
             : "本地缩略图待添加",
       );
       card.classList.toggle("has-no-preview", !hasPreview);
-      card.append(state);
+      link.append(state);
 
+      const expand = document.createElement("button");
+      expand.type = "button";
+      expand.className = "street-view-media-toggle street-view-media-toggle--expand";
+      expand.setAttribute("aria-label", "放大街景");
+      expand.title = "放大";
+      expand.innerHTML =
+        '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 2H2v4M10 2h4v4M6 14H2v-4M10 14h4v-4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+      expand.addEventListener("click", (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+        openLightbox(card);
+      });
+
+      card.append(link, expand);
       mediaRail.append(card);
       if (hasPreview) loadPreview(card, location, streetView);
     });
@@ -667,7 +782,9 @@ const countryMapPages = loadCountryMapPages();
   };
 
   const hidePanel = (force = false) => {
+    if (!lightbox.hidden && !force) return;
     if (panelPinned && !force) return;
+    closeLightbox();
     cancelTimers();
     panel.hidden = true;
     panelPinned = false;
@@ -694,6 +811,7 @@ const countryMapPages = loadCountryMapPages();
   };
 
   const scheduleClose = () => {
+    if (!lightbox.hidden) return;
     if (showTimer) window.clearTimeout(showTimer);
     showTimer = undefined;
     if (panelPinned) return;
@@ -1202,10 +1320,27 @@ const countryMapPages = loadCountryMapPages();
     scheduleClose();
   });
   panelClose.addEventListener("click", () => hidePanel(true));
+  lightboxBackdrop.addEventListener("click", closeLightbox);
+  lightboxCollapse.addEventListener("click", (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    closeLightbox();
+  });
   window.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") hidePanel(true);
+    if (event.key !== "Escape") return;
+    if (!lightbox.hidden) {
+      closeLightbox();
+      return;
+    }
+    hidePanel(true);
   });
   window.addEventListener("resize", () => {
     if (!panel.hidden) positionPanel();
+    if (!lightbox.hidden) {
+      sizeLightboxImage(
+        lightboxImage.naturalWidth || 640,
+        lightboxImage.naturalHeight || 360,
+      );
+    }
   });
 </script>

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "Near Finland, West of Russia", 
+  "coordinates": null,
+  "summary": "拉多加湖以北，与芬兰接壤的地方；注意跟贝加尔湖附近的土路区分：这里明显更冷，路边有云杉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_6_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A1%E7%B4%AF%E5%88%A9%E9%98%BF%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%AE%E7%89%B9%E5%9F%BA%E4%BA%9A%E5%85%B0%E5%A1%94%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+186810/@61.9554142,31.6626664,3a,90y,218.1h,101.47t/data=!3m7!1e1!3m5!1sP8_v9oroyE9gRELg_GzgQg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.465044785453799%26panoid%3DP8_v9oroyE9gRELg_GzgQg%26yaw%3D218.0986822269008!7i13312!8i6656!4m6!3m5!1s0x4698fd8a1e37cb7b:0x5c1bffe231bb820f!8m2!3d61.574086!4d31.4751132!16zL20vMGY5MTR5?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

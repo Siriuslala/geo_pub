@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "California of U.S.", 
+  "coordinates": null,
+  "summary": "加州；遍布典型的三齿拉瑞亚灌木；远景为北美大盆地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "califonia_01",
+      "google_map_url": "https://www.google.com/maps/place/Mojave+National+Preserve/@34.7238652,-115.941973,3a,75y,252.85h,93.71t/data=!3m7!1e1!3m5!1sGt3Bph3M-le8GMKiH8-pdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.7127700576856455%26panoid%3DGt3Bph3M-le8GMKiH8-pdg%26yaw%3D252.84585183880472!7i16384!8i8192!4m6!3m5!1s0x80cf8207c4d4a6d1:0x1a6d6ddf9ae18a7a!8m2!3d35.1234453!4d-115.5204447!16zL20vMDFrNWYy?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

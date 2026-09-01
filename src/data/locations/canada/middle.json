@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Alberta Province, Middle of Canada", 
+  "coordinates": null,
+  "summary": "加拿大阿尔伯塔省；加拿大中部平原向北方森林过渡的植被景观。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Betula+Beach,+%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81+T0E+2K1%E5%8A%A0%E6%8B%BF%E5%A4%A7/@53.9372769,-114.7951941,3a,75y,354.24h,93.89t/data=!3m7!1e1!3m5!1sX46tubJ455SEiV9hqhcDjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.8926159205349222%26panoid%3DX46tubJ455SEiV9hqhcDjg%26yaw%3D354.24442660055087!7i13312!8i6656!4m6!3m5!1s0x539fa8d87377d45f:0x500a39044603ff0!8m2!3d53.5428998!4d-114.6867683!16s%2Fm%2F04crssy?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

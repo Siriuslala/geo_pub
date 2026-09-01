@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "South of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛南部，最南部；路边很多麦卢卡灌木；长叶拟五加幼树（Lancewood / Horoeka, Pseudopanax crassifolius）：枝条细长且叶片如硬齿状向下垂落的植物，这是新西兰独一无二的特有树种——长叶拟五加的幼树形态（用以在远古时期防止恐鸟啃食）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_south_01",
+      "google_map_url": "https://www.google.com/maps/place/Te+Waewae,+%E6%96%B0%E8%A5%BF%E5%85%B0/@-46.165485,167.5874402,3a,75y,91.24h,89.07t/data=!3m7!1e1!3m5!1sdFCgzYC3iCDiyLx9pYighQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.9266103208041727%26panoid%3DdFCgzYC3iCDiyLx9pYighQ%26yaw%3D91.24337805283!7i16384!8i8192!4m6!3m5!1s0xa9d24cffbcbfdb8d:0x500ef8684798280!8m2!3d-46.1900116!4d167.6625208!16s%2Fg%2F1v470ldv?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

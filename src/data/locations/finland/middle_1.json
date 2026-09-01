@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "finland",
+  "slug": "",
+  "title": "Middle of Finland", 
+  "coordinates": null,
+  "summary": "🇫🇮 法伦红墙体 + 白色窗框小木屋；路边有黑白方格铁路道口标记柱、红色邮箱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Kuivanuora/@65.7632411,24.5538527,3a,90y,232.43h,91.19t/data=!3m7!1e1!3m5!1shVgDshR103wab2hLL4Y2vQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1873805044499761%26panoid%3DhVgDshR103wab2hLL4Y2vQ%26yaw%3D232.4326099243417!7i16384!8i8192!4m6!3m5!1s0x45d54a566042afd7:0x94fd4ccf112fa6fb!8m2!3d65.7624699!4d24.4917361!16s%2Fg%2F11cls_zj1c?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

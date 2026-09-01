@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "portugal",
+  "slug": "",
+  "title": "South of Portugal", 
+  "coordinates": null,
+  "summary": "葡萄牙南部山路，地中海半干旱地貌；大片海岸松（Pinus pinaster），稀疏分布在干燥坡地上；林下有稀疏的翠绿色灌丛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E8%91%A1%E8%90%84%E7%89%99%E5%9C%A3%E5%B8%83%E6%8B%89%E4%BB%80%EF%BC%8D%E8%BF%AA%E9%98%BF%E5%B0%94%E6%B3%A2%E7%89%B9%E5%B0%94/@37.2588081,-7.9674742,3a,90y,166.14h,100.74t/data=!3m7!1e1!3m5!1sYFjl-UVZXEcT_VxHXDT0cw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.73895951617618%26panoid%3DYFjl-UVZXEcT_VxHXDT0cw%26yaw%3D166.14484003880227!7i16384!8i8192!4m6!3m5!1s0xd1aaedb509859ed:0x6e6d87f34e187702!8m2!3d37.152576!4d-7.8890523!16zL20vMGMzMGdk?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

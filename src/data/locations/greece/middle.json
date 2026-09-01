@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "greece",
+  "slug": "",
+  "title": "Middle of Greece", 
+  "coordinates": null,
+  "summary": "希腊中南部，地中海夏季干旱生态；砖红色氧化铁红土；路边大片油橄榄树种植园；右侧高大柱状尖塔树是地中海柏木（意大利柏）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Barracuda+Beach+Bar/@38.7383195,23.0138585,57a,90y,80.37h,103.48t/data=!3m7!1e1!3m5!1ses5L7KxxcKdabZwdVI5KAg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.483376636105135%26panoid%3Des5L7KxxcKdabZwdVI5KAg%26yaw%3D80.36519960295485!7i16384!8i8192!4m6!3m5!1s0x14a0c6df0c22bc0b:0x23d5f04f78ee8ab3!8m2!3d38.7331034!4d23.0506541!16s%2Fg%2F11d_dbdcs8?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

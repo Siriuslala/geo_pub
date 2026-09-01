@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "East of South Africa", 
+  "coordinates": null,
+  "summary": "南非北部，低矮的金合欢灌木丛，干燥的淡黄色草甸，红棕色沙质土壤。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%97%E9%9D%9E%E9%A9%AC%E5%85%8B%E5%93%88%E5%A4%9A/@-22.8977304,29.648145,3a,90y,247.78h,101.11t/data=!3m7!1e1!3m5!1shGAY3nYwLEs-t2B1150SfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.112263905014743%26panoid%3DhGAY3nYwLEs-t2B1150SfQ%26yaw%3D247.77796541338927!7i16384!8i8192!4m6!3m5!1s0x1ec66a27298fc029:0xd538f92bddf1bf1b!8m2!3d-23.0502827!4d29.9170356!16s%2Fm%2F02pl4zw?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

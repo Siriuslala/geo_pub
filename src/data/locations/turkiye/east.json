@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "East of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其凡湖（不是远处的湖）附近。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/@38.3459532,43.6797782,3a,75y,80.79h,97.28t/data=!3m7!1e1!3m5!1s4L1NuMX6G6_mDLj4ZQMgFw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-7.284410821071276%26panoid%3D4L1NuMX6G6_mDLj4ZQMgFw%26yaw%3D80.79480541805877!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -4,14 +4,14 @@
   "slug": "",
   "title": "South East of Queensland", 
   "coordinates": null,
-  "summary": "昆士兰东南部：Callitris（澳洲柏 / 白柏松）",
+  "summary": "昆士兰东南部：Callitris（澳洲柏 / 白柏松）。",
   "minZoom": 4,
   "tags": [],
   "status": "published",
   "streetViews": [
     {
       "id": "queensland_south_east_01",
-      "google_map_url": "https://www.google.com.hk/maps/place/George+St,+Bollon+QLD+4488%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-28.3151952,150.9051125,3a,82.6y,317.56h,91.71t/data=!3m7!1e1!3m5!1szS46J-siA4lRNYO8KOutJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.7062132155318892%26panoid%3DzS46J-siA4lRNYO8KOutJQ%26yaw%3D317.5644147321765!7i13312!8i6656!4m6!3m5!1s0x6bae574954aed43b:0xab15dab51faad226!8m2!3d-28.0343699!4d147.4795571!16s%2Fg%2F1tls302k!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
+      "google_map_url": "https://www.google.com.hk/maps/@-28.3151952,150.9051125,319a,82.6y,316.57h,101.39t/data=!3m7!1e1!3m5!1szS46J-siA4lRNYO8KOutJQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.387178547764336%26panoid%3DzS46J-siA4lRNYO8KOutJQ%26yaw%3D316.5737108118647!7i13312!8i6656!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "local_image_path": "",
       "viewpoint": null,
       "panoId": null,

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Connecticut of U.S.", 
+  "coordinates": null,
+  "summary": "康涅狄格州；温带落叶硬木林（橡树‑山毛榉混交）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "connecticut_01",
+      "google_map_url": "https://www.google.com/maps/place/Shepaug+River/@41.5052457,-73.3178692,3a,75y,15.35h,102.77t/data=!3m7!1e1!3m5!1sLim_3uxE9442txk6yyBvKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.772122540135825%26panoid%3DLim_3uxE9442txk6yyBvKw%26yaw%3D15.34686069163612!7i16384!8i8192!4m6!3m5!1s0x89e78e11842d2a33:0x5b685f1d23b58743!8m2!3d41.604317!4d-73.3301916!16s%2Fm%2F0cc69n8?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

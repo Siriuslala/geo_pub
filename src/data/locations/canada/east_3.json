@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "canada",
+  "slug": "",
+  "title": "Québec Province, West of Canada", 
+  "coordinates": null,
+  "summary": "加拿大魁北克省公路；拉布拉多边缘的北方针叶林，黑云杉、冷杉为主；路边大片盛开柳兰（粉紫色野花），是加拿大北方公路标志性野花。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_3_01",
+      "google_map_url": "https://www.google.com/maps/place/Rivi%C3%A8re-aux-Outardes,+%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E5%8A%A0%E6%8B%BF%E5%A4%A7/@50.3317389,-68.8062279,3a,75y,299.71h,98.61t/data=!3m7!1e1!3m5!1suxqlhQAWK5lzAfeT9Rbisg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.60556065939788%26panoid%3DuxqlhQAWK5lzAfeT9Rbisg%26yaw%3D299.7110005180187!7i16384!8i8192!4m6!3m5!1s0x4cee83535be70f1d:0xda41a1684d42270f!8m2!3d51.1255101!4d-68.936743!16s%2Fm%2F0ch0yq9?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

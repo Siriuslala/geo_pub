@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "North West of Argentina", 
+  "coordinates": null,
+  "summary": "阿根廷西北部萨尔塔省，安第斯山脉。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Museo+Santa+Rosa+de+Tastil/@-24.3198702,-66.1199822,3a,90y,210.49h,99.44t/data=!3m7!1e1!3m5!1sMXPhrCiefVYE6VThC7WB7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.435467274728438%26panoid%3DMXPhrCiefVYE6VThC7WB7A%26yaw%3D210.48984994906135!7i16384!8i8192!4m6!3m5!1s0x941c7c2a8df51ad1:0x26f7ec84346320d5!8m2!3d-24.451175!4d-65.9519238!16s%2Fg%2F11c1ww5jp5?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

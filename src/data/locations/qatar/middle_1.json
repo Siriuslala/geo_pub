@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "qatar",
+  "slug": "",
+  "title": "Middle of Qatar", 
+  "coordinates": null,
+  "summary": "🇶🇦 卡塔尔中部公路。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Al+Nasraniya,+%E5%8D%A1%E5%A1%94%E5%B0%94/@25.3831349,51.0180275,3a,68.9y,195.62h,93.63t/data=!3m7!1e1!3m5!1sByn9wlxmk8s-_h5lo5XKZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.633218749899086%26panoid%3DByn9wlxmk8s-_h5lo5XKZw%26yaw%3D195.6248040760381!7i16384!8i8192!4m6!3m5!1s0x3e4617221874c99d:0x79e35392cbc8497e!8m2!3d25.407668!4d51.0762389!16s%2Fg%2F11btxkcc1c?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

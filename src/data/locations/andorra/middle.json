@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "andorra",
+  "slug": "",
+  "title": "Middle of Andorra",
+  "coordinates": null,
+  "summary": "🇦🇩 安道尔的比利牛斯山谷城镇；粗石块砌筑的多层楼房，搭配深棕色木构件、木阳台；注意：瑞士阿尔卑斯山脉的房屋多为木屋。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E7%BD%97%E5%A1%9E%E5%B0%94%E5%86%B6%E9%93%81%E5%8E%82%E5%8D%9A%E7%89%A9%E9%A6%86/@42.5620973,1.5294418,3a,75y,321.07h,100.33t/data=!3m7!1e1!3m5!1sQbq1JyYYh31ivVk4ACPxDQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.32868101591039%26panoid%3DQbq1JyYYh31ivVk4ACPxDQ%26yaw%3D321.07451427434097!7i13312!8i6656!4m6!3m5!1s0x12af6007541ffb7b:0xa82be03f05254ae3!8m2!3d42.5460943!4d1.5210983!16s%2Fg%2F120xctvn?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

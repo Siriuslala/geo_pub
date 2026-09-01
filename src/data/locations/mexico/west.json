@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "mexico",
+  "slug": "",
+  "title": "West of Mexico", 
+  "coordinates": null,
+  "summary": "墨西哥西海岸，右侧为一个平静的浅水沿海潟湖/盐沼，泥滩上零散生长着耐盐红树灌木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%A5%BF%E9%82%A3%E7%BD%97%E9%98%BF%E9%A9%AC%E8%90%A8%E7%89%B9%E5%85%B0/@23.4834922,-106.6176189,3a,77.3y,155.58h,90.38t/data=!3m7!1e1!3m5!1sXu6uZk8MzYtXrFh5DY2RTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.3778077527538528%26panoid%3DXu6uZk8MzYtXrFh5DY2RTA%26yaw%3D155.578027365378!7i16384!8i8192!4m6!3m5!1s0x869f5341681837c1:0x62a4c4aaf13c72b2!8m2!3d23.2494148!4d-106.4111425!16zL20vMDJuNDlq?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
