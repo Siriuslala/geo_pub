@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Wisconsin of U.S.", 
+  "coordinates": null,
+  "summary": "威斯康星州；Gable‑style 美式木屋，尖顶坡屋顶、木护墙板，白色尖桩篱笆，砖砌房屋基座；阔叶树占主导，不像东北地区那么多针叶树；街区规划整齐严谨。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "wisconsin_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%A8%81%E6%96%AF%E5%BA%B7%E6%98%9F%E6%B2%83%E7%B4%A2/@44.9495191,-89.6180015,372a,75y,229.32h,96.62t/data=!3m7!1e1!3m5!1sBciwN3d_7tTeycoZm2nKqA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.617639602150064%26panoid%3DBciwN3d_7tTeycoZm2nKqA%26yaw%3D229.32318439756278!7i16384!8i8192!4m6!3m5!1s0x8800279df8284883:0x3295ad8e8e88b5c!8m2!3d44.9591352!4d-89.6301221!16zL20vMDI5d3p3?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

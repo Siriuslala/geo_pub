@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "france",
+  "slug": "",
+  "title": "North East of France", 
+  "coordinates": null,
+  "summary": "法国东部的孚日山脉；入口立柱上安装的深绿色方形信箱，是法国邮政标准的民用信箱款式；米黄色外墙，棕色屋顶。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%B3%95%E5%9B%BD%E6%A0%BC%E6%9C%97%E4%BB%A3%E5%B0%94%E5%B8%83%E5%90%95%E5%85%8B/@48.5236545,7.2945225,306a,87.5y,207.04h,85.73t/data=!3m7!1e1!3m5!1sHTCOgEl28Pn6HfpR6pL0Iw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.270116576999811%26panoid%3DHTCOgEl28Pn6HfpR6pL0Iw%26yaw%3D207.04436652865724!7i16384!8i8192!4m6!3m5!1s0x4791554f5de408f3:0x40a5fb99a395800!8m2!3d48.49255!4d7.323085!16s%2Fm%2F03m980r?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "South of India", 
+  "coordinates": null,
+  "summary": "印度南部的泰米尔纳德邦，使用泰米尔语，字母方方的，有90°角。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%B0%E5%BA%A6%E5%AE%89%E5%BE%97%E6%8B%89%E9%82%A6%E5%A5%87%E6%8B%89%E5%8D%A1%E5%8D%A2%E9%87%8C%E4%BD%A9%E7%89%B9/@11.1351366,79.0710062,97a,75y,100.88h,88.92t/data=!3m7!1e1!3m5!1sMdLz8SlN8j2shtNYqiVsvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.077073235924729%26panoid%3DMdLz8SlN8j2shtNYqiVsvg%26yaw%3D100.87756618161539!7i13312!8i6656!4m6!3m5!1s0x3a4a636b1370eb19:0x83f184f547f89e53!8m2!3d16.0948008!4d80.1656205!16zL20vMGYwcGNm?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "south_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/tamil.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

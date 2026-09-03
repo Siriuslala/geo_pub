@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "North of South Africa", 
+  "coordinates": null,
+  "summary": "南非北部，干旱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%97%E9%9D%9E%E5%8C%97%E5%BC%80%E6%99%AE/@-25.6595887,23.3137381,1047a,90y,87.57h,95.96t/data=!3m7!1e1!3m5!1snIAZIQrHXbbbG_AYApWVLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.963549483083597%26panoid%3DnIAZIQrHXbbbG_AYApWVLA%26yaw%3D87.56970944420405!7i16384!8i8192!4m6!3m5!1s0x1c2421f57f704b6d:0x300f8d6908f4c90!8m2!3d-29.0466808!4d21.8568586!16zL20vMDI5ajc0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

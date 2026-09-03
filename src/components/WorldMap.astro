@@ -522,6 +522,21 @@ const countryMapPages = loadCountryMapPages();
     lightboxCollapse.focus();
   };
 
+  const usesLocalPreview = (streetView: StreetView) =>
+    Boolean(!streetView.google_map_url && streetView.local_image_path);
+
+  const getPreviewUrl = (location: GeoLocation, streetView: StreetView) => {
+    if (usesLocalPreview(streetView)) {
+      return joinBase(streetView.local_image_path);
+    }
+    if (currentPreviewSource === "google") {
+      return apiKey ? buildStaticImageUrl(location, streetView) : "";
+    }
+    return streetView.local_image_path
+      ? joinBase(streetView.local_image_path)
+      : "";
+  };
+
   const loadPreview = (
     card: HTMLElement,
     location: GeoLocation,
@@ -529,14 +544,7 @@ const countryMapPages = loadCountryMapPages();
   ) => {
     if (card.dataset.loaded === "true") return;
 
-    const imageUrl =
-      currentPreviewSource === "google"
-        ? apiKey
-          ? buildStaticImageUrl(location, streetView)
-          : ""
-        : streetView.local_image_path
-          ? joinBase(streetView.local_image_path)
-          : "";
+    const imageUrl = getPreviewUrl(location, streetView);
     if (!imageUrl) return;
 
     const host =
@@ -559,6 +567,7 @@ const countryMapPages = loadCountryMapPages();
     });
     image.addEventListener("error", () => {
       if (
+        !usesLocalPreview(streetView) &&
         currentPreviewSource === "google" &&
         streetView.panoId &&
         !attemptedCoordinateFallback
@@ -574,9 +583,9 @@ const countryMapPages = loadCountryMapPages();
       const state = card.querySelector<HTMLElement>(".street-view-card__state");
       if (state) {
         state.textContent =
-          currentPreviewSource === "google"
-            ? "街景预览暂时不可用"
-            : "本地缩略图载入失败";
+          usesLocalPreview(streetView) || currentPreviewSource === "local"
+            ? "本地缩略图载入失败"
+            : "街景预览暂时不可用";
       }
     });
     image.src = imageUrl;
@@ -605,29 +614,32 @@ const countryMapPages = loadCountryMapPages();
 
       const link = document.createElement("a");
       link.className = "street-view-card__link";
-      link.href = buildGoogleMapsUrl(location, streetView);
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
-      link.setAttribute(
-        "aria-label",
-        `${streetView.caption}，在 Google Maps 中打开`,
-      );
+      if (streetView.google_map_url) {
+        link.href = buildGoogleMapsUrl(location, streetView);
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.setAttribute(
+          "aria-label",
+          `${streetView.caption}，在 Google Maps 中打开`,
+        );
+      } else {
+        link.setAttribute("aria-label", streetView.caption);
+      }
 
-      const hasPreview =
-        currentPreviewSource === "google"
-          ? Boolean(apiKey)
-          : Boolean(streetView.local_image_path);
+      const previewUrl = getPreviewUrl(location, streetView);
+      const hasPreview = Boolean(previewUrl);
+      const localOnly = usesLocalPreview(streetView);
 
       const state = createTextElement(
         "span",
         "street-view-card__state",
-        currentPreviewSource === "google"
-          ? apiKey
-            ? "载入街景"
-            : "街景预览待连接"
-          : streetView.local_image_path
+        localOnly || currentPreviewSource === "local"
+          ? streetView.local_image_path
             ? "载入本地缩略图"
-            : "本地缩略图待添加",
+            : "本地缩略图待添加"
+          : apiKey
+            ? "载入街景"
+            : "街景预览待连接",
       );
       card.classList.toggle("has-no-preview", !hasPreview);
       link.append(state);

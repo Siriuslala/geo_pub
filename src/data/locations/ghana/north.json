@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ghana",
+  "slug": "",
+  "title": "North of Ghana", 
+  "coordinates": null,
+  "summary": "🇬🇭 加纳北部；亮绿色穆斯林服装；路边的房子的三角屋檐下的墙上往往会有窟窿眼；路要比尼日利亚宽阔，没那么拥挤。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/@9.392882,-0.8203117,169a,90y,305.95h,95.21t/data=!3m7!1e1!3m5!1sym_3We8S0vZ7ASvgC1funQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.214673849136872%26panoid%3Dym_3We8S0vZ7ASvgC1funQ%26yaw%3D305.95335221423176!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

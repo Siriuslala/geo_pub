@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Minnesota of U.S.", 
+  "coordinates": null,
+  "summary": "明尼苏达州，路边大片玉米农田，可见到圆形干草卷；北方针叶‑阔叶混交林交错，白杨、白松、云杉大量出现。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "minnisota_01",
+      "google_map_url": "https://www.google.com/maps/place/Leader+Road+West,+Waiau,+%E6%96%B0%E8%A5%BF%E5%85%B0/@46.213107,-93.3920233,399a,90y,89.72h,95.41t/data=!3m7!1e1!3m5!1sDYRiPakmHqh-f-P41Yxbog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.413265264998188%26panoid%3DDYRiPakmHqh-f-P41Yxbog%26yaw%3D89.72329057221131!7i16384!8i8192!4m6!3m5!1s0x6d3094ae72db83c1:0x2e6878e058a6899c!8m2!3d-42.6457683!4d173.1259769!16s%2Fg%2F1tk639f0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

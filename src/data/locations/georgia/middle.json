@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "georgia",
+  "slug": "",
+  "title": "Middle of Georgia", 
+  "coordinates": null,
+  "summary": "格鲁吉亚的山路，山上的植被比黑山更为茂盛湿润；路边有蕨类植物。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%90%A8%E5%A7%86%E6%9D%BE%E7%9C%81/@42.5066233,42.7968365,371a,79.1y,32.56h,95.21t/data=!3m7!1e1!3m5!1sfv6u9FywsKk7JNluCZssOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.206356007509825%26panoid%3Dfv6u9FywsKk7JNluCZssOQ%26yaw%3D32.563085009228246!7i16384!8i8192!4m6!3m5!1s0x4087cde2ee0048fd:0x2ba1de7153afe5ee!8m2!3d41.1864859!4d36.1322678!16zL20vMDM0NzE4?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

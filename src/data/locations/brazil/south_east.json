@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "brazil",
+  "slug": "",
+  "title": "South East of Brazil", 
+  "coordinates": null,
+  "summary": "巴西东南部；连绵起伏、圆润柔和的绿色草坡丘陵，是巴西东南部大西洋沿岸山脉与内陆高原之间极为著名的“群丘之海”（Mar de Morros）地貌。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_east_01",
+      "google_map_url": "https://www.google.com/maps/place/Nova+Cantu,+%E6%96%B0%E5%9D%8E%E5%9B%BE+-+%E6%9F%8F%E6%8B%89%E6%8B%BF%E5%B7%9E87330-000%E5%B7%B4%E8%A5%BF/@-24.7704216,-52.4174453,467a,90y,201.3h,99.52t/data=!3m7!1e1!3m5!1sogI_KF54J-fcQN7GAOz6kA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.518788011683156%26panoid%3DogI_KF54J-fcQN7GAOz6kA%26yaw%3D201.30245197111356!7i16384!8i8192!4m6!3m5!1s0x94edfb71780277ab:0xb7a8235ae85d3936!8m2!3d-24.6750269!4d-52.5731049!16s%2Fg%2F1yy3vl0w_?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

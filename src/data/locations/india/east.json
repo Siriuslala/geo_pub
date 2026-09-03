@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "East of India", 
+  "coordinates": null,
+  "summary": "印度西部的奥里萨邦，使用奥里雅文字，字母像骷髅的侧面。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/FCI+Balangir,+Indra+Nagar,+Palace+Line,+Balangir,+Odisha+767001%E5%8D%B0%E5%BA%A6/@20.6962619,83.4871993,209a,44.2y,290.99h,122.93t/data=!3m7!1e1!3m5!1sKNNsLfWdaQtm1ODM4sa-Lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-32.92723305083061%26panoid%3DKNNsLfWdaQtm1ODM4sa-Lg%26yaw%3D290.9883539326762!7i13312!8i6656!4m6!3m5!1s0x3a240e84c125dc33:0x335899b0bd25fc9c!8m2!3d20.6920885!4d83.4741888!16s%2Fg%2F1td9z2t4?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "east_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/oriya.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

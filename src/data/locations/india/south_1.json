@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "South of India", 
+  "coordinates": null,
+  "summary": "印度南部的奥里萨邦，使用奥里雅文字，整体像弹簧，圆圆的弹弹的，但也有直角，注意跟泰米尔语区分。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%B0%E5%BA%A6%E5%A5%A5%E9%87%8C%E8%90%A8%E9%82%A6%E5%B7%B4%E6%9C%97%E6%A0%BC%E4%BC%8A%E5%B0%94/@9.1520477,76.5072384,26a,72.6y,85.51h,85.83t/data=!3m7!1e1!3m5!1sGa6WD_35I0x2QA68mFCp9Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.171484947916824%26panoid%3DGa6WD_35I0x2QA68mFCp9Q%26yaw%3D85.5102106024927!7i16384!8i8192!4m6!3m5!1s0x3a240e97b2bb4bf7:0x82d2178de3f7edb7!8m2!3d20.7011108!4d83.4846069!16zL20vMGJ6bDN0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "south_1_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/malayalam.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

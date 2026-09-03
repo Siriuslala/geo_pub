@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ghana",
+  "slug": "",
+  "title": "North of Ghana", 
+  "coordinates": null,
+  "summary": "🇬🇭 加纳北部；绿色植被；路边有铁皮房屋和圆锥顶茅草屋。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/33+Herrmanns+Boundary+Rd,+Nildottie+SA+5238%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@9.1576733,-1.4221418,125a,90y,284.9h,89.78t/data=!3m7!1e1!3m5!1sSiwXD0PehvdrLz74ZoQz7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.2228816077815594%26panoid%3DSiwXD0PehvdrLz74ZoQz7A%26yaw%3D284.8961594716508!7i16384!8i8192!4m6!3m5!1s0x6ab840806cd00d7b:0x51100ecff23cf072!8m2!3d-34.6784357!4d139.649478!16s%2Fg%2F11ffvmv09x?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

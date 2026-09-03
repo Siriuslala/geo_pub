@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "West of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其西南部，靠近地中海；远处可见多个宣礼塔；细长四棱锥金属桁架铁塔电线杆，土耳其特色；注意：与北部山区的区别是，南部山上松树居多，近景处也能看到耐旱灌木，而北部较为湿润，山上多为阔叶树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%B7%B4%E8%A5%BF%E6%9F%8F%E6%8B%89%E6%8B%BF%E5%B7%9E/@37.4682474,30.6020086,896a,90y,186.93h,91.48t/data=!3m7!1e1!3m5!1sFn4r3T-HpSryAVWvjkP9gw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.4812997433854918%26panoid%3DFn4r3T-HpSryAVWvjkP9gw%26yaw%3D186.93332275409986!7i16384!8i8192!4m6!3m5!1s0x94db0b9430b8629d:0xe893fd5063cef061!8m2!3d-25.2520888!4d-52.0215415!16zL20vMDFoZDNm?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

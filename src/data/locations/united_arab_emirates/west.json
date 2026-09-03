@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_arab_emirates",
+  "slug": "",
+  "title": "West of The United Arab Emirates（UAE）", 
+  "coordinates": null,
+  "summary": "🇦🇪 阿联酋，迪拜以南；黑白格路沿（突尼斯是红白路沿）；修剪成两个花盆形状的树篱。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/place/Ulitsa+Sovetskaya,+84,+Chutyr,+Udmurtskaja+Respublika,+%E4%BF%84%E7%BD%97%E6%96%AF427132/@24.9677467,55.2050102,35a,75y,184.61h,93.81t/data=!3m7!1e1!3m5!1sJpuoZjC-k94lkre0nl1fMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.809372536705638%26panoid%3DJpuoZjC-k94lkre0nl1fMw%26yaw%3D184.60911452512823!7i16384!8i8192!4m6!3m5!1s0x43e402f59f7aa839:0x3d94bae1b9f3b81a!8m2!3d57.384192!4d53.2531736!16s%2Fg%2F11f6dcwrb6?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

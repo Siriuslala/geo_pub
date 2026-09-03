@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "brazil",
+  "slug": "",
+  "title": "North of Brazil", 
+  "coordinates": null,
+  "summary": "巴西北部，贝伦以南；红土，很燥；路边有很多号角树（Cecropia，当地叫 Embaúba），像鸡爪。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%B7%B4%E8%A5%BF%E5%B8%95%E6%8B%89/@-4.3170138,-47.839391,278a,90y,283.1h,105.52t/data=!3m7!1e1!3m5!1sfBGl1vdoqcZHTvNoPR76sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-15.518213137349548%26panoid%3DfBGl1vdoqcZHTvNoPR76sw%26yaw%3D283.0981697540446!7i16384!8i8192!4m6!3m5!1s0x9288f999ac2c0997:0x315ec83ee755f30a!8m2!3d-6.207102!4d-52.7027956!16zL20vMDFoZG5w?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "ukraine",
+  "slug": "",
+  "title": "North West of Ukraine", 
+  "coordinates": null,
+  "summary": "乌克兰西北部；左侧大片高大的欧洲赤松（樟子松）；右侧混生大量白桦树",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B2%83%E4%BC%A6%E7%BD%97%E4%BC%8A%E6%96%AF%E5%BD%BB%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+45100/@50.9851498,25.5842615,201a,75y,11.79h,100.26t/data=!3m7!1e1!3m5!1sGbrzirMPkursBQCfXDEfeg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.257173602374493%26panoid%3DGbrzirMPkursBQCfXDEfeg%26yaw%3D11.794025204056169!7i13312!8i6656!4m6!3m5!1s0x4725bf199179f1b7:0x50af2e01c3530cd0!8m2!3d50.9156638!4d25.2652371!16zL20vMGd0MjA4?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

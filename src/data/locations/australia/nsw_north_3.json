@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of New South Wales", 
+  "coordinates": null,
+  "summary": "新南威尔士北部，远处是广阔的绿草地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "nsw_north_3_01",
+      "google_map_url": "https://www.google.com/maps/@-29.5465279,148.6775868,148a,90y,29.24h,94.48t/data=!3m7!1e1!3m5!1s_p483_xd4VF_N4OS_0giCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.481775022372219%26panoid%3D_p483_xd4VF_N4OS_0giCw%26yaw%3D29.23673624398606!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

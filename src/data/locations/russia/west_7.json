@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "West of Russia", 
+  "coordinates": null,
+  "summary": "叶卡捷琳堡、车尔雅宾斯克以西，下诺夫哥罗德以东。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_7_01",
+      "google_map_url": "https://www.google.com/maps/place/1202+Henegar+Dr,+Siloam+Springs,+AR+72761/@57.3841019,53.2535973,205a,75y,289.88h,88.07t/data=!3m7!1e1!3m5!1sh_WKrq9AlSikmJnikuh-EA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9325903287336956%26panoid%3Dh_WKrq9AlSikmJnikuh-EA%26yaw%3D289.8777812796802!7i13312!8i6656!4m6!3m5!1s0x87c998012e123137:0xb78a7593d7286d18!8m2!3d36.1732624!4d-94.5576614!16s%2Fg%2F11c5nq3blw?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

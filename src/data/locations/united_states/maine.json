@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Maine of U.S.", 
+  "coordinates": null,
+  "summary": " Maine 州；右侧大片高大乔木是东部白松，缅因标志性树种；木质电线杆和架空电线。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "maine_01",
+      "google_map_url": "https://www.google.com/maps/place/Princeton+Regional+Airport/@45.1482942,-67.505203,92a,75y,61.57h,104.3t/data=!3m7!1e1!3m5!1ssuFzJ6yQH6o-EvhAR7E38A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.30050140282799%26panoid%3DsuFzJ6yQH6o-EvhAR7E38A%26yaw%3D61.56941482561054!7i16384!8i8192!4m6!3m5!1s0x4ca5f57e85d9b251:0x65b598a2ffc647cb!8m2!3d45.1997904!4d-67.563536!16s%2Fm%2F06zr6tq?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

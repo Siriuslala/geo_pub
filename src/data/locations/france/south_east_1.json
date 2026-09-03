@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "france",
+  "slug": "",
+  "title": "South East of France", 
+  "coordinates": null,
+  "summary": "窄窄的乡间沥青小路；路边主要是栎树，林下湿润，草本繁茂。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/ULM+Carpentras/@44.0128182,5.078822,109a,90y,271.83h,100.07t/data=!3m7!1e1!3m5!1siOQZOZhaqrLTEvRm5bS3Fw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.066420947922623%26panoid%3DiOQZOZhaqrLTEvRm5bS3Fw%26yaw%3D271.83415867912174!7i16384!8i8192!4m6!3m5!1s0x12ca75a092af5997:0x5cb4fbef9d67ec5d!8m2!3d44.0229213!4d5.0881096!16s%2Fg%2F11g0tl1s5p?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

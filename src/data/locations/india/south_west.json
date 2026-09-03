@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "West of India", 
+  "coordinates": null,
+  "summary": "印度西南部的卡纳塔克邦，使用卡纳达语，与泰卢固语十分类似，但字母头顶没有“对钩”。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_west_01",
+      "google_map_url": "https://www.google.com/maps/place/VC+Para+Main+Rd,+Visipara,+Morbi,+Gujarat+363641%E5%8D%B0%E5%BA%A6/@12.9299159,77.5129501,831a,42.4y,215.71h,107.76t/data=!3m7!1e1!3m5!1s_MY6IB_tjimoYpDOcL10UQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.763122348801545%26panoid%3D_MY6IB_tjimoYpDOcL10UQ%26yaw%3D215.71433318808707!7i16384!8i8192!4m6!3m5!1s0x39598cc2a6f6136b:0x7b6e0c66c6842609!8m2!3d22.8276358!4d70.8348566!16s%2Fg%2F11f3m905w8?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "south_west_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/kannada.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

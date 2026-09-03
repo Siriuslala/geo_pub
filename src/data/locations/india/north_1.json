@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "North of India", 
+  "coordinates": null,
+  "summary": "🇮🇳 北方邦乡间小镇；北方邦村镇很流行浮夸外墙装饰，色彩丰富且形状奇特；小摊招牌是天城文（印地语），北方邦主流文字。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%B0%E5%BA%A6%E5%8C%97%E6%96%B9%E9%82%A6%E7%8F%AD%E5%B8%83%E5%B0%94%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+284402/@24.7074926,78.7388401,373a,75y,66.08h,88.04t/data=!3m7!1e1!3m5!1s8z3aI95dawn0Meq8wxM1Hw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9582507196534493%26panoid%3D8z3aI95dawn0Meq8wxM1Hw%26yaw%3D66.08137955760189!7i13312!8i6656!4m6!3m5!1s0x39784dcf8dfe6957:0xeca31cc648f030ed!8m2!3d24.7132763!4d78.7447868!16s%2Fg%2F1tfmg6jk?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "north_1_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/hindi.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

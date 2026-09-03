@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Arkansas of U.S.", 
+  "coordinates": null,
+  "summary": "阿肯色州，远处可看到火炬松；冬季落叶乔木完全秃枝，地面草枯黄。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "arkansas_01",
+      "google_map_url": "https://www.google.com/maps/place/%E4%BF%84%E5%85%8B%E6%8B%89%E4%BD%95%E9%A9%AC%E6%B2%83%E8%8C%A8%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+74964/@36.173173,-94.557453,354a,75y,233.51h,92.11t/data=!3m7!1e1!3m5!1sTwHKptVu5fZRoueOeai1NA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.1058331076005032%26panoid%3DTwHKptVu5fZRoueOeai1NA%26yaw%3D233.5076355172148!7i16384!8i8192!4m6!3m5!1s0x87c99714ab42f149:0x871e6b64c7e9446e!8m2!3d36.1092487!4d-94.5702202!16zL20vMHozeDg?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

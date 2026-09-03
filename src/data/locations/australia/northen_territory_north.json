@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "North of Australia", 
+  "coordinates": null,
+  "summary": "北领地以北；草地上遍布暗红褐色、呈圆锥或小尖塔状的白蚁丘（如澳大利亚北部特有的 Nasutitermes 或大教堂白蚁丘初期形态）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "northen_territory_north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8C%97%E9%A2%86%E5%9C%B0%E5%BB%B7%E4%BC%AF%E5%85%8B%E9%87%8C%E5%85%8B%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+0852/@-15.5906963,130.9725031,59a,75y,57.97h,96.28t/data=!3m7!1e1!3m5!1skJEOLUxtCiQrKA4PKJXINw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.279832655880014%26panoid%3DkJEOLUxtCiQrKA4PKJXINw%26yaw%3D57.96505534122119!7i16384!8i8192!4m6!3m5!1s0x2ca2f0b4a9df8a2d:0x40217a82a254130!8m2!3d-15.6458527!4d130.4668349!16s%2Fm%2F0jt1p90?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "northen_territory_north_02",
+      "google_map_url": "https://www.google.com/maps/place/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%8C%97%E9%A2%86%E5%9C%B0%E5%BB%B7%E4%BC%AF%E5%85%8B%E9%87%8C%E5%85%8B%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+0852/@-15.5906963,130.9725031,59a,38.4y,8.95h,84.75t/data=!3m7!1e1!3m5!1skJEOLUxtCiQrKA4PKJXINw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.251117062775151%26panoid%3DkJEOLUxtCiQrKA4PKJXINw%26yaw%3D8.94570097770637!7i16384!8i8192!4m6!3m5!1s0x2ca2f0b4a9df8a2d:0x40217a82a254130!8m2!3d-15.6458527!4d130.4668349!16s%2Fm%2F0jt1p90?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

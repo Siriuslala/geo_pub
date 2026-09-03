@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "South East of India", 
+  "coordinates": null,
+  "summary": "印度东南部的安得拉邦，使用泰卢固语，字母头顶会有“对钩”。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_east_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%B0%E5%BA%A6%E6%B3%B0%E7%B1%B3%E5%B0%94%E7%BA%B3%E5%BE%B7%E9%82%A6%E6%99%AE%E6%9D%9C%E7%93%A6%E8%80%B6%E5%B0%94%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+630108/@16.0915668,80.1608275,62a,36y,3.05h,121.11t/data=!3m7!1e1!3m5!1sFLmRpVsJm6PoyKISHsYgwg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-31.107823173008143%26panoid%3DFLmRpVsJm6PoyKISHsYgwg%26yaw%3D3.054804515878829!7i16384!8i8192!4m6!3m5!1s0x3b006871f86186b7:0x27728880bed5833c!8m2!3d10.1005422!4d78.8467579!16zL20vMGIyNXBn?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "south_east_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/telugu.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

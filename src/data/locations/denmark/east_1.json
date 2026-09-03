@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "denmark",
+  "slug": "",
+  "title": "Near Copenhagen, East of Denmark", 
+  "coordinates": null,
+  "summary": "🇩🇰 大块木瓦（木片屋面）大坡度屋顶，屋顶开设多个斜天窗 + 太阳能板，是丹麦传统农舍非常典型的样式；远处飘着丹麦燕尾长旗（vimpel /dannebrogsvimpel），长条飘带样式；平坦开阔麦田，修剪整齐的路边绿色草带。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/4652+Lille+Linde,+%E4%B8%B9%E9%BA%A6/@55.3298434,12.1980891,19a,75y,248.51h,95.11t/data=!3m7!1e1!3m5!1sDQAH5Dt0ZJCbr20x1u5IJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.105792411734328%26panoid%3DDQAH5Dt0ZJCbr20x1u5IJg%26yaw%3D248.51071076423304!7i16384!8i8192!4m6!3m5!1s0x4652e5e534cf3ea7:0xa00afcc1d51abe0!8m2!3d55.335192!4d12.2075341!16s%2Fg%2F1td6wr0p?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "ghana",
+  "slug": "",
+  "title": "North of Ghana", 
+  "coordinates": null,
+  "summary": "🇬🇭 加纳北部；两边有翠绿的草地。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_2_01",
+      "google_map_url": "https://www.google.com/maps/place/Daboya+-+Busunu+Rd,+%E5%8A%A0%E7%BA%B3/@9.1586657,-1.4118616,119a,90y,277.23h,98.46t/data=!3m7!1e1!3m5!1srMisUH5vXrOgNYaSiotxmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.464800147176206%26panoid%3DrMisUH5vXrOgNYaSiotxmw%26yaw%3D277.22845705940995!7i16384!8i8192!4m6!3m5!1s0xfd3e6176ae7e5b1:0x92a17b78354181f0!8m2!3d9.3443735!4d-1.5174439!16s%2Fg%2F1tfkxnxp?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "north_2_02",
+      "google_map_url": "https://www.google.com/maps/place/Daboya+-+Busunu+Rd,+%E5%8A%A0%E7%BA%B3/@9.1584409,-1.4148592,121a,75y,69.12h,91.52t/data=!3m7!1e1!3m5!1saqW-VETjsDvuLWYwfCsRfA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.5232725363565152%26panoid%3DaqW-VETjsDvuLWYwfCsRfA%26yaw%3D69.12112791507924!7i13312!8i6656!4m6!3m5!1s0xfd3e6176ae7e5b1:0x92a17b78354181f0!8m2!3d9.3443735!4d-1.5174439!16s%2Fg%2F1tfkxnxp?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

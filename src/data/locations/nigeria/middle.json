@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "nigeria",
+  "slug": "",
+  "title": "Middle of Nigeria", 
+  "coordinates": null,
+  "summary": "芒果树、油棕树和垂枝暗罗（Monoon longifolium, Polyalthia longifolia var. pendula），俗称印度塔树、长叶暗罗或假阿育魏树（Mast Tree / False Ashoka）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%8D%A1%E6%88%88%E7%BD%97/@9.6044875,8.3889237,814a,90y,65.27h,98.4t/data=!3m7!1e1!3m5!1sJv0Yaxou-y3HAFlSk1Y1ng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.398949280728928%26panoid%3DJv0Yaxou-y3HAFlSk1Y1ng%26yaw%3D65.27320040185342!7i16384!8i8192!4m6!3m5!1s0x10524e06d9207171:0x7009419ae4a4c8cc!8m2!3d9.607412!4d8.3882723!16s%2Fm%2F0b73l18?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

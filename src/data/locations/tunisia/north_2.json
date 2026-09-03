@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "tunisia",
+  "slug": "",
+  "title": "North of Tunisia", 
+  "coordinates": null,
+  "summary": "突尼斯市中心；街边有很多臭椿树，是北非国家的特征。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_2_01",
+      "google_map_url": "https://www.google.com/maps/place/13+Rue+Beb+Souika,+Tunis,+%E7%AA%81%E5%B0%BC%E6%96%AF/@36.7963047,10.1791404,5a,90y,260.07h,100.68t/data=!3m7!1e1!3m5!1sY2l7eZz8qsJ44_LojpTLcg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.678578614105632%26panoid%3DY2l7eZz8qsJ44_LojpTLcg%26yaw%3D260.067110546302!7i13312!8i6656!4m6!3m5!1s0x12fd347659377681:0x734dcfd5121c3e01!8m2!3d36.8036249!4d10.1729033!16s%2Fg%2F11f72ymbkf?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

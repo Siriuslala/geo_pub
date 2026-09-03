@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "bangladesh",
+  "slug": "",
+  "title": "Middle of Bangladesh", 
+  "coordinates": null,
+  "summary": "孟加拉国，语言为孟加拉语，字母有很多三角形，注意跟天城文区分。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/VC+Para+Main+Rd,+Visipara,+Morbi,+Gujarat+363641%E5%8D%B0%E5%BA%A6/@23.8038554,90.3554494,23a,84y,327.84h,101.09t/data=!3m8!1e1!3m6!1sCIHM0ogKEICAgIDO1dGB6AE!2e10!3e11!6shttps:%2F%2Flh3.googleusercontent.com%2Fgpms-cs-s%2FAFP8RcNOt1K9kjJxlp2EhHve4Ve7xBPMn1IMXjx7KyMV5LaUvObaNt07mdT1ULrSJ-2_4BCX075T9lqEs2nY9jb2x9A0CGro2_3luPfn8aT2inHLkv2kaIhWA93V07P4goHXSL9_Fj___Q%3Dw900-h600-k-no-pi-11.094764384723234-ya49.111303620716114-ro0-fo100!7i10560!8i5280!4m6!3m5!1s0x39598cc2a6f6136b:0x7b6e0c66c6842609!8m2!3d22.8276358!4d70.8348566!16s%2Fg%2F11f3m905w8?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "west_01",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/bengali.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

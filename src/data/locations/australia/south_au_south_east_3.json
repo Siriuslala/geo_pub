@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "australia",
+  "slug": "",
+  "title": "Near Adelaide", 
+  "coordinates": null,
+  "summary": "南澳，阿德莱德以东；有山地，但植被茂盛；毛茸茸的树是无叶柽柳（Tamarix aphylla，Athel tamarisk）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_au_south_east_3_01",
+      "google_map_url": "https://www.google.com/maps/place/4024+Hunter+Rd,+Nildottie+SA+5238%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-34.6779947,139.6495613,19a,90y,211.58h,98.05t/data=!3m7!1e1!3m5!1sE-ubBiLry_tauSl8dJXZMg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.053359105992925%26panoid%3DE-ubBiLry_tauSl8dJXZMg%26yaw%3D211.58073483442192!7i16384!8i8192!4m5!3m4!1s0x6ab8407d1ceff97b:0x2a6c1c3686c2082b!8m2!3d-34.6728684!4d139.6526982?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

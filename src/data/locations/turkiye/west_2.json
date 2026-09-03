@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "West of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其西部丘陵。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_2_01",
+      "google_map_url": "https://www.google.com/maps/place/Gedikler+Koyu+Muhtarligi/@38.4527443,29.1526802,868a,90y,342.02h,99.29t/data=!3m7!1e1!3m5!1s-OqRMj7MghacQiyWm2FZ0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.285274333647294%26panoid%3D-OqRMj7MghacQiyWm2FZ0g%26yaw%3D342.0151469047253!7i16384!8i8192!4m6!3m5!1s0x14c7c910ffffffff:0x2f7ac4b9c78af980!8m2!3d38.428543!4d29.118388!16s%2Fg%2F113hhmz1g?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "brazil",
+  "slug": "",
+  "title": "Middle of Brazil", 
+  "coordinates": null,
+  "summary": "巴西北部，托坎廷斯州帕尔马斯（Palmas, Tocantins）附近；红土扬尘；可见开粉花的紫花风铃木（Ipê-rosa，巴西极具代表性的国宝级开花树）与旁边的竹丛。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/Para%C3%ADso+do+Tocantins,+%E6%89%98%E5%9D%8E%E5%BB%B7%E6%96%AF%E6%B2%B3%E7%95%94%E5%B8%95%E6%8B%89%E4%BC%8A%E8%8B%8F+-+%E6%89%98%E5%9D%8E%E5%BB%B7%E6%96%AF77600-000%E5%B7%B4%E8%A5%BF/@-10.3020077,-48.7557198,288a,83.6y,328.85h,95.01t/data=!3m7!1e1!3m5!1spAz5sw0SuicEEaMuAlkYRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.012544346117494%26panoid%3DpAz5sw0SuicEEaMuAlkYRw%26yaw%3D328.8528173024942!7i16384!8i8192!4m6!3m5!1s0x93234fd0dea78da5:0x9d307a3f42890e9c!8m2!3d-10.1733012!4d-48.8851491!16s%2Fg%2F1ywqfncsy?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "middle_02",
+      "google_map_url": "https://www.google.com/maps/place/Para%C3%ADso+do+Tocantins,+%E6%89%98%E5%9D%8E%E5%BB%B7%E6%96%AF%E6%B2%B3%E7%95%94%E5%B8%95%E6%8B%89%E4%BC%8A%E8%8B%8F+-+%E6%89%98%E5%9D%8E%E5%BB%B7%E6%96%AF77600-000%E5%B7%B4%E8%A5%BF/@-10.3219385,-48.7399614,301a,90y,283.6h,101.79t/data=!3m7!1e1!3m5!1sBMFFszFHlAvaXZHeQd7wHw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.793376027166332%26panoid%3DBMFFszFHlAvaXZHeQd7wHw%26yaw%3D283.5960687312583!7i16384!8i8192!4m6!3m5!1s0x93234fd0dea78da5:0x9d307a3f42890e9c!8m2!3d-10.1733012!4d-48.8851491!16s%2Fg%2F1ywqfncsy?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

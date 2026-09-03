@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "south_africa",
+  "slug": "",
+  "title": "North of South Africa", 
+  "coordinates": null,
+  "summary": "南非北部，干旱；大量银灰色绒毛叶片灌木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%97%E9%9D%9E%E5%BA%93%E9%B2%81%E6%9B%BC%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+8460/@-27.4660929,23.197148,1220a,75y,318.95h,98.5t/data=!3m7!1e1!3m5!1sXeACvCHY-4aUNulQwrix0w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.50149164950409%26panoid%3DXeACvCHY-4aUNulQwrix0w%26yaw%3D318.94948426538343!7i16384!8i8192!4m6!3m5!1s0x1e9efed9a1f66941:0x47efd3a6e90ae0a8!8m2!3d-27.4628927!4d23.4359657!16zL20vMDQwZGx6?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

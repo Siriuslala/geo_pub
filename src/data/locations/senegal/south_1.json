@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "senegal",
+  "slug": "",
+  "title": "South of Senegal", 
+  "coordinates": null,
+  "summary": "🇸🇳 塞内加尔南部，逐渐出现绿色植被。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E5%8D%A1%E5%A4%AB%E6%9E%97/@13.7797832,-15.7939969,21a,87.6y,320.52h,101.21t/data=!3m7!1e1!3m5!1s-wkFf4FYSMJ-_EcM-MSljA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-11.20784746198919%26panoid%3D-wkFf4FYSMJ-_EcM-MSljA%26yaw%3D320.52478365256!7i16384!8i8192!4m6!3m5!1s0xee912fc671ae63b:0xbfc4f09d37dfa75b!8m2!3d14.1043968!4d-15.5498756!16zL20vMDloMzgw?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

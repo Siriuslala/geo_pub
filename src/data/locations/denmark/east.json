@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "denmark",
+  "slug": "",
+  "title": "Near Copenhagen, East of Denmark", 
+  "coordinates": null,
+  "summary": "🇩🇰 丹麦哥本哈根附近的富人区；路边右侧是椴树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_01",
+      "google_map_url": "https://www.google.com/maps/place/Pop-up+museum+Vedb%C3%A6kfundene/@55.8613022,12.5600963,14a,75y,315.19h,94.86t/data=!3m7!1e1!3m5!1sizlVa3w6YQPhXf0q1Ak-Sw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.855592558104661%26panoid%3DizlVa3w6YQPhXf0q1Ak-Sw%26yaw%3D315.19004399210075!7i16384!8i8192!4m6!3m5!1s0x46524ecbe22ae39b:0x3fc54a0358703deb!8m2!3d55.8527161!4d12.5601018!16s%2Fg%2F1tlvn3_d?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

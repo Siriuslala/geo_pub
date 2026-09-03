@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Lexington Hills, California of U.S.", 
+  "coordinates": null,
+  "summary": "西海岸沿海山脉，加州莱克星顿山丘附近，Santa Cruz 以北，San Jose 以南；远处山头被海雾笼罩，是加州沿海冷洋流遇到夏季干燥空气时形成的典型“海洋层”（Marine layer）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "califonia_1_01",
+      "google_map_url": "https://www.google.com/maps/place/Lexington+Hills,+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A+95033/@37.1681556,-121.9535553,651a,90y,252.54h,92.41t/data=!3m7!1e1!3m5!1sklYHXM2zeEx739x0k47Lag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.412132567020649%26panoid%3DklYHXM2zeEx739x0k47Lag%26yaw%3D252.53896801861887!7i16384!8i8192!4m6!3m5!1s0x808e37bf61441b3b:0x7787cb654a0ebc1!8m2!3d37.164668!4d-121.9730139!16zL20vMHI2OHg?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

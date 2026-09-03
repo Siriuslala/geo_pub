@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "indonesia",
+  "slug": "",
+  "title": "Java Island, Indonesia", 
+  "coordinates": null,
+  "summary": "🇮🇩 印尼爪哇岛；大片烟草田，爪哇北部沿海平原是印尼烟草主产区。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "java_1_01",
+      "google_map_url": "https://www.google.com/maps/place/1+Imp.+de+la+Hoube,+67130+Lutzelhouse,+%E6%B3%95%E5%9B%BD/@-7.3381824,112.33594,57a,75y,205.63h,92.31t/data=!3m7!1e1!3m5!1sTvcYb8Mkuh3Ig_nfZtr4fQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.3077382569236846%26panoid%3DTvcYb8Mkuh3Ig_nfZtr4fQ%26yaw%3D205.6345606415729!7i16384!8i8192!4m6!3m5!1s0x4794002bdce5a5fb:0x37c24d9dbf2e970e!8m2!3d48.5238916!4d7.2944356!16s%2Fg%2F11c14bf673?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

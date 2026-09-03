@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "lesotho",
+  "slug": "",
+  "title": "Middle of Lesotho", 
+  "coordinates": null,
+  "summary": "德拉肯斯山脉高原山地；右侧是德拉肯斯标志性沉积岩峭壁；黄绿相间的山地草甸，海拔很高，没有树木。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/4+Lake+Rd,+Princeton,+ME+04668/@-29.4766074,28.0954917,2106a,90y,87.09h,94.33t/data=!3m7!1e1!3m5!1sXO4yRkrK4Bs04WxS9Zs1xg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.327916626057089%26panoid%3DXO4yRkrK4Bs04WxS9Zs1xg%26yaw%3D87.09250127208142!7i13312!8i6656!4m6!3m5!1s0x4caf58e483fae687:0x4b4f7c787e744adb!8m2!3d45.1497953!4d-67.5004779!16s%2Fg%2F11qg0_mfz8?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

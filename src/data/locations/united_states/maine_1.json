@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "united_states",
+  "slug": "",
+  "title": "Maine of U.S.", 
+  "coordinates": null,
+  "summary": " Maine 州；街区划分较为随意；房屋后面的大树是东部白松。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "maine_1_01",
+      "google_map_url": "https://www.google.com/maps/place/898+Genrich+St,+Wausau,+WI+54403/@44.0752377,-70.2259212,99a,72.8y,279.19h,99.13t/data=!3m7!1e1!3m5!1spmToHqIa2pGKJj0X6v0k0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.130745239621376%26panoid%3DpmToHqIa2pGKJj0X6v0k0Q%26yaw%3D279.1934442478639!7i16384!8i8192!4m5!3m4!1s0x880026cf02c9b4db:0xab0631af9191c521!8m2!3d44.9494168!4d-89.6180049?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

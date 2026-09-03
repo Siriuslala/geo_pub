@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "vietnam",
+  "slug": "",
+  "title": "South of Vietnam", 
+  "coordinates": null,
+  "summary": "越南南部，胡志明市以南；极度平坦的冲积三角洲，大片虾塘 / 鱼塘铺黑色养殖网，湄公河三角洲典型水产养殖地貌。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_01",
+      "google_map_url": "https://www.google.com/maps/place/chiamaia/@10.1583085,106.7769526,3a,75y,335.85h,94.64t/data=!3m7!1e1!3m5!1sGsYpZo0Cips-bx0B3ch8dg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.642365826131737%26panoid%3DGsYpZo0Cips-bx0B3ch8dg%26yaw%3D335.8450728286889!7i16384!8i8192!4m6!3m5!1s0x405c8d0037605497:0x14459fb7dc56b64f!8m2!3d42.2502393!4d42.6945833!16s%2Fg%2F11zgzbg6g2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

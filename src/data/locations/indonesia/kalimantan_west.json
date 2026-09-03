@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "indonesia",
+  "slug": "",
+  "title": "West of Kalimantan, Indonesia", 
+  "coordinates": null,
+  "summary": "加里曼丹岛西部。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "java_01",
+      "google_map_url": "https://www.google.com/maps/place/Thoi+Thuan,+Ben+Tre,+%E8%B6%8A%E5%8D%97/@-0.003868,111.0662851,30a,75y,267.7h,90.32t/data=!3m7!1e1!3m5!1sUC2mc4VAclq7DsHtN2JSMg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.31565090888983605%26panoid%3DUC2mc4VAclq7DsHtN2JSMg%26yaw%3D267.6999892669599!7i16384!8i8192!4m6!3m5!1s0x319fe369bec41097:0x7303e38b02257d9c!8m2!3d10.1025778!4d106.7588494!16s%2Fg%2F11nbb0__l3?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

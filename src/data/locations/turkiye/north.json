@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "turkiye",
+  "slug": "",
+  "title": "North of Turkey", 
+  "coordinates": null,
+  "summary": "土耳其东北部，山上的村庄。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%9C%9F%E8%80%B3%E5%85%B6%E8%90%A8%E5%A7%86%E6%9D%BE%E7%9C%81/@41.1757968,35.987829,730a,35.9y,154.5h,86.4t/data=!3m7!1e1!3m5!1sI5Yp8FuR9YCQi2hApX2Yhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.5994335235630643%26panoid%3DI5Yp8FuR9YCQi2hApX2Yhw%26yaw%3D154.50234278249857!7i16384!8i8192!4m7!3m6!1s0x4087cde2ee0048fd:0x2ba1de7153afe5ee!8m2!3d41.1864859!4d36.1322678!10e5!16zL20vMDM0NzE4?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

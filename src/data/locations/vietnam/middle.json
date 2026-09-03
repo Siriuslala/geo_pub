@@ -1,0 +1,49 @@
+{
+  "id": "",
+  "countrySlug": "vietnam",
+  "slug": "",
+  "title": "Middle of Vietnam", 
+  "coordinates": null,
+  "summary": "越南中部，承天顺化省，岘港以西；周围是安南山脉，空气带有热带丘陵特有的湿润薄雾感；路边有白身、红色圆弧顶的低矮里程碑，是越南公路极具代表性的国家标准里程石碑（顶部刷红漆，正反面刻有路号与公里数）。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/National+Highway+1,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@16.1347785,107.8075837,134a,88.3y,264.99h,96.12t/data=!3m7!1e1!3m5!1s6db5i3WoU1XADB3Y0xUoUQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.123614857616346%26panoid%3D6db5i3WoU1XADB3Y0xUoUQ%26yaw%3D264.99004091609675!7i16384!8i8192!4m6!3m5!1s0x2a51d18fa0ede14f:0xfe005ed464065793!8m2!3d-18.7634797!4d126.0522264!16s%2Fm%2F0rytyx9?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "middle_01",
+      "google_map_url": "",
+      "local_image_path": "images/locations/vietnam/milestone.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "middle_01",
+      "google_map_url": "https://www.google.com/maps/place/National+Highway+1,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@16.1200177,107.9951137,46a,75y,284.72h,91.37t/data=!3m7!1e1!3m5!1sFxICepNEuIb4N3_IKsnfiQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.374528621194159%26panoid%3DFxICepNEuIb4N3_IKsnfiQ%26yaw%3D284.71961915246453!7i16384!8i8192!4m6!3m5!1s0x2a51d18fa0ede14f:0xfe005ed464065793!8m2!3d-18.7634797!4d126.0522264!16s%2Fm%2F0rytyx9?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

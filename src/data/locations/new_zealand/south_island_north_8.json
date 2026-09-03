@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "new_zealand",
+  "slug": "",
+  "title": "North of South Island, New Zealand", 
+  "coordinates": null,
+  "summary": "新西兰南岛山路；与北岛相比，南岛的山体会有裸露岩石，没有北岛圆润；大量落叶秃树，灌木稀疏。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "south_island_north_8_01",
+      "google_map_url": "https://www.google.com/maps/place/B76,+New+South+Wales,+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A/@-42.636826,173.1337981,143a,90y,51.98h,95.31t/data=!3m7!1e1!3m5!1sQetnXmdRDsCpzOCFhNbrYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.312587757491315%26panoid%3DQetnXmdRDsCpzOCFhNbrYA%26yaw%3D51.978168116764834!7i16384!8i8192!4m6!3m5!1s0x6ba178ec2beac6c7:0x61af450ded35162c!8m2!3d-29.5598413!4d149.5572295!16s%2Fg%2F1tfxy69q?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

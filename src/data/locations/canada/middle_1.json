@@ -4,14 +4,26 @@
   "slug": "",
   "title": "Saskatchewan Province, Middle of Canada", 
   "coordinates": null,
-  "summary": "加拿大萨斯卡温华省，美国蒙大拿州北部；半干草原，大面积山艾（sagebrush）灌丛；树木极少，仅河谷低洼处有成丛杨树。",
+  "summary": "加拿大萨斯卡温华省，美国蒙大拿州北部；半干草原，大面积山艾（sagebrush）灌丛；树木极少，仅河谷低洼处有小片杨树林；远处是干旱的平缓丘陵。",
   "minZoom": 4,
   "tags": [],
   "status": "published",
   "streetViews": [
     {
-      "id": "middle_01",
+      "id": "middle_1_01",
       "google_map_url": "https://www.google.com/maps/place/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%96%A9%E6%96%AF%E5%96%80%E5%BE%B9%E6%BA%AB%E7%9C%81%E4%BC%AF%E6%96%AF%E6%89%98%E5%B0%94%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+S0N+0H0/@50.9523598,-109.5301121,3a,75y,2.4h,93.92t/data=!3m7!1e1!3m5!1s8mqty4n5Zwc3al9QrIMEVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.9156673733982217%26panoid%3D8mqty4n5Zwc3al9QrIMEVA%26yaw%3D2.404022700561427!7i16384!8i8192!4m6!3m5!1s0x531267e3ca6e2137:0xe714621da5f7b60f!8m2!3d50.6553201!4d-109.9090034!16zL20vMGM4Z3Q4?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "middle_1_02",
+      "google_map_url": "https://www.google.com/maps/place/12776+SK-21,+Leader,+SK+S0N+1H0%E5%8A%A0%E6%8B%BF%E5%A4%A7/@50.9693031,-109.5286135,3a,90y,164.48h,91.93t/data=!3m7!1e1!3m5!1sFg461HvMa7ywdKZd0exhtA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9251382548127935%26panoid%3DFg461HvMa7ywdKZd0exhtA%26yaw%3D164.4827995438697!7i16384!8i8192!4m5!3m4!1s0x53120434aa87ae65:0xe53bba2d8949c3c!8m2!3d50.9561738!4d-109.5290459?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "local_image_path": "",
       "viewpoint": null,
       "panoId": null,

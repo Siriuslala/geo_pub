@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "tunisia",
+  "slug": "",
+  "title": "North of Tunisia", 
+  "coordinates": null,
+  "summary": "红‑白相间涂漆路沿石；蓝色铁门；海枣树。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD%E8%BF%AA%E6%8B%9C%E9%85%8B%E9%95%BF%E5%9B%BD%E6%9D%9C%E6%8B%9C/@36.8030202,10.1472469,15a,75y,85.06h,88.43t/data=!3m7!1e1!3m5!1szFzC1-FVmd_szwl8JjRU1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5738456052816474%26panoid%3DzFzC1-FVmd_szwl8JjRU1A%26yaw%3D85.06438491808947!7i13312!8i6656!4m6!3m5!1s0x3e5f43496ad9c645:0xbde66e5084295162!8m2!3d25.2048493!4d55.2707828!16zL20vMDFmMDhy?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

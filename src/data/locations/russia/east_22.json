@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "russia",
+  "slug": "",
+  "title": "East of Russia", 
+  "coordinates": null,
+  "summary": "中国版图鸡眼睛旁边，俄罗斯滨海疆区。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "east_22_01",
+      "google_map_url": "https://www.google.com/maps/@44.6065296,132.7685131,103a,90y,223.56h,94.63t/data=!3m7!1e1!3m5!1sweaQh5OKPA59OQvGZsZfvg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.631587485113087%26panoid%3DweaQh5OKPA59OQvGZsZfvg%26yaw%3D223.5607924281073!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

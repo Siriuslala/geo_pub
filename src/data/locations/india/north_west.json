@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "North West of India", 
+  "coordinates": null,
+  "summary": "🇮🇳 印度西北部的旁遮普邦，使用旁遮普语，与印地语类似，但多了字母 ਨ、ਲ 和 ਅ 以及字母下方柔和曲线形状的变音符号。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_west_01",
+      "google_map_url": "https://www.google.com/maps/place/Bhagta+Bhai+Ka,+%E6%97%81%E9%81%AE%E6%99%AE%E9%82%A6+151206%E5%8D%B0%E5%BA%A6/@30.22391,74.9235874,237a,90y,124.57h,95.94t/data=!3m7!1e1!3m5!1slq4iwwY19OsSt2af2xSmYw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.9420999586783125%26panoid%3Dlq4iwwY19OsSt2af2xSmYw%26yaw%3D124.57160619259764!7i13312!8i6656!4m6!3m5!1s0x3910b6c5fae87531:0xa3e29a69a178c02e!8m2!3d30.4811084!4d75.0932352!16s%2Fm%2F010pczss?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "north_west_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/punjabi.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

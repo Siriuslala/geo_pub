@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "countrySlug": "india",
+  "slug": "",
+  "title": "West of India", 
+  "coordinates": null,
+  "summary": "印度西部的古吉拉特邦，使用古吉拉特语，字母比较瘦，没有顶部的横线。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "west_01",
+      "google_map_url": "https://www.google.com/maps/@22.8250533,70.8351905,71a,76.6y,81.32h,96.36t/data=!3m7!1e1!3m5!1sl37jU59cHudtceOETpdsBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.359617371403985%26panoid%3Dl37jU59cHudtceOETpdsBg%26yaw%3D81.31526556426489!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    },
+    {
+      "id": "west_02",
+      "google_map_url": "",
+      "local_image_path": "images/locations/india/gujarati.png",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}

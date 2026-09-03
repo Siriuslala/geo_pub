@@ -1,0 +1,25 @@
+{
+  "id": "",
+  "countrySlug": "argentina",
+  "slug": "",
+  "title": "North East of Argentina", 
+  "coordinates": null,
+  "summary": "阿根廷东北部。",
+  "minZoom": 4,
+  "tags": [],
+  "status": "published",
+  "streetViews": [
+    {
+      "id": "north_east_1_01",
+      "google_map_url": "https://www.google.com/maps/place/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E4%B8%9C%E7%88%AA%E5%93%87%E7%9C%81/@-31.4334476,-60.9195411,41a,90y,285.18h,94.7t/data=!3m7!1e1!3m5!1sqqVcczezsfFK6XrBLI1zHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.696192398275855%26panoid%3DqqVcczezsfFK6XrBLI1zHg%26yaw%3D285.1787943490251!7i16384!8i8192!4m6!3m5!1s0x2da393f79feeb5c5:0x1030bfbca7cb850!8m2!3d-7.5360639!4d112.2384017!16zL20vMDF2Zndk?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      "local_image_path": "",
+      "viewpoint": null,
+      "panoId": null,
+      "heading": null,
+      "pitch": null,
+      "fov": null,
+      "caption": null,
+      "alt": null
+    }
+  ]
+}
